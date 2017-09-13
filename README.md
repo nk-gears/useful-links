@@ -31,7 +31,7 @@ I have built this link of lists over the time, and it is made of resources I hav
 ## React
 
 - [React docs](https://facebook.github.io/react/docs/hello-world.html)
+- [List of curated resources from facebook/react](https://github.com/facebook/react/wiki/Complementary-Tools)
+- [Create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration
 
 - [CodeSandbox](https://codesandbox.io/) - Online React Playground
-
-- []() - 
