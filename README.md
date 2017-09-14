@@ -33,5 +33,11 @@ I have built this link of lists over the time, and it is made of resources I hav
 - [React docs](https://facebook.github.io/react/docs/hello-world.html)
 - [List of curated resources from facebook/react](https://github.com/facebook/react/wiki/Complementary-Tools)
 - [Create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration
-
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [React-bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks
+- [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
+- [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
+- [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
+- [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
+- [React-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
 - [CodeSandbox](https://codesandbox.io/) - Online React Playground
