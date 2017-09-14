@@ -41,3 +41,12 @@ I have built this link of lists over the time, and it is made of resources I hav
 - [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
 - [React-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
 - [CodeSandbox](https://codesandbox.io/) - Online React Playground
+
+## CSS Modules
+
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [Article on CSS Modules](https://glenmaddern.com/articles/css-modules)
+
+## React Native
+
+WIP
