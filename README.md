@@ -65,7 +65,18 @@ WIP
 - [Redux isn't slow, you're just doing it wrong - An optimization guide](http://reactrocket.com/post/react-redux-optimization/)
 - [Scaling your Redux App with ducks](https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be)
 - [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
-- [Unit Testing a React Redux App](https://giamir.com/unit-testing-a-react-redux-app)
 - [Using Redux DevTools in production](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f#.oznhybgta)
 - [Introducing Redux VCR](https://medium.com/@joshuawcomeau/introducing-redux-vcr-cad57b37540a)
 - [Redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - A bug reporter and bug playback tool for redux
+
+## Jest
+
+- [Jest docs](https://facebook.github.io/jest/)
+- [How to Test React Components Using Jest](https://www.sitepoint.com/test-react-components-jest/)
+- [The Right Way to test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22#.bjitu9xkf)
+- [How to Snapshot Test Everything in Your Redux App With Jest](https://hackernoon.com/how-to-snapshot-test-everything-in-your-redux-app-with-jest-fde305ebedea)
+- [Unit Testing a React Redux App](https://giamir.com/unit-testing-a-react-redux-app)
+- [Low effort, high value. Integration tests in Redux apps](https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5#.pya7gx9fr)
+- [Redux Testing Step by Step: A Simple Methodology for Testing Business Logic](https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce)
+- [React-fake-props](https://github.com/typicode/react-fake-props) - Automatically generate fake props for your React tests (Jest, Enzyme, ...)
+- [Jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest
