@@ -50,3 +50,13 @@ I have built this link of lists over the time, and it is made of resources I hav
 ## React Native
 
 WIP
+
+## Redux
+
+- [Redux docs](http://redux.js.org/docs/introduction/index.html)
+- [Getting Started with Redux - Course by @dan_abramov @eggheadio](https://egghead.io/series/getting-started-with-redux)
+- [Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/)
+- [Idiomatic Redux: The Tao of Redux, Part 2 - Practice and Philosophy](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/)
+- [Redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
+- [React-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links Mark Erikson has collected on React, Redux, ES6, and more
+- [Awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
