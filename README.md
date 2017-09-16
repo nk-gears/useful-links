@@ -16,8 +16,8 @@ I have built this link of lists over the time, and it is made of resources I hav
 ## Javascript
 
 - [Mozilla re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-- [A Beginner’s Guide to Currying in Functional JavaScript](https://www.sitepoint.com/currying-in-functional-javascript/)
 - [Javascript Without Loops](https://jrsinclair.com/articles/2017/javascript-without-loops/)
+- [A Beginner’s Guide to Currying in Functional JavaScript](https://www.sitepoint.com/currying-in-functional-javascript/)
 - [How I rediscovered my love for JavaScript after throwing 90% of it in the trash](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
 - [EcmaScript 6 Features](http://es6-features.org/)
 - [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
