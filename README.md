@@ -2,7 +2,8 @@ I have gathered this link of lists over the time, and it is made of resources I 
 
 ## Tools
 
-- [Unsplash](https://unsplash.com/) - Bank of beautiful, high resolution, free (and free of rights) images
+- [Unsplash](https://unsplash.com/) - Collection of beautiful, high resolution, free (and free of rights) images
+- [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
 - [Transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Regexr](https://regexr.com/) - Regex validator / tutorials
