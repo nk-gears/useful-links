@@ -39,6 +39,7 @@ I have built this link of lists over the time, and it is made of resources I hav
 - [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
 - [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
 - [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
+- [React-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes
 - [React-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
 - [CodeSandbox](https://codesandbox.io/) - Online React Playground
 
@@ -89,3 +90,7 @@ WIP
 - [Source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin)
 - [Sw-precache-webpack-plugin](https://github.com/goldhand/sw-precache-webpack-plugin) - Webpack plugin that generates a service worker using sw-precache that will cache webpack's bundles' emitted assets
+
+## Redux-form
+
+[Redux-form docs](http://redux-form.com/)
