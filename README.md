@@ -80,3 +80,12 @@ WIP
 - [Redux Testing Step by Step: A Simple Methodology for Testing Business Logic](https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce)
 - [React-fake-props](https://github.com/typicode/react-fake-props) - Automatically generate fake props for your React tests (Jest, Enzyme, ...)
 - [Jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest
+
+## Webpack
+
+- [Webpack docs](https://webpack.js.org/concepts/)
+- [Long-term caching of static assets with Webpack](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95)
+- [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/) - Visualize your bundles
+- [Source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
+- [Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin)
+- [Sw-precache-webpack-plugin](https://github.com/goldhand/sw-precache-webpack-plugin) - Webpack plugin that generates a service worker using sw-precache that will cache webpack's bundles' emitted assets
