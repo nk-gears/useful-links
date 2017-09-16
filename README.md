@@ -65,3 +65,7 @@ WIP
 - [Redux isn't slow, you're just doing it wrong - An optimization guide](http://reactrocket.com/post/react-redux-optimization/)
 - [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 - [Unit Testing a React Redux App](https://giamir.com/unit-testing-a-react-redux-app)
+- [Scaling your Redux App with ducks](https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be)
+- [Using Redux DevTools in production](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f#.oznhybgta)
+- [Introducing Redux VCR](https://medium.com/@joshuawcomeau/introducing-redux-vcr-cad57b37540a)
+- [Redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - A bug reporter and bug playback tool for redux
