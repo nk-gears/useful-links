@@ -1,4 +1,4 @@
-I have built this link of lists over the time, and it is made of resources I have found helpful or worth remembering.
+I have gathered this link of lists over the time, and it is made of resources I have found helpful or worth remembering.
 
 ## Tools
 
