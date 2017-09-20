@@ -9,11 +9,6 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Regexr](https://regexr.com/) - Regex validator / tutorials
 - [Regex101](https://regex101.com/) - Regex validator / tutorials
 
-## Devtools
-
-- [Sizzy](https://github.com/kitze/sizzy) - A tool for developing responsive websites crazy-fast
-- [How to Use Mobile Emulation Mode in Chrome](https://www.sitepoint.com/how-to-simulate-mobile-devices-with-device-mode-in-chrome/)
-
 ## Javascript
 
 - [Mozilla re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
