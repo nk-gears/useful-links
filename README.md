@@ -94,4 +94,17 @@ WIP
 
 ## Redux-form
 
-[Redux-form docs](http://redux-form.com/)
+- [Redux-form docs](http://redux-form.com/)
+
+## Useful/promising libs
+
+- [React components & libraries](https://devarchy.com/react)
+- [JS.coach](https://js.coach/)
+- [React-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [React-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines
+- [React-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached
+- [React-blur-image-loader](https://github.com/MarkoCen/react-blur-image-loader) - Blurred progressive image loader for React
+- [React-log](https://github.com/diegomura/react-log) - React for the Console
+- [React-mosaic](https://github.com/palantir/react-mosaic) - A React tiling window manager
+- [React-detect-offline](https://github.com/chrisbolin/react-detect-offline) - Offline and Online components for React
+- [Upload](https://github.com/navjobs/upload) - Higher order React components for file uploading (with progress) react file upload
