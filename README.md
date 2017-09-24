@@ -106,6 +106,7 @@ WIP
 - [Upload](https://github.com/navjobs/upload) - Higher order React components for file uploading (with progress) react file upload
 - [React-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in `<Components/>`, `<Components/>` in **Markdown**
 - [React-slidez](https://github.com/pau1fitz/react-slidez) - React Slideshow Component
+- [React-virtualised](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 
 ## Server Side Rendering
 
@@ -132,6 +133,38 @@ WIP
 - [Learning Next.js to build server rendered JS web apps with React](https://learnnextjs.com/)
 - [Lessons Learned Building in Next.js](https://medium.com/@diamondgfx/nextjs-lessons-learned-part-1-a5a8d442450f)
 - [Create-react-next-app](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command
+
+## Performances (and SEO)
+
+### User-side
+
+- [The Illusion of Speed](https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/)
+
+### Browser-side
+
+- [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+- [The Critical Request](https://css-tricks.com/the-critical-request/)
+- [Performance Analysis Reference](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference)
+- [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
+- [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+- [Optimising the front end for the browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
+- [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
+- [Step Your Meta Game Up](https://dev.to/rpalo/step-your-meta-game-up)
+- [Web fonts: when you need them, when you don’t](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
+
+### React-side
+
+- [Infinite List and React](http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### PWAs
+
+- [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
 ## Electron
 
