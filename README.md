@@ -9,6 +9,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Regexr](https://regexr.com/) - Regex validator / tutorials
 - [Regex101](https://regex101.com/) - Regex validator / tutorials
+- [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
 
 ## Javascript
 
