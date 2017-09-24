@@ -93,6 +93,8 @@ WIP
 
 ## Useful/promising libs
 
+### React
+
 - [React components & libraries](https://devarchy.com/react)
 - [JS.coach](https://js.coach/)
 - [React-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes
@@ -107,6 +109,10 @@ WIP
 - [React-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in `<Components/>`, `<Components/>` in **Markdown**
 - [React-slidez](https://github.com/pau1fitz/react-slidez) - React Slideshow Component
 - [React-virtualised](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
+
+### Javascript
+
+- [TypewriterJS](https://safi.me.uk/typewriterjs/)
 
 ## Server Side Rendering
 
@@ -139,6 +145,7 @@ WIP
 ### User-side
 
 - [The Illusion of Speed](https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/)
+- [Designing for the Appearance of Speed](https://medium.com/mobify-design-team/designing-for-the-appearance-of-speed-aaabc7f568c2)
 
 ### Browser-side
 
@@ -176,6 +183,13 @@ WIP
 - [Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/)
 - [Page Weight by Imgx](https://pageweight.imgix.com/)
 
+## Animations
+
+- [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29)
+- [Lottie](https://airbnb.design/lottie/)
+- [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
+
 ## Electron
 
 - [From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
+
