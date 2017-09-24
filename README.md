@@ -35,7 +35,6 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
 - [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
 - [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
-- [React-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes
 - [React-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
 - [CodeSandbox](https://codesandbox.io/) - Online React Playground
 
@@ -95,6 +94,7 @@ WIP
 
 - [React components & libraries](https://devarchy.com/react)
 - [JS.coach](https://js.coach/)
+- [React-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes
 - [React-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [React-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines
 - [React-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached
@@ -106,6 +106,8 @@ WIP
 
 ## Server Side Rendering
 
+### Articles
+
 - [You might (not) need a Server Side Rendering framework](https://adrienharnay.me/you-might-not-need-a-server-side-rendering-framework/)
 - [Server-Side Rendering and Code Splitting with React-Router 4 and Webpack 2](https://blog.emilecantin.com/web/react/javascript/2017/05/16/ssr-react-router-4-webpack-code-split.html)
 - [An Almost Static Stack](https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319)
@@ -113,8 +115,15 @@ WIP
 - [Server-Render like a Pro /w Redux-First Router in 10 steps](https://medium.com/faceyspacey/server-render-like-a-pro-w-redux-first-router-in-10-steps-b27dd93859de)
 - [ReactCasts #13 - Server Side Rendering: Data Fetching & Routing](https://www.youtube.com/watch?feature=youtu.be&v=duhudXkHRf4&a=&app=desktop)
 - [Server Rendering - Redux](http://redux.js.org/docs/recipes/ServerRendering.html)
+
+### Boilerplates
+
+- [Ssr-starter-pack](https://github.com/Zephir77167/ssr-starter-pack) - A starter pack to help you implement your handmade solution for SSR
 - [React-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
 - [React-isomorphic-render (notes on performances)](https://github.com/catamphetamine/react-isomorphic-render/blob/master/PERFORMANCE.md) - Isomorphic rendering with React, Redux, React-router
+
+### Frameworks
+
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Blazing fast static site generator for React
 - [Next.js](https://github.com/zeit/next.js) - Framework for server-rendered React apps
 - [Learning Next.js to build server rendered JS web apps with React](https://learnnextjs.com/)
