@@ -29,6 +29,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 - [React docs](https://facebook.github.io/react/docs/hello-world.html)
 - [List of curated resources from facebook/react](https://github.com/facebook/react/wiki/Complementary-Tools)
+- [Lifecycle Simulators](https://reactarmory.com/guides/lifecycle-simulators)
 - [Create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [React-bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks
@@ -174,6 +175,8 @@ WIP
 ### Progressive Web Apps
 
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
+- [How to turn your website into a PWA](https://mxb.at/blog/how-to-turn-your-website-into-a-pwa/)
+- [A React And Preact Progressive Web App Performance Case Study: Treebo](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
 
 ### Benchmarks
 
