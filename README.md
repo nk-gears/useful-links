@@ -105,6 +105,7 @@ WIP
 - [React-detect-offline](https://github.com/chrisbolin/react-detect-offline) - Offline and Online components for React
 - [Upload](https://github.com/navjobs/upload) - Higher order React components for file uploading (with progress) react file upload
 - [React-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in `<Components/>`, `<Components/>` in **Markdown**
+- [React-slidez](https://github.com/pau1fitz/react-slidez) - React Slideshow Component
 
 ## Server Side Rendering
 
