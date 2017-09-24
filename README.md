@@ -103,3 +103,20 @@ WIP
 - [React-mosaic](https://github.com/palantir/react-mosaic) - A React tiling window manager
 - [React-detect-offline](https://github.com/chrisbolin/react-detect-offline) - Offline and Online components for React
 - [Upload](https://github.com/navjobs/upload) - Higher order React components for file uploading (with progress) react file upload
+
+## Server Side Rendering
+
+- [You might (not) need a Server Side Rendering framework](https://adrienharnay.me/you-might-not-need-a-server-side-rendering-framework/)
+- [Server-Side Rendering and Code Splitting with React-Router 4 and Webpack 2](https://blog.emilecantin.com/web/react/javascript/2017/05/16/ssr-react-router-4-webpack-code-split.html)
+- [An Almost Static Stack](https://medium.com/superhighfives/an-almost-static-stack-6df0a2791319)
+- [Code Cracked for Code-Splitting + SSR in Reactlandia: React Universal Component + Webpack Flush Chunks and more](https://medium.com/faceyspacey/code-cracked-for-code-splitting-ssr-in-reactlandia-react-loadable-webpack-flush-chunks-and-1a6b0112a8b8)
+- [Server-Render like a Pro /w Redux-First Router in 10 steps](https://medium.com/faceyspacey/server-render-like-a-pro-w-redux-first-router-in-10-steps-b27dd93859de)
+- [ReactCasts #13 - Server Side Rendering: Data Fetching & Routing](https://www.youtube.com/watch?feature=youtu.be&v=duhudXkHRf4&a=&app=desktop)
+- [Server Rendering - Redux](http://redux.js.org/docs/recipes/ServerRendering.html)
+- [React-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
+- [React-isomorphic-render (notes on performances)](https://github.com/catamphetamine/react-isomorphic-render/blob/master/PERFORMANCE.md) - Isomorphic rendering with React, Redux, React-router
+- [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Blazing fast static site generator for React
+- [Next.js](https://github.com/zeit/next.js) - Framework for server-rendered React apps
+- [Learning Next.js to build server rendered JS web apps with React](https://learnnextjs.com/)
+- [Lessons Learned Building in Next.js](https://medium.com/@diamondgfx/nextjs-lessons-learned-part-1-a5a8d442450f)
+- [Create-react-next-app](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command
