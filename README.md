@@ -235,5 +235,17 @@ WIP
 
 ### Others
  
- - [FRENCH - 5 raisons de rejoindre une startup très early stage](https://www.welcometothejungle.co/articles/cinq-raisons-de-rejoindre-une-startup-early-stage)
- - [FRENCH - Pourquoi nous sommes 100% transparents sur les salaires de nos employés](https://www.maddyness.com/finance/2017/06/25/maddyrex-pourquoi-grille-salaire-ouverte/)
+- [FRENCH - 5 raisons de rejoindre une startup très early stage](https://www.welcometothejungle.co/articles/cinq-raisons-de-rejoindre-une-startup-early-stage)
+- [FRENCH - Pourquoi nous sommes 100% transparents sur les salaires de nos employés](https://www.maddyness.com/finance/2017/06/25/maddyrex-pourquoi-grille-salaire-ouverte/)
+ 
+## Job hunting / Freelance (mainly for french people)
+ 
+- [Crème de la crème](https://cremedelacreme.io/)
+- [Talent.io](https://www.talent.io/)
+- [Flaiiir.io](http://flaiir.io/)
+- [Hired](https://fr.hired.com/)
+- [JobGlober](https://www.jobglober.com/landing/index.php)
+- [FiftyTalents](https://www.fiftytalents.com/fr)
+- [FreelanceRepublik](https://www.freelancerepublik.com/)
+- [Front end developer jobs](http://frontenddeveloperjob.com/)
+- [JobTeaser](https://epitech.jobteaser.com/fr/users/sign_in?back_to_after_login=%2Ffr)
