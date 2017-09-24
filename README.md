@@ -200,14 +200,14 @@ WIP
 
 ## Blog posts
 
-### Aboout software
+### Software insights
 
 - [Buggy Software, Loyal Users: Why Bug Reporting is Key To User Retention](https://dev.to/itamarst/buggy-software-loyal-users-why-bug-reporting-is-key-to-user-retention)
 - [User Tests Will Make You a Better Developer](https://dev.to/aprilwensel/user-tests-will-make-you-a-better-developer)
 - [Don't leave broken windows](https://dev.to/raulavila/dont-leave-broken-windows)
 - [Code Rot](https://henrikwarne.com/2017/04/28/code-rot/)
 
-### About being a developer
+### Being a developer
 
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
 - [When programming was no longer fun](https://dev.to/carlhembrough/programming-used-to-be-fun)
@@ -217,7 +217,23 @@ WIP
 - [How I Became a Better Programmer](http://jlongster.com/How-I-Became-Better-Programmer)
 - [What Makes A Senior Software Engineer](https://dev.to/klnusbaum/what-makes-a-senior-software-engineer)
 - [On Senior Engineers](https://dev.to/bhilburn/on-senior-engineers)
+- [What fonts do you use in your editor(s)?](https://dev.to/jess/what-fonts-do-you-use-in-your-editors)
 
- ### Others
+### Leadership / Teaching
+
+- [11 Best Ways to Improve Your Emotional Intelligence](https://dev.to/lpasqualis/11-best-ways-to-improve-your-emotional-intelligence/)
+- [Onboarding New Developers](https://dev.to/codemouse92/onboarding-new-developers)
+- [How to Set the Technical Direction for Your Team](https://dev.to/jlhcoder/how-to-set-the-technical-direction-for-your-team)
+- [#2 CTO Digest — Growing up](https://medium.com/@jeanlebrument/2-cto-digest-growing-up-29a770ea8c2d)
+- [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
+- [Managers and Seagulls](https://retrospective.co/seagulls/)
+
+### Coding interviews
+
+- [How NOT to succeed in your 45-minute coding interview](https://dev.to/fahimulhaq/how-not-to-succeed-in-your-45-minute-coding-interview)
+- [React Interview Questions](https://dev.to/tylermcginnis/react-interview-questions)
+
+### Others
  
- - [5 raisons de rejoindre une startup très early stage (french)](https://www.welcometothejungle.co/articles/cinq-raisons-de-rejoindre-une-startup-early-stage)
+ - [FRENCH - 5 raisons de rejoindre une startup très early stage](https://www.welcometothejungle.co/articles/cinq-raisons-de-rejoindre-une-startup-early-stage)
+ - [FRENCH - Pourquoi nous sommes 100% transparents sur les salaires de nos employés](https://www.maddyness.com/finance/2017/06/25/maddyrex-pourquoi-grille-salaire-ouverte/)
