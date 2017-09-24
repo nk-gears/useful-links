@@ -132,3 +132,7 @@ WIP
 - [Learning Next.js to build server rendered JS web apps with React](https://learnnextjs.com/)
 - [Lessons Learned Building in Next.js](https://medium.com/@diamondgfx/nextjs-lessons-learned-part-1-a5a8d442450f)
 - [Create-react-next-app](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command
+
+## Electron
+
+- [From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
