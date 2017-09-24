@@ -198,3 +198,24 @@ WIP
 
 - [From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
 
+## Blog posts
+
+### Aboout software
+
+- [Buggy Software, Loyal Users: Why Bug Reporting is Key To User Retention](https://dev.to/itamarst/buggy-software-loyal-users-why-bug-reporting-is-key-to-user-retention)
+- [User Tests Will Make You a Better Developer](https://dev.to/aprilwensel/user-tests-will-make-you-a-better-developer)
+- [Don't leave broken windows](https://dev.to/raulavila/dont-leave-broken-windows)
+- [Code Rot](https://henrikwarne.com/2017/04/28/code-rot/)
+
+### About being a developer
+
+- [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
