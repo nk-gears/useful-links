@@ -154,6 +154,7 @@ WIP
 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 - [The Critical Request](https://css-tricks.com/the-critical-request/)
 - [Performance Analysis Reference](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference)
+- [How to Simulate Mobile Devices with Device Mode in Chrome](https://www.sitepoint.com/how-to-simulate-mobile-devices-with-device-mode-in-chrome/)
 - [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Optimising the front end for the browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
