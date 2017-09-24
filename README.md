@@ -171,7 +171,7 @@ WIP
 - [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178)
 - [Perf-hoc](https://github.com/viktorbergehall/perf-hoc) - Visualize and detect unnecessary rendering and performance issues in React
 
-### PWAs
+### Progressive Web Apps
 
 - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
