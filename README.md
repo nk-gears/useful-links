@@ -4,6 +4,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 - [Unsplash](https://unsplash.com/) - Collection of beautiful, high resolution, free (and free of rights) images
 - [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
+- [A Soft Murmur](http://asoftmurmur.com/) - Ambient sounds to wash away distraction
 - [Transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Regexr](https://regexr.com/) - Regex validator / tutorials
