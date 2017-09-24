@@ -210,12 +210,14 @@ WIP
 ### About being a developer
 
 - [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [When programming was no longer fun](https://dev.to/carlhembrough/programming-used-to-be-fun)
+- [Rituals of Shaming in the Software Industry](https://dev.to/pavsaund/rituals-of-shaming-in-the-software-industry)
+- [Office distractions could be costing your company more than $30k per high-performance employee each year](https://hackernoon.com/office-distractions-could-be-costing-your-company-more-than-30k-per-high-performance-employee-each-ba7e4f772d78)
+- [The obligation of a software developer](https://dev.to/steliosvoskos/the-obligation-of-a-software-developer)
+- [How I Became a Better Programmer](http://jlongster.com/How-I-Became-Better-Programmer)
+- [What Makes A Senior Software Engineer](https://dev.to/klnusbaum/what-makes-a-senior-software-engineer)
+- [On Senior Engineers](https://dev.to/bhilburn/on-senior-engineers)
+
+ ### Others
+ 
+ - [5 raisons de rejoindre une startup très early stage (french)](https://www.welcometothejungle.co/articles/cinq-raisons-de-rejoindre-une-startup-early-stage)
