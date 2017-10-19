@@ -241,6 +241,7 @@ WIP
  
 ## Job hunting / Freelance (mainly for french people)
  
+- [Stack Overflow: Calculate your salary](https://stackoverflow.com/jobs/salary)
 - [Crème de la crème](https://cremedelacreme.io/)
 - [Talent.io](https://www.talent.io/)
 - [Flaiiir.io](http://flaiir.io/)
