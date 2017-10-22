@@ -111,6 +111,7 @@ WIP
 - [React-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in `<Components/>`, `<Components/>` in **Markdown**
 - [React-slidez](https://github.com/pau1fitz/react-slidez) - React Slideshow Component
 - [React-virtualised](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
+- [React-reveal](https://github.com/rnosov/react-reveal?utm_content=buffera7c8a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Easily add reveal on scroll animations to your React app
 
 ### Javascript
 
