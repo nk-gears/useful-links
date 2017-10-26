@@ -26,6 +26,8 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 - [Margin or padding?](https://hackernoon.com/margin-or-padding-f5252562313)
 - [Float labels with CSS](https://css-tricks.com/float-labels-css)
+- [Moving letters](http://tobiasahlin.com/moving-letters/)
+- [Single element CSS spinners](https://projects.lukehaas.me/css-loaders/)
 
 ## React
 
