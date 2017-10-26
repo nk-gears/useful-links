@@ -116,11 +116,13 @@ WIP
 
 ### Webpack
 
+- [Webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 - [Image-trace-loader](https://github.com/EmilTholin/image-trace-loader) - Loads images and exports traced outlines as image/svg+xml URL-encoded data
 
 ### Javascript
 
-- [TypewriterJS](https://safi.me.uk/typewriterjs/)
+- [Testcheck-js](https://github.com/leebyron/testcheck-js) - Generative testing for JavaScript
+- [TypewriterJS](https://github.com/tameemsafi/typewriterjs) - A simple yet powerful native javascript plugin for a cool typewriter effect
 
 ## Server Side Rendering
 
