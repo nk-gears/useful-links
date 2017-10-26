@@ -114,6 +114,10 @@ WIP
 - [React-reveal](https://github.com/rnosov/react-reveal?utm_content=buffera7c8a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Easily add reveal on scroll animations to your React app
 - [React-ab-test](https://github.com/pushtell/react-ab-test) - A/B testing React components and debug tools. Isomorphic with a simple, universal interface
 
+### Webpack
+
+- [Image-trace-loader](https://github.com/EmilTholin/image-trace-loader) - Loads images and exports traced outlines as image/svg+xml URL-encoded data
+
 ### Javascript
 
 - [TypewriterJS](https://safi.me.uk/typewriterjs/)
