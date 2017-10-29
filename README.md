@@ -264,3 +264,7 @@ WIP
 - [FreelanceRepublik](https://www.freelancerepublik.com/)
 - [Front end developer jobs](http://frontenddeveloperjob.com/)
 - [JobTeaser](https://epitech.jobteaser.com/fr/users/sign_in?back_to_after_login=%2Ffr)
+
+## Personal achievements
+
+- [React Top 10 Articles of Oct 2017](https://medium.com/@Mybridge/react-top-10-articles-for-the-past-month-v-oct-2017-b9f64eb926ab) - #8
