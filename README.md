@@ -11,6 +11,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Regex101](https://regex101.com/) - Regex validator / tutorials
 - [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser
 - [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
+- [IFTTT](https://ifttt.com/) - Applets linked to the services you love
 
 ## Javascript
 
