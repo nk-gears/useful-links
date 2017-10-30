@@ -22,6 +22,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [EcmaScript 6 Features](http://es6-features.org/)
 - [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 - [AirBnB Javascript styleguide](https://github.com/airbnb/javascript)
+- [Import-codemod](https://github.com/jongold/import-codemod) - Flexible codemod for moving around imports
 
 ## CSS
 
