@@ -13,6 +13,10 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
 - [IFTTT](https://ifttt.com/) - Applets linked to the services you love
 
+## Git
+
+- [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+
 ## Javascript
 
 - [Mozilla re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
