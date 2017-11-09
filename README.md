@@ -28,6 +28,10 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [AirBnB Javascript styleguide](https://github.com/airbnb/javascript)
 - [Import-codemod](https://github.com/jongold/import-codemod) - Flexible codemod for moving around imports
 
+## Node
+
+- [Node best practices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+
 ## CSS
 
 - [Margin or padding?](https://hackernoon.com/margin-or-padding-f5252562313)
