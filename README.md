@@ -148,6 +148,7 @@ WIP
 - [Server-Render like a Pro /w Redux-First Router in 10 steps](https://medium.com/faceyspacey/server-render-like-a-pro-w-redux-first-router-in-10-steps-b27dd93859de)
 - [ReactCasts #13 - Server Side Rendering: Data Fetching & Routing](https://www.youtube.com/watch?feature=youtu.be&v=duhudXkHRf4&a=&app=desktop)
 - [Server Rendering - Redux](http://redux.js.org/docs/recipes/ServerRendering.html)
+- [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 
 ### Boilerplates
 
