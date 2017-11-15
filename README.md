@@ -191,6 +191,7 @@ WIP
 - [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 - [React at Light Speed](https://blog.vixlet.com/react-at-light-speed-78cd172a6411?gi=3765f3a19d80)
 - [Using Purecomponent To Prevent Wasted Renders In React](https://ashishchaudhary.in/using-purecomponent-to-prevent-wasted-renders-in-react)
+- [Optimize React Performance](https://www.quora.com/Is-there-any-difference-between-optimization-and-optimisation)
 - [High Performance React: 3 New Tools to Speed Up Your Apps](https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82)
 - [Two Tips to Improve Performance by 30% With React and Webpack](http://engineering.teacherspayteachers.com/2017/08/16/two-tips-to-improve-performance-by-30-with-react-and-webpack.html)
 - [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178)
