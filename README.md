@@ -38,6 +38,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Float labels with CSS](https://css-tricks.com/float-labels-css)
 - [Moving letters](http://tobiasahlin.com/moving-letters/)
 - [Single element CSS spinners](https://projects.lukehaas.me/css-loaders/)
+- [Creating a Loading Placeholder with Sass](https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/)
 
 ## React
 
