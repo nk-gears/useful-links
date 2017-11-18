@@ -115,6 +115,7 @@ WIP
 - [JS.coach](https://js.coach/)
 - [React-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes
 - [React-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [React-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
 - [React-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines
 - [React-perimeter](https://github.com/aweary/react-perimeter) - Create an invisible perimeter around an element and respond when its breached
 - [React-blur-image-loader](https://github.com/MarkoCen/react-blur-image-loader) - Blurred progressive image loader for React
