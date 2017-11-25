@@ -129,6 +129,7 @@ WIP
 - [React-reveal](https://github.com/rnosov/react-reveal) - Easily add reveal on scroll animations to your React app
 - [React-ab-test](https://github.com/pushtell/react-ab-test) - A/B testing React components and debug tools. Isomorphic with a simple, universal interface
 - [React-component-benchmarl](https://github.com/paularmstrong/react-component-benchmark) - A component to help benchmark React components and their trees
+- [React-chartkick](https://github.com/ankane/react-chartkick) - Create beautiful JavaScript charts with one line of React
 
 ### Webpack
 
