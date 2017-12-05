@@ -258,6 +258,10 @@ WIP
 - [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Managers and Seagulls](https://retrospective.co/seagulls/)
 
+## Events
+
+- [I’ve spoken at JSConf and so can you!](https://medium.com/@a.sandrina.p/ive-spoken-at-jsconf-and-so-can-you-a9d92c1439a6)
+
 ### Coding interviews
 
 - [How NOT to succeed in your 45-minute coding interview](https://dev.to/fahimulhaq/how-not-to-succeed-in-your-45-minute-coding-interview)
