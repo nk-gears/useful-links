@@ -263,6 +263,10 @@ WIP
 - [How NOT to succeed in your 45-minute coding interview](https://dev.to/fahimulhaq/how-not-to-succeed-in-your-45-minute-coding-interview)
 - [React Interview Questions](https://dev.to/tylermcginnis/react-interview-questions)
 
+## Resumes
+
+- [Intermediate to senior dev resume](https://dev.to/mozoobear/intermediate-to-senior-dev-resume-3bh)
+
 ### Others
  
 - [FRENCH - 5 raisons de rejoindre une startup très early stage](https://www.welcometothejungle.co/articles/cinq-raisons-de-rejoindre-une-startup-early-stage)
