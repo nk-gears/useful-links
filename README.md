@@ -62,7 +62,8 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 ## React Native
 
-WIP
+- [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html)
+- [Create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config
 
 ## Redux
 
