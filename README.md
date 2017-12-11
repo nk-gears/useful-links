@@ -63,6 +63,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 ## React Native
 
 - [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html)
+- [Awesome React Native](http://www.awesome-react-native.com/) - An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more
 - [Create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config
 
 ## Redux
