@@ -218,6 +218,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [Test My Site With Google](https://testmysite.withgoogle.com/intl/fr-fr)
+- [Real User Experience Test](https://ruxt.dexecure.com/)
 - [Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/)
 - [Page Weight by Imgx](https://pageweight.imgix.com/)
 
