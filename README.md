@@ -231,6 +231,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 ## Electron
 
 - [From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
+- [Building Electron Apps with Next.js](https://leo.im/2017/electron-next)
 
 ## Blog posts
 
