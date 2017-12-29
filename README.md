@@ -113,7 +113,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL
 - [Apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist) - Simple persistence for all Apollo Cache implementations
 - [Apollo-codegen](https://github.com/apollographql/apollo-codegen) - Generate API code or type annotations based on a GraphQL schema and query documents
-- []() - 
+- [Yaba-social](https://github.com/allpwrfulroot/yaba-social) - Yet Another Boilerplate App showing off react-navigation and the excellent new tools from Apollo
 
 ## Jest
 
