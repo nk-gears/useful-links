@@ -85,6 +85,12 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Introducing Redux VCR](https://medium.com/@joshuawcomeau/introducing-redux-vcr-cad57b37540a)
 - [Redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - A bug reporter and bug playback tool for redux
 
+## GraphQL
+
+- [GraphQL docs](http://graphql.org/learn/)
+- [GraphiQL](http://graphql.org/swapi-graphql/) - In-browser IDE for writing, validating, and testing GraphQL queries
+- [React-appolo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
+
 ## Jest
 
 - [Jest docs](https://facebook.github.io/jest/)
