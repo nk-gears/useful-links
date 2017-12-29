@@ -90,6 +90,19 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [GraphQL docs](http://graphql.org/learn/)
 - [GraphiQL](http://graphql.org/swapi-graphql/) - In-browser IDE for writing, validating, and testing GraphQL queries
 - [A Front-End Developer's Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
+
+### Relay vs Apollo
+
+- [Choosing a GraphQL Client: Apollo vs. Relay](https://www.codazen.com/choosing-graphql-client-apollo-vs-relay/)
+- [Relay vs Apollo](https://blog.graph.cool/relay-vs-apollo-comparing-graphql-clients-for-react-apps-b40af58c1534) - From the [Graphcool](https://www.graph.cool/) team
+- [Upgrading to Relay Modern or Apollo](https://medium.com/@wonderboymusic/upgrading-to-relay-modern-or-apollo-ffa58d3a5d59) - From the [New-York Times](https://github.com/NYTimes) team
+
+### Relay Modern
+
+- [Exploring Relay Modern](https://dev-blog.apollodata.com/exploring-relay-modern-276f5965f827)
+
+### Apollo
+
 - [React-appolo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
 
 ## Jest
