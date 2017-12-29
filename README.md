@@ -90,6 +90,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [GraphQL docs](http://graphql.org/learn/)
 - [GraphiQL](http://graphql.org/swapi-graphql/) - In-browser IDE for writing, validating, and testing GraphQL queries
 - [A Front-End Developer's Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
+- [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 
 ### Relay vs Apollo
 
@@ -104,9 +105,15 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 ### Apollo
 
-- [React-apollo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
+- [Apollo docs](https://www.apollographql.com/docs/react/index.html)
 - [Apollo Client 2.0: Beyond GraphQL APIs](https://dev-blog.apollodata.com/apollo-client-2-0-beyond-graphql-apis-888807b53afe) - From the [Apollo](https://github.com/apollographql) team
 - [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2) - From the [Apollo](https://github.com/apollographql) team
+- [React-apollo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
+- [Apollo-link-state](https://github.com/apollographql/apollo-link-state) - Manage your application state with Apollo!
+- [Apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL
+- [Apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist) - Simple persistence for all Apollo Cache implementations
+- [Apollo-codegen](https://github.com/apollographql/apollo-codegen) - Generate API code or type annotations based on a GraphQL schema and query documents
+- []() - 
 
 ## Jest
 
