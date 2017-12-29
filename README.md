@@ -99,11 +99,14 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 ### Relay Modern
 
+- [Relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications
 - [Exploring Relay Modern](https://dev-blog.apollodata.com/exploring-relay-modern-276f5965f827)
 
 ### Apollo
 
-- [React-appolo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
+- [React-apollo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
+- [Apollo Client 2.0: Beyond GraphQL APIs](https://dev-blog.apollodata.com/apollo-client-2-0-beyond-graphql-apis-888807b53afe) - From the [Apollo](https://github.com/apollographql) team
+- [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2) - From the [Apollo](https://github.com/apollographql) team
 
 ## Jest
 
