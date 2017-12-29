@@ -89,6 +89,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 - [GraphQL docs](http://graphql.org/learn/)
 - [GraphiQL](http://graphql.org/swapi-graphql/) - In-browser IDE for writing, validating, and testing GraphQL queries
+- [A Front-End Developer's Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 - [React-appolo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
 
 ## Jest
