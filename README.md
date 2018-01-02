@@ -299,17 +299,21 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [The Work Required To Have An Opinion](https://www.farnamstreetblog.com/2013/04/the-work-required-to-have-an-opinion/)
 - [Proximate vs Root Causes: Why You Should Keep Digging to Find the Answer](https://www.farnamstreetblog.com/2017/05/proximate-vs-root-causes/)
 
-## Events
+### Events
 
 - [I’ve spoken at JSConf and so can you!](https://medium.com/@a.sandrina.p/ive-spoken-at-jsconf-and-so-can-you-a9d92c1439a6)
 - [5 Essential Ingredients for an Awesome Tech Talk](https://medium.com/@reverentgeek/5-essential-ingredients-for-an-awesome-tech-talk-2e5778b2cb5a)
+
+### Interviews
+
+- [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ### Coding interviews
 
 - [How NOT to succeed in your 45-minute coding interview](https://dev.to/fahimulhaq/how-not-to-succeed-in-your-45-minute-coding-interview)
 - [React Interview Questions](https://dev.to/tylermcginnis/react-interview-questions)
 
-## Resumes
+### Resumes
 
 - [Intermediate to senior dev resume](https://dev.to/mozoobear/intermediate-to-senior-dev-resume-3bh)
 
