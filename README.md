@@ -204,6 +204,8 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 ## Performances (and SEO)
 
+- [Front-end-checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
+
 ### User-side
 
 - [The Illusion of Speed](https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/)
