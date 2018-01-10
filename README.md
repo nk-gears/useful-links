@@ -12,6 +12,8 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser
 - [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
 - [IFTTT](https://ifttt.com/) - Applets linked to the services you love
+- [CodeSandbox]() - The online code editor for React
+- [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
 
 ## Git
 
