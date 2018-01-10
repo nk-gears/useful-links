@@ -163,6 +163,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [React-ab-test](https://github.com/pushtell/react-ab-test) - A/B testing React components and debug tools. Isomorphic with a simple, universal interface
 - [React-component-benchmarl](https://github.com/paularmstrong/react-component-benchmark) - A component to help benchmark React components and their trees
 - [React-chartkick](https://github.com/ankane/react-chartkick) - Create beautiful JavaScript charts with one line of React
+- [React-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique
 
 ### Webpack
 
