@@ -164,6 +164,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [React-component-benchmarl](https://github.com/paularmstrong/react-component-benchmark) - A component to help benchmark React components and their trees
 - [React-chartkick](https://github.com/ankane/react-chartkick) - Create beautiful JavaScript charts with one line of React
 - [React-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique
+- [React-show](https://github.com/react-tools/react-show) - React-Show - A 3kb show/hide component for React
 
 ### Webpack
 
