@@ -9,11 +9,11 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Regexr](https://regexr.com/) - Regex validator / tutorials
 - [Regex101](https://regex101.com/) - Regex validator / tutorials
+- [CodeSandbox]() - The online code editor for React
+- [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
 - [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser
 - [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
 - [IFTTT](https://ifttt.com/) - Applets linked to the services you love
-- [CodeSandbox]() - The online code editor for React
-- [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
 
 ## Git
 
@@ -138,9 +138,9 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin)
 - [Sw-precache-webpack-plugin](https://github.com/goldhand/sw-precache-webpack-plugin) - Webpack plugin that generates a service worker using sw-precache that will cache webpack's bundles' emitted assets
 
-## Redux-form
+## Webpack alternatives
 
-- [Redux-form docs](http://redux-form.com/)
+- [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 
 ## Useful/promising libs
 
