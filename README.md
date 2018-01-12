@@ -139,6 +139,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 
 ## Webpack alternatives
 
+- [Rollup](https://rollupjs.org/) - Next-generation ES6 module bundler
 - [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 
 ## Useful/promising libs
@@ -203,6 +204,8 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Learning Next.js to build server rendered JS web apps with React](https://learnnextjs.com/)
 - [Lessons Learned Building in Next.js](https://medium.com/@diamondgfx/nextjs-lessons-learned-part-1-a5a8d442450f)
 - [Create-react-next-app](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command
+- [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration
+- [React-server](https://github.com/redfin/react-server) - Blazing fast page load and seamless navigation
 
 ## Performances (and SEO)
 
