@@ -9,7 +9,7 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 - [Regexr](https://regexr.com/) - Regex validator / tutorials
 - [Regex101](https://regex101.com/) - Regex validator / tutorials
-- [CodeSandbox]() - The online code editor for React
+- [CodeSandbox](https://codesandbox.io/) - The online code editor for React
 - [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
 - [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser
 - [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
@@ -50,12 +50,11 @@ I have gathered this list of links over the time, and it is made of resources I 
 - [Create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [React-bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks
-- [Index as a key is an anti-pattern](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
 - [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
 - [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
 - [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
 - [React-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
-- [CodeSandbox](https://codesandbox.io/) - Online React Playground
+- [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) - React 16 release retrospective
 
 ## CSS Modules
 
