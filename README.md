@@ -348,7 +348,11 @@ I have gathered this list of links over time, and it is made of resources I have
 * [The Work Required To Have An Opinion](https://www.farnamstreetblog.com/2013/04/the-work-required-to-have-an-opinion/)
 * [Proximate vs Root Causes: Why You Should Keep Digging to Find the Answer](https://www.farnamstreetblog.com/2017/05/proximate-vs-root-causes/)
 
-### Events
+### Writing articles
+
+* [The Two Minutes It Takes To Read This Will Improve Your Writing Forever](https://medium.com/an-idea-for-you/the-two-minutes-it-takes-to-read-this-will-improve-your-writing-forever-82a7d01441d1)
+
+### Speaking at events
 
 * [I’ve spoken at JSConf and so can you!](https://medium.com/@a.sandrina.p/ive-spoken-at-jsconf-and-so-can-you-a9d92c1439a6)
 * [5 Essential Ingredients for an Awesome Tech Talk](https://medium.com/@reverentgeek/5-essential-ingredients-for-an-awesome-tech-talk-2e5778b2cb5a)
