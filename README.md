@@ -13,6 +13,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Images, fonts banks
 
 * [Unsplash](https://unsplash.com/) - Collection of beautiful, high resolution, free (and free of rights) images
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 * [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
 
 ### Development tooling
@@ -42,6 +43,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [EcmaScript 6 Features](http://es6-features.org/)
 * [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 * [AirBnB Javascript styleguide](https://github.com/airbnb/javascript)
+
+## Typescript
+
+* [React-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform) - Convert React JavaScript code to TypeScript with proper typing
 
 ## Node
 
@@ -80,6 +85,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
 * [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
 * [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
+* [The constructor is dead, long live the constructor!](https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599)
 * [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) - React 16 release retrospective
 
 ### Blessed libraries
@@ -110,6 +116,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-chartkick](https://github.com/ankane/react-chartkick) - Create beautiful JavaScript charts with one line of React
 * [React-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique
 * [React-show](https://github.com/react-tools/react-show) - React-Show - A 3kb show/hide component for React
+* [React-preload](https://github.com/fubhy/react-preload) - Preload a React component tree in the background before rendering it
 
 ## React Native
 
@@ -224,6 +231,11 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Rollup](https://rollupjs.org/) - Next-generation ES6 module bundler
 * [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 
+## No config tools
+
+* [Tools without config](https://blog.kentcdodds.com/automation-without-config-412ab5e47229)
+* [Kcd-scripts](https://github.com/kentcdodds/kcd-scripts) - CLI toolbox for common scripts for my projects
+
 ## Server Side Rendering
 
 ### Documentation, concepts, articles
@@ -252,6 +264,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Create-react-next-app](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command
 * [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration
 * [React-server](https://github.com/redfin/react-server) - Blazing fast page load and seamless navigation
+- [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4
 
 ## Performances (and SEO)
 
@@ -290,6 +303,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Two Tips to Improve Performance by 30% With React and Webpack](http://engineering.teacherspayteachers.com/2017/08/16/two-tips-to-improve-performance-by-30-with-react-and-webpack.html)
 * [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178)
 * [Perf-hoc](https://github.com/viktorbergehall/perf-hoc) - Visualize and detect unnecessary rendering and performance issues in React
+* [Performance tests between several styling libraries](http://necolas.github.io/react-native-web/benchmarks/)
 
 ### Progressive Web Apps
 
