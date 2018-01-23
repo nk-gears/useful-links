@@ -13,7 +13,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Images, fonts banks
 
 * [Unsplash](https://unsplash.com/) - Collection of beautiful, high resolution, free (and free of rights) images
-- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
+* [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 * [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
 
 ### Development tooling
@@ -30,9 +30,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [IFTTT](https://ifttt.com/) - Applets linked to the services you love
 
-## Git
+## Git / Github
 
 * [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
+* [Tell Me When it Closes](https://tellmewhenitcloses.com/) - Get emailed when an issue or PR closes
 
 ## Javascript
 
@@ -91,6 +92,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Blessed libraries
 
 * [Create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration
+* [Awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
 
 ### Useful, promising libraries / components
 
@@ -163,6 +165,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [GraphQL docs](http://graphql.org/learn/)
 * [GraphiQL](http://graphql.org/swapi-graphql/) - In-browser IDE for writing, validating, and testing GraphQL queries
 * [A Front-End Developer's Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
+* [Adding GraphQL into Existing Express APIs](https://encryption.io/blog/adding-graphql-into-existing-express-apis/)
 * [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 
 ### Relay vs Apollo
@@ -216,6 +219,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Webpack docs](https://webpack.js.org/concepts/)
 * [Long-term caching of static assets with Webpack](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95)
+* [BundlePhobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle
 
 ### Useful, promising libraries / components
 
