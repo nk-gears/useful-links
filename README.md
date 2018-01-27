@@ -81,6 +81,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React docs](https://facebook.github.io/react/docs/hello-world.html)
 * [List of curated resources from facebook/react](https://github.com/facebook/react/wiki/Complementary-Tools)
 * [Lifecycle Simulators](https://reactarmory.com/guides/lifecycle-simulators)
+* [Why is setState async](https://github.com/facebook/react/issues/11527#issuecomment-360199710)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [React-bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks
 * [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
@@ -184,6 +185,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Apollo docs](https://www.apollographql.com/docs/react/index.html)
 * [Apollo Client 2.0: Beyond GraphQL APIs](https://dev-blog.apollodata.com/apollo-client-2-0-beyond-graphql-apis-888807b53afe) - From the [Apollo](https://github.com/apollographql) team
 * [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2) - From the [Apollo](https://github.com/apollographql) team
+* [What's next - Query components](https://dev-blog.apollodata.com/whats-next-for-react-apollo-4d41ba12c2cb) - From the [Apollo](https://github.com/apollographql) team
 * [React-apollo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
 * [Apollo-link-state](https://github.com/apollographql/apollo-link-state) - Manage your application state with Apollo!
 * [Apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL
