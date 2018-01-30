@@ -21,6 +21,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [A Soft Murmur](http://asoftmurmur.com/) - Ambient sounds to wash away distraction
 * [Transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 * [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
+* [Mocky](https://www.mocky.io/) - Easily test your REST-powered web services with an HTTP responses generator
 * [Regexr](https://regexr.com/) - Regex validator / tutorials
 * [Regex101](https://regex101.com/) - Regex validator / tutorials
 * [CodeSandbox](https://codesandbox.io/) - The online code editor for React
@@ -186,6 +187,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Apollo Client 2.0: Beyond GraphQL APIs](https://dev-blog.apollodata.com/apollo-client-2-0-beyond-graphql-apis-888807b53afe) - From the [Apollo](https://github.com/apollographql) team
 * [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2) - From the [Apollo](https://github.com/apollographql) team
 * [What's next - Query components](https://dev-blog.apollodata.com/whats-next-for-react-apollo-4d41ba12c2cb) - From the [Apollo](https://github.com/apollographql) team
+* [Write Queries, Not Code](https://agentconf-apollo.surge.sh/#/) - By @peggyrayzis
 * [React-apollo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
 * [Apollo-link-state](https://github.com/apollographql/apollo-link-state) - Manage your application state with Apollo!
 * [Apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL
@@ -272,6 +274,27 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-server](https://github.com/redfin/react-server) - Blazing fast page load and seamless navigation
 - [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4
 
+## Gatsby.js
+
+### Documentation, concepts, articles
+
+* [Gatsby.js docs](https://github.com/gatsbyjs/gatsby)
+* [Why GraphQL for Gatsby 1.0](https://github.com/gatsbyjs/gatsby/issues/420)
+* [Gatsby.js: How to set up and use the React Static Site Generator](https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a)
+* [Gatsby + Contentful + Netlify (and Algolia)](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
+* [Practical Gatsby.js](https://blog.scottnonnenberg.com/practical-gatsby-js/)
+* [Using CSS Modules](https://github.com/gatsbyjs/gatsby/tree/master/examples/using-css-modules)
+* [Image Optimization Made Easy with Gatsby.js](https://medium.com/@kyle.robert.gill/ridiculously-easy-image-optimization-with-gatsby-js-59d48e15db6e)
+
+### Plugins
+
+* [gatsby-plugin-offline](https://www.gatsbyjs.org/packages/gatsby-plugin-offline/)
+
+### Netlify
+
+* [Netlify docs](https://www.netlify.com/docs/)
+* [10 Netlify features to surprise and delight](https://medium.com/netlify/10-netlify-features-to-surprise-and-delight-225e846b7b21)
+
 ## Performances (and SEO)
 
 * [Front-end-checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
@@ -340,6 +363,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [User Tests Will Make You a Better Developer](https://dev.to/aprilwensel/user-tests-will-make-you-a-better-developer)
 * [Don't leave broken windows](https://dev.to/raulavila/dont-leave-broken-windows)
 * [Code Rot](https://henrikwarne.com/2017/04/28/code-rot/)
+
+### Product insights
+
+* [How to Design an Addictive Product](https://medium.com/swlh/how-to-design-an-addicting-product-29b948c427de)
 
 ### Being a developer
 
