@@ -366,7 +366,9 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Product insights
 
+* [How to Manufacture Design](https://medium.com/behavior-design/how-to-manufacture-desire-3011c82a2b28)
 * [How to Design an Addictive Product](https://medium.com/swlh/how-to-design-an-addicting-product-29b948c427de)
+* [Mobile First, Desktop Never](https://dev.to/redbassett/mobile-first-desktop-never-2cfd)
 
 ### Being a developer
 
