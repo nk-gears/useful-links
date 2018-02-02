@@ -30,6 +30,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Others
 
 * [IFTTT](https://ifttt.com/) - Applets linked to the services you love
+* [ConferCal](https://www.confercal.com/calendars/code) - A conference calendar for developers and other people in tech
 
 ## Git / Github
 
@@ -43,6 +44,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [A Beginner’s Guide to Currying in Functional JavaScript](https://www.sitepoint.com/currying-in-functional-javascript/)
 * [How I rediscovered my love for JavaScript after throwing 90% of it in the trash](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
 * [EcmaScript 6 Features](http://es6-features.org/)
+* [ES6: Default Arguments](https://remysharp.com/2017/10/25/es6-default-arguments)
 * [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 * [AirBnB Javascript styleguide](https://github.com/airbnb/javascript)
 
@@ -183,11 +185,17 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Apollo
 
+#### Documentation, concepts, articles
+
 * [Apollo docs](https://www.apollographql.com/docs/react/index.html)
 * [Apollo Client 2.0: Beyond GraphQL APIs](https://dev-blog.apollodata.com/apollo-client-2-0-beyond-graphql-apis-888807b53afe) - From the [Apollo](https://github.com/apollographql) team
 * [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2) - From the [Apollo](https://github.com/apollographql) team
 * [What's next - Query components](https://dev-blog.apollodata.com/whats-next-for-react-apollo-4d41ba12c2cb) - From the [Apollo](https://github.com/apollographql) team
 * [Write Queries, Not Code](https://agentconf-apollo.surge.sh/#/) - By @peggyrayzis
+* [Improved Apollo Client Devtools](https://dev-blog.apollodata.com/improved-apollo-client-devtools-eb43258f103f)
+
+#### Useful, promising libraries / components
+
 * [React-apollo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
 * [Apollo-link-state](https://github.com/apollographql/apollo-link-state) - Manage your application state with Apollo!
 * [Apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL
@@ -349,6 +357,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Real User Experience Test](https://ruxt.dexecure.com/)
 * [Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/)
 * [Page Weight by Imgx](https://pageweight.imgix.com/)
+
+## Security
+
+* [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 
 ## Electron
 
