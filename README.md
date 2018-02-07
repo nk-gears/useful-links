@@ -47,6 +47,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [ES6: Default Arguments](https://remysharp.com/2017/10/25/es6-default-arguments)
 * [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 * [AirBnB Javascript styleguide](https://github.com/airbnb/javascript)
+* [The increasing nature of frontend complexity](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae)
 
 ## Typescript
 
