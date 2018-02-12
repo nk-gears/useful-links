@@ -348,6 +348,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 * [How to turn your website into a PWA](https://mxb.at/blog/how-to-turn-your-website-into-a-pwa/)
+* [Service Workers](https://flaviocopes.com/service-workers/)
 * [A React And Preact Progressive Web App Performance Case Study: Treebo](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
 * [Progressive Web App with Webpack](https://dev.to/remejuan/progressive-web-app-with-webpack-87p)
 
