@@ -139,6 +139,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Useful, promising libraries / components
 
 * [Babel-plugin-functional-hmr](https://github.com/bvic23/babel-plugin-functional-hmr) - Babel plugin enables HMR for functional components in React Native
+* [React-native-sideswipe](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
 
 ## Redux
 
@@ -159,6 +160,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Useful, promising libraries / components
 
+* [Introducing Redux-rest-easy: A library to generate your Redux code](https://engineering.brigad.co/introducing-redux-rest-easy-6e9a91af4f59)
 * [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 * [Introducing Redux VCR](https://medium.com/@joshuawcomeau/introducing-redux-vcr-cad57b37540a)
 * [Redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - A bug reporter and bug playback tool for redux
