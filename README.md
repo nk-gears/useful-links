@@ -197,6 +197,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [What's next - Query components](https://dev-blog.apollodata.com/whats-next-for-react-apollo-4d41ba12c2cb) - From the [Apollo](https://github.com/apollographql) team
 * [Write Queries, Not Code](https://agentconf-apollo.surge.sh/#/) - By @peggyrayzis
 * [Improved Apollo Client Devtools](https://dev-blog.apollodata.com/improved-apollo-client-devtools-eb43258f103f)
+* [Zero-config GraphQL state management](https://dev-blog.apollodata.com/zero-config-graphql-state-management-27b1f1b3c2c3)
 
 #### Useful, promising libraries / components
 
