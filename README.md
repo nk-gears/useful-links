@@ -174,6 +174,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 * [A Front-End Developer's Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 * [Adding GraphQL into Existing Express APIs](https://encryption.io/blog/adding-graphql-into-existing-express-apis/)
+* [GraphQL vs REST: Caching](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
 * [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 
 ### Relay vs Apollo
@@ -198,6 +199,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Write Queries, Not Code](https://agentconf-apollo.surge.sh/#/) - By @peggyrayzis
 * [Improved Apollo Client Devtools](https://dev-blog.apollodata.com/improved-apollo-client-devtools-eb43258f103f)
 * [Zero-config GraphQL state management](https://dev-blog.apollodata.com/zero-config-graphql-state-management-27b1f1b3c2c3)
+* [React Native with Apollo— Part 1, Apollo Server](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361)
+* [React Native with Apollo — Part 2, Apollo Client](https://medium.com/react-native-training/react-native-with-apollo-part-2-apollo-client-8b4ad4915cf5#.wnfqtzsn6)
 
 #### Useful, promising libraries / components
 
@@ -207,6 +210,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist) - Simple persistence for all Apollo Cache implementations
 * [Apollo-codegen](https://github.com/apollographql/apollo-codegen) - Generate API code or type annotations based on a GraphQL schema and query documents
 * [Yaba-social](https://github.com/allpwrfulroot/yaba-social) - Yet Another Boilerplate App showing off react-navigation and the excellent new tools from Apollo
+
 
 ## Jest
 
