@@ -336,6 +336,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Web fonts: when you need them, when you don’t](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
 * [HTTP/2 push is tougher than I thought](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)
 * [Why you should be focusing on the 99th percentile when tracking request performance](https://spectrum.chat/thread/964ae5c3-1b82-47e9-b8b2-23ee7a5954e5)
+* [Measuring Wikipedia page load times](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/)
 
 ### React-side
 
@@ -363,7 +364,8 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-* [Test My Site With Google](https://testmysite.withgoogle.com/intl/fr-fr)
+* [Test My Site With Google](https://testmysite.withgoogle.com/)
+* [Winning on Mobile by Google](https://www.thinkwithgoogle.com/feature/mobile/)
 * [Real User Experience Test](https://ruxt.dexecure.com/)
 * [Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/)
 * [Page Weight by Imgx](https://pageweight.imgix.com/)
