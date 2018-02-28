@@ -66,6 +66,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Moving letters](http://tobiasahlin.com/moving-letters/)
 * [Single element CSS spinners](https://projects.lukehaas.me/css-loaders/)
 * [Creating a Loading Placeholder with Sass](https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/)
+* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 ### CSS Modules
 
@@ -373,6 +374,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ## Security
 
 * [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
+* [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 
 ## Electron
 
