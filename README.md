@@ -313,6 +313,14 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Netlify docs](https://www.netlify.com/docs/)
 * [10 Netlify features to surprise and delight](https://medium.com/netlify/10-netlify-features-to-surprise-and-delight-225e846b7b21)
 
+## Spectacle
+
+* [Spectacle docs](https://github.com/FormidableLabs/spectacle)
+* [Spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide)
+* [Spectacle-terminal](https://github.com/elijahmanor/spectacle-terminal)
+* [Spectacle-image-slide](https://github.com/FezVrasta/spectacle-image-slide)
+* [Presentations With Spectacle — How I Modularize My Deck](https://hackernoon.com/presentations-with-spectacle-how-i-modularize-my-deck-775c082cef08)
+
 ## Performances (and SEO)
 
 * [Front-end-checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
