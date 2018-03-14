@@ -424,6 +424,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [#2 CTO Digest — Growing up](https://medium.com/@jeanlebrument/2-cto-digest-growing-up-29a770ea8c2d)
 * [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 * [Managers and Seagulls](https://retrospective.co/seagulls/)
+* ["Solidifying what you learn"](https://dev.to/kentcdodds/solidifying-what-you-learn-lgi)
 
 ### Communicating
 
