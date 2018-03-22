@@ -142,6 +142,15 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Babel-plugin-functional-hmr](https://github.com/bvic23/babel-plugin-functional-hmr) - Babel plugin enables HMR for functional components in React Native
 * [React-native-sideswipe](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
 
+## Forms
+
+* [React Form Library Comparison](https://github.com/final-form/react-final-form/blob/master/docs/comparison.md) - by @erikras, author of react-final-form
+
+### React-final-form
+
+* [React-final-form](https://github.com/final-form/react-final-form#-react-final-form)
+* [Final Form: The road to the checkered flag](https://codeburst.io/final-form-the-road-to-the-checkered-flag-cd9b75c25fe)
+
 ## Redux
 
 ### Documentation, concepts, articles
@@ -242,6 +251,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Webpack docs](https://webpack.js.org/concepts/)
 * [Long-term caching of static assets with Webpack](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95)
 * [BundlePhobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle
+* [Why would I use a Webpack?](http://tinselcity.net/whys/packers)
 
 ### Useful, promising libraries / components
 
