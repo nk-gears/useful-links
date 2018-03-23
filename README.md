@@ -73,6 +73,14 @@ I have gathered this list of links over time, and it is made of resources I have
 * [CSS Modules](https://github.com/css-modules/css-modules)
 * [Article on CSS Modules](https://glenmaddern.com/articles/css-modules)
 
+### CSS-in-JS
+
+* [Stop using CSS in JavaScript for web development](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
+
+## JS-in-CSS (because why not)
+
+* [https://github.com/kristerkari/react-native-sass-transformer](https://github.com/kristerkari/react-native-sass-transformer) - Load Sass files to react native style objects
+
 ### Animations
 
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29)
