@@ -101,6 +101,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
 * [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
 * [The constructor is dead, long live the constructor!](https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599)
+* [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 * [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) - React 16 release retrospective
 
 ### Blessed libraries
@@ -464,6 +465,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Interviews
 
 * [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+* [Tech Screenings: Why The Interview Process Fails Candidates](https://dev.to/techevangelista/tech-screenings-why-the-interview-process-fails-candidates-hc3)
 
 ### Coding interviews
 
