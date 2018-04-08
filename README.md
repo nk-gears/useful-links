@@ -26,6 +26,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Regex101](https://regex101.com/) - Regex validator / tutorials
 * [CodeSandbox](https://codesandbox.io/) - The online code editor for React
 * [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
+* [Npm semver calculator](https://semver.npmjs.com/)
 
 ### Others
 
@@ -68,6 +69,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Creating a Loading Placeholder with Sass](https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/)
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 
+### SCSS
+
+* [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](https://gist.github.com/jareware/4738651)
+
 ### CSS Modules
 
 * [CSS Modules](https://github.com/css-modules/css-modules)
@@ -103,6 +108,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [The constructor is dead, long live the constructor!](https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599)
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 * [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) - React 16 release retrospective
+* [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
+* [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 
 ### Blessed libraries
 
@@ -166,6 +173,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Redux docs](http://redux.js.org/docs/introduction/index.html)
 * [Getting Started with Redux - Course by @dan_abramov @eggheadio](https://egghead.io/series/getting-started-with-redux)
+* [Building React Applications with Idiomatic Redux - Course by @dan_abramov @eggheadio](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 * [Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/)
 * [Idiomatic Redux: The Tao of Redux, Part 2 - Practice and Philosophy](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/)
 * [Redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
@@ -219,6 +227,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Improved Apollo Client Devtools](https://dev-blog.apollodata.com/improved-apollo-client-devtools-eb43258f103f)
 * [Zero-config GraphQL state management](https://dev-blog.apollodata.com/zero-config-graphql-state-management-27b1f1b3c2c3)
 * [Introducing React Apollo 2.1](https://dev-blog.apollodata.com/introducing-react-apollo-2-1-c837cc23d926)
+* [A first look at Async React + Apollo][https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e)
 * [React Native with Apollo— Part 1, Apollo Server](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361)
 * [React Native with Apollo — Part 2, Apollo Client](https://medium.com/react-native-training/react-native-with-apollo-part-2-apollo-client-8b4ad4915cf5#.wnfqtzsn6)
 * [Apollo Client - the stuff no-one ever told ya](http://slides.com/alexeykureev/apollo-stuff-no-one-told-ya-4#/)
@@ -493,6 +502,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [FreelanceRepublik](https://www.freelancerepublik.com/)
 * [Front end developer jobs](http://frontenddeveloperjob.com/)
 * [JobTeaser](https://epitech.jobteaser.com/fr/users/sign_in?back_to_after_login=%2Ffr)
+* [How I Find Six Figure Remote Software Developer Jobs](https://dev.to/colinmtech/how-i-find-six-figure-remote-software-developer-jobs-23jd)
 
 ## Personal achievements
 
