@@ -52,6 +52,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Typescript
 
+* [Typescript docs](https://www.typescriptlang.org/docs/handbook/basic-types.html)
 * [React-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform) - Convert React JavaScript code to TypeScript with proper typing
 
 ## Reason
@@ -94,8 +95,9 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Animations
 
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29)
-* [Lottie](https://airbnb.design/lottie/)
 * [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
+* [Lottie](https://airbnb.design/lottie/)
+* [Lottie Files](https://www.lottiefiles.com/) - An online community to find, test, and share striking animations
 
 ## React
 
