@@ -232,7 +232,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Improved Apollo Client Devtools](https://dev-blog.apollodata.com/improved-apollo-client-devtools-eb43258f103f)
 * [Zero-config GraphQL state management](https://dev-blog.apollodata.com/zero-config-graphql-state-management-27b1f1b3c2c3)
 * [Introducing React Apollo 2.1](https://dev-blog.apollodata.com/introducing-react-apollo-2-1-c837cc23d926)
-* [A first look at Async React + Apollo][https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e)
+* [A first look at Async React + Apollo](https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e)
+* [Reducing our Redux code with React Apollo](https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a)
 * [React Native with Apollo— Part 1, Apollo Server](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361)
 * [React Native with Apollo — Part 2, Apollo Client](https://medium.com/react-native-training/react-native-with-apollo-part-2-apollo-client-8b4ad4915cf5#.wnfqtzsn6)
 * [Apollo Client - the stuff no-one ever told ya](http://slides.com/alexeykureev/apollo-stuff-no-one-told-ya-4#/)
@@ -243,7 +244,9 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Apollo-link-state](https://github.com/apollographql/apollo-link-state) - Manage your application state with Apollo!
 * [Apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL
 * [Apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist) - Simple persistence for all Apollo Cache implementations
+* [Apollo-cache-control](https://github.com/apollographql/apollo-cache-control-js) - A GraphQL extension for cache control (for Node.js)
 * [Apollo-codegen](https://github.com/apollographql/apollo-codegen) - Generate API code or type annotations based on a GraphQL schema and query documents
+* [Apollo-tracing](https://github.com/apollographql/apollo-tracing-js) - A GraphQL extension for performance tracing
 * [Yaba-social](https://github.com/allpwrfulroot/yaba-social) - Yet Another Boilerplate App showing off react-navigation and the excellent new tools from Apollo
 
 
