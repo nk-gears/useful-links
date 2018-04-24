@@ -480,6 +480,8 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [I’ve spoken at JSConf and so can you!](https://medium.com/@a.sandrina.p/ive-spoken-at-jsconf-and-so-can-you-a9d92c1439a6)
 * [5 Essential Ingredients for an Awesome Tech Talk](https://medium.com/@reverentgeek/5-essential-ingredients-for-an-awesome-tech-talk-2e5778b2cb5a)
+* [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
+* [Awesome conference practices](https://github.com/kitze/awesome-conference-practices) - Did you like anything in particular about a conference? Let's make an awesome list 🎉
 
 ### Interviews
 
