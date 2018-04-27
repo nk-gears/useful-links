@@ -74,6 +74,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Single element CSS spinners](https://projects.lukehaas.me/css-loaders/)
 * [Creating a Loading Placeholder with Sass](https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/)
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+* ["last 2 versions" considered harmful](https://jamie.build/last-2-versions)
 
 ### SCSS
 
@@ -209,6 +210,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [A Front-End Developer's Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 * [Adding GraphQL into Existing Express APIs](https://encryption.io/blog/adding-graphql-into-existing-express-apis/)
 * [GraphQL vs REST: Caching](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
+* [Why not use a JSON DSL instead of GraphQL?](https://blog.hasura.io/why-not-use-a-json-dsl-instead-of-graphql-d29f20cc97d2)
 * [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 
 ### Relay vs Apollo
@@ -487,6 +489,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [Tech Screenings: Why The Interview Process Fails Candidates](https://dev.to/techevangelista/tech-screenings-why-the-interview-process-fails-candidates-hc3)
+* [Twitter thread on interview questions before joining a startup](https://mobile.twitter.com/jensenharris/status/988967889330819072)
 
 ### Coding interviews
 
