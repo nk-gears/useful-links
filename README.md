@@ -524,4 +524,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Personal achievements
 
+### Articles
+
 * [React Top 10 Articles of Oct 2017](https://medium.com/@Mybridge/react-top-10-articles-for-the-past-month-v-oct-2017-b9f64eb926ab) - #8
+
+### Talks
+
+* [Power your mobile apps with Apollo-client](https://www.facebook.com/abbealbzzz/videos/778190315711576/) - 21'40
