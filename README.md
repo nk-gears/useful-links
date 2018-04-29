@@ -10,26 +10,33 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Tools
 
-### Images, fonts banks
+### Images, fonts, assets
 
 * [Unsplash](https://unsplash.com/) - Collection of beautiful, high resolution, free (and free of rights) images
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 * [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
 
-### Development tooling
+### Productivity
 
 * [A Soft Murmur](http://asoftmurmur.com/) - Ambient sounds to wash away distraction
-* [Transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
+
+### Mock APIs
+
 * [Reqres](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests.
 * [Mocky](https://www.mocky.io/) - Easily test your REST-powered web services with an HTTP responses generator
+
+### Regex testers
 * [Regexr](https://regexr.com/) - Regex validator / tutorials
 * [Regex101](https://regex101.com/) - Regex validator / tutorials
+
+### Online IDEs
+
 * [CodeSandbox](https://codesandbox.io/) - The online code editor for React
 * [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
-* [Npm semver calculator](https://semver.npmjs.com/)
 
 ### Others
 
+* [Transfer.sh](https://transfer.sh/) - Easy file sharing from the command line
 * [IFTTT](https://ifttt.com/) - Applets linked to the services you love
 * [ConferCal](https://www.confercal.com/calendars/code) - A conference calendar for developers and other people in tech
 * [How HTTPS Works](https://howhttps.works/)
@@ -39,6 +46,16 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * [Tell Me When it Closes](https://tellmewhenitcloses.com/) - Get emailed when an issue or PR closes
+
+## Package managers
+
+### Yarn
+
+* [Running Yarn offline](https://yarnpkg.com/blog/2016/11/24/offline-mirror/)
+
+### npm
+
+* [Npm semver calculator](https://semver.npmjs.com/)
 
 ## Javascript
 
@@ -91,7 +108,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Stop using CSS in JavaScript for web development](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
 
-## JS-in-CSS (because why not)
+### JS-in-CSS (because why not)
 
 * [https://github.com/kristerkari/react-native-sass-transformer](https://github.com/kristerkari/react-native-sass-transformer) - Load Sass files to react native style objects
 
