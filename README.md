@@ -32,6 +32,8 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [IFTTT](https://ifttt.com/) - Applets linked to the services you love
 * [ConferCal](https://www.confercal.com/calendars/code) - A conference calendar for developers and other people in tech
+* [How HTTPS Works](https://howhttps.works/)
+* [How DNS works](https://howdns.works/)
 
 ## Git / Github
 
@@ -473,6 +475,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Active Listening: The Master Key to Effective Communication](https://www.farnamstreetblog.com/2017/07/active-listening/?utm_content=buffer1e37d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [The Work Required To Have An Opinion](https://www.farnamstreetblog.com/2013/04/the-work-required-to-have-an-opinion/)
 * [Proximate vs Root Causes: Why You Should Keep Digging to Find the Answer](https://www.farnamstreetblog.com/2017/05/proximate-vs-root-causes/)
+* [How To Work With Developers - A Guide for Non-Developers](https://dev.to/kttravers/how-to-work-with-developers---a-guide-for-non-developers-35hk)
 
 ### Writing articles
 
@@ -500,7 +503,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Intermediate to senior dev resume](https://dev.to/mozoobear/intermediate-to-senior-dev-resume-3bh)
 
-### Others
+### Startups
 
 * [FRENCH - 5 raisons de rejoindre une startup très early stage](https://www.welcometothejungle.co/articles/cinq-raisons-de-rejoindre-une-startup-early-stage)
 * [FRENCH - Pourquoi nous sommes 100% transparents sur les salaires de nos employés](https://www.maddyness.com/finance/2017/06/25/maddyrex-pourquoi-grille-salaire-ouverte/)
