@@ -46,6 +46,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * [Tell Me When it Closes](https://tellmewhenitcloses.com/) - Get emailed when an issue or PR closes
+* [GitHub Contributions Chart Generator](https://github-contributions.now.sh/)
 
 ## Package managers
 
@@ -82,6 +83,12 @@ I have gathered this list of links over time, and it is made of resources I have
 ## Node
 
 * [Node best practices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+
+## HTML
+
+### Accessibility
+
+* [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 
 ## CSS
 
@@ -137,6 +144,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) - React 16 release retrospective
 * [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
 * [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
+* [Use React DevTools - Youtube](https://www.youtube.com/watch?v=DQjMiKEwl_E&feature=youtu.be)
 
 ### Blessed libraries
 
@@ -486,6 +494,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 * [Managers and Seagulls](https://retrospective.co/seagulls/)
 * ["Solidifying what you learn"](https://dev.to/kentcdodds/solidifying-what-you-learn-lgi)
+
+### Remote working
+
+* [Why (I think) "Cost of Living" pay for remote workers is BS](https://dev.to/sam_ferree/why-i-think-cost-of-living-pay-for-remote-workers-is-bs-5b68)
 
 ### Communicating
 
