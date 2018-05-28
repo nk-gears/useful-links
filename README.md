@@ -176,6 +176,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique
 * [React-show](https://github.com/react-tools/react-show) - React-Show - A 3kb show/hide component for React
 * [React-preload](https://github.com/fubhy/react-preload) - Preload a React component tree in the background before rendering it
+* [React-fns](https://react-fns.netlify.com/) - React Components for common Web APIs
 
 ## React Native
 
@@ -238,6 +239,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Adding GraphQL into Existing Express APIs](https://encryption.io/blog/adding-graphql-into-existing-express-apis/)
 * [GraphQL vs REST: Caching](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
 * [Why not use a JSON DSL instead of GraphQL?](https://blog.hasura.io/why-not-use-a-json-dsl-instead-of-graphql-d29f20cc97d2)
+* [Is GraphQL The Future?](http://artsy.github.io/blog/2018/05/08/is-graphql-the-future/)
 * [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 
 ### Relay vs Apollo
