@@ -270,6 +270,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React Native with Apollo— Part 1, Apollo Server](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361)
 * [React Native with Apollo — Part 2, Apollo Client](https://medium.com/react-native-training/react-native-with-apollo-part-2-apollo-client-8b4ad4915cf5#.wnfqtzsn6)
 * [Apollo Client - the stuff no-one ever told ya](http://slides.com/alexeykureev/apollo-stuff-no-one-told-ya-4#/)
+* [GraphQL Schema Design: Building Evolvable Schemas](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
 
 #### Useful, promising libraries / components
 
@@ -327,6 +328,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Rollup](https://rollupjs.org/) - Next-generation ES6 module bundler
 * [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
+* [ParcelJS: How simple really is it?](https://itnext.io/parceljs-how-simple-really-is-it-679a4feba69d?gi=12888863d7c7)
 
 ## No config tools
 
