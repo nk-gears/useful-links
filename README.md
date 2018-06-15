@@ -47,6 +47,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * [Tell Me When it Closes](https://tellmewhenitcloses.com/) - Get emailed when an issue or PR closes
 * [GitHub Contributions Chart Generator](https://github-contributions.now.sh/)
+* [GitBook](https://www.gitbook.com/) - Documentation your users will love!
 
 ## Package managers
 
@@ -119,6 +120,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [https://github.com/kristerkari/react-native-sass-transformer](https://github.com/kristerkari/react-native-sass-transformer) - Load Sass files to react native style objects
 
+### Flexbox
+
+* [Flexbox Zombies](https://mastery.games/p/flexbox-zombies) - Free course on flexboxes
+
 ### Animations
 
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29)
@@ -145,6 +150,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
 * [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 * [Use React DevTools - Youtube](https://www.youtube.com/watch?v=DQjMiKEwl_E&feature=youtu.be)
+* [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 
 ### Blessed libraries
 
@@ -240,6 +246,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [GraphQL vs REST: Caching](https://philsturgeon.uk/api/2017/01/26/graphql-vs-rest-caching/)
 * [Why not use a JSON DSL instead of GraphQL?](https://blog.hasura.io/why-not-use-a-json-dsl-instead-of-graphql-d29f20cc97d2)
 * [Is GraphQL The Future?](http://artsy.github.io/blog/2018/05/08/is-graphql-the-future/)
+* [Reconciling GraphQL and Thrift at Airbnb](https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712)
 * [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 
 ### Relay vs Apollo
