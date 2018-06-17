@@ -32,6 +32,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Online IDEs
 
+* [Awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 * [CodeSandbox](https://codesandbox.io/) - The online code editor for React
 * [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
 
@@ -183,6 +184,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-show](https://github.com/react-tools/react-show) - React-Show - A 3kb show/hide component for React
 * [React-preload](https://github.com/fubhy/react-preload) - Preload a React component tree in the background before rendering it
 * [React-fns](https://react-fns.netlify.com/) - React Components for common Web APIs
+* [Immer](https://github.com/mweststrate/immer) - Create the next immutable state by mutating the current one
 
 ## React Native
 
@@ -191,6 +193,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html)
 * [Awesome React Native](http://www.awesome-react-native.com/) - An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more
 * [Open-sourcing Sonar, a new extensible debugging tool](https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/)
+* [State of React Native 2018](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
 
 ### Blessed libraries
 
@@ -235,6 +238,13 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 * [Introducing Redux VCR](https://medium.com/@joshuawcomeau/introducing-redux-vcr-cad57b37540a)
 * [Redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - A bug reporter and bug playback tool for redux
+
+## Native Mobile
+
+### Useful, promising libraries / components
+
+* [Litho](https://fblitho.com/) - A declarative UI framework for Android
+* [ComponentKit](https://componentkit.org/) - A React-Inspired View Framework for iOS
 
 ## GraphQL
 
@@ -283,6 +293,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [GraphQL Schema Design: Building Evolvable Schemas](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
 * [Full Stack Error Handling with GraphQL and Apollo 🚀](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 * [Using nullability in GraphQL](https://dev-blog.apollodata.com/using-nullability-in-graphql-2254f84c4ed7)
+* [Testing Apollo’s Query Component](https://dev-blog.apollodata.com/testing-apollos-query-component-d575dc642e04)
 
 #### Useful, promising libraries / components
 
@@ -338,9 +349,15 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Webpack alternatives
 
-* [Rollup](https://rollupjs.org/) - Next-generation ES6 module bundler
-* [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
+### Rollup
+
+* [Rollup docs](https://rollupjs.org/) - Next-generation ES6 module bundler
+
+### Parcel
+
+* [Parcel docs](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 * [ParcelJS: How simple really is it?](https://itnext.io/parceljs-how-simple-really-is-it-679a4feba69d?gi=12888863d7c7)
+* [📦 Parcel v1.9.0 — Tree Shaking, 2x faster watcher, and more! 🚀](https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79)
 
 ## No config tools
 
@@ -504,6 +521,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [How I Became a Better Programmer](http://jlongster.com/How-I-Became-Better-Programmer)
 * [What Makes A Senior Software Engineer](https://dev.to/klnusbaum/what-makes-a-senior-software-engineer)
 * [On Senior Engineers](https://dev.to/bhilburn/on-senior-engineers)
+* [There's No Such Thing as a Full Stack Developer](https://dev.to/remotesynth/theres-no-such-thing-as-a-full-stack-developer-2fp9)
 * [What fonts do you use in your editor(s)?](https://dev.to/jess/what-fonts-do-you-use-in-your-editors)
 
 ### Leadership / Teaching
