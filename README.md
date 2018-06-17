@@ -19,6 +19,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Productivity
 
 * [A Soft Murmur](http://asoftmurmur.com/) - Ambient sounds to wash away distraction
+* [Quick terminal tip](https://dev.to/voter101/quick-terminal-tip-1can)
 
 ### Mock APIs
 
@@ -47,7 +48,6 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 * [Tell Me When it Closes](https://tellmewhenitcloses.com/) - Get emailed when an issue or PR closes
 * [GitHub Contributions Chart Generator](https://github-contributions.now.sh/)
-* [GitBook](https://www.gitbook.com/) - Documentation your users will love!
 
 ## Package managers
 
@@ -190,6 +190,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html)
 * [Awesome React Native](http://www.awesome-react-native.com/) - An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more
+* [Open-sourcing Sonar, a new extensible debugging tool](https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/)
 
 ### Blessed libraries
 
@@ -197,6 +198,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Useful, promising libraries / components
 
+* [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers
 * [Babel-plugin-functional-hmr](https://github.com/bvic23/babel-plugin-functional-hmr) - Babel plugin enables HMR for functional components in React Native
 * [React-native-sideswipe](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
 
@@ -248,6 +250,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Is GraphQL The Future?](http://artsy.github.io/blog/2018/05/08/is-graphql-the-future/)
 * [Reconciling GraphQL and Thrift at Airbnb](https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712)
 * [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
+* [The GraphQL Stack](https://www.graphqlstack.com/) - Ecosystem links, layer by layer
 
 ### Relay vs Apollo
 
@@ -278,6 +281,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React Native with Apollo — Part 2, Apollo Client](https://medium.com/react-native-training/react-native-with-apollo-part-2-apollo-client-8b4ad4915cf5#.wnfqtzsn6)
 * [Apollo Client - the stuff no-one ever told ya](http://slides.com/alexeykureev/apollo-stuff-no-one-told-ya-4#/)
 * [GraphQL Schema Design: Building Evolvable Schemas](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
+* [Full Stack Error Handling with GraphQL and Apollo 🚀](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
+* [Using nullability in GraphQL](https://dev-blog.apollodata.com/using-nullability-in-graphql-2254f84c4ed7)
 
 #### Useful, promising libraries / components
 
@@ -392,6 +397,11 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Netlify docs](https://www.netlify.com/docs/)
 * [10 Netlify features to surprise and delight](https://medium.com/netlify/10-netlify-features-to-surprise-and-delight-225e846b7b21)
+
+## Documentation
+
+* [GitBook](https://www.gitbook.com/) - Documentation your users will love!
+* [Docz](https://www.docz.site/) - It has never been so easy to document your things!
 
 ## Spectacle
 
