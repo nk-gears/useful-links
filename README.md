@@ -71,6 +71,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 * [AirBnB Javascript styleguide](https://github.com/airbnb/javascript)
 * [The increasing nature of frontend complexity](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae)
+* [Does it mutate?](https://doesitmutate.xyz/)
 
 ## Typescript
 
@@ -117,10 +118,11 @@ I have gathered this list of links over time, and it is made of resources I have
 ### CSS-in-JS
 
 * [Stop using CSS in JavaScript for web development](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
+* [Emotion](https://emotion.sh/) - The Next Generation of CSS-in-JS
 
 ### JS-in-CSS (because why not)
 
-* [https://github.com/kristerkari/react-native-sass-transformer](https://github.com/kristerkari/react-native-sass-transformer) - Load Sass files to react native style objects
+* [React-native-sass-transformer](https://github.com/kristerkari/react-native-sass-transformer) - Load Sass files to react native style objects
 
 ### Flexbox
 
@@ -186,6 +188,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-preload](https://github.com/fubhy/react-preload) - Preload a React component tree in the background before rendering it
 * [React-fns](https://react-fns.netlify.com/) - React Components for common Web APIs
 * [Immer](https://github.com/mweststrate/immer) - Create the next immutable state by mutating the current one
+* [React-window](https://react-window.now.sh/#/examples/list/fixed-size) - Windowing component for infinite lists
 
 ## React Native
 
