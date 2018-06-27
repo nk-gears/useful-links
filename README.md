@@ -103,6 +103,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Creating a Loading Placeholder with Sass](https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/)
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 * ["last 2 versions" considered harmful](https://jamie.build/last-2-versions)
+* [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 
 ### SCSS
 
@@ -194,6 +195,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Awesome React Native](http://www.awesome-react-native.com/) - An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more
 * [Open-sourcing Sonar, a new extensible debugging tool](https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/)
 * [State of React Native 2018](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
+* [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 
 ### Blessed libraries
 
@@ -261,6 +263,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Reconciling GraphQL and Thrift at Airbnb](https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712)
 * [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 * [The GraphQL Stack](https://www.graphqlstack.com/) - Ecosystem links, layer by layer
+* [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
 
 ### Relay vs Apollo
 
