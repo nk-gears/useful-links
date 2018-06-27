@@ -118,6 +118,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### CSS-in-JS
 
 * [Stop using CSS in JavaScript for web development](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
+* [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
 * [Emotion](https://emotion.sh/) - The Next Generation of CSS-in-JS
 
 ### JS-in-CSS (because why not)
@@ -127,6 +128,10 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Flexbox
 
 * [Flexbox Zombies](https://mastery.games/p/flexbox-zombies) - Free course on flexboxes
+
+### Grid
+
+* [CSS Grid Layout Interface](https://www.layoutit.com/grid)
 
 ### Animations
 
@@ -420,6 +425,12 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Netlify docs](https://www.netlify.com/docs/)
 * [10 Netlify features to surprise and delight](https://medium.com/netlify/10-netlify-features-to-surprise-and-delight-225e846b7b21)
+
+## Sketch
+
+* [Sketching in the Browser](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526)
+* [React-sketchapp](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
+* [Html-sketchapp](https://github.com/brainly/html-sketchapp) - HTML to Sketch export solution
 
 ## Documentation
 
