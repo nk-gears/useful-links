@@ -160,6 +160,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 * [Use React DevTools - Youtube](https://www.youtube.com/watch?v=DQjMiKEwl_E&feature=youtu.be)
 * [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
+* [Headless User Interface Components](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18)
 
 ### Blessed libraries
 
@@ -194,6 +195,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-fns](https://react-fns.netlify.com/) - React Components for common Web APIs
 * [Immer](https://github.com/mweststrate/immer) - Create the next immutable state by mutating the current one
 * [React-window](https://react-window.now.sh/#/examples/list/fixed-size) - Windowing component for infinite lists
+* [React-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A React FLIP animation helper library for highly configurable transitions
 
 ## React Native
 
@@ -578,6 +580,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Salary Negotiation: Make More Money, Be More Valued](http://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [Tech Screenings: Why The Interview Process Fails Candidates](https://dev.to/techevangelista/tech-screenings-why-the-interview-process-fails-candidates-hc3)
 * [Twitter thread on interview questions before joining a startup](https://mobile.twitter.com/jensenharris/status/988967889330819072)
+* [Salary negotiation thread](https://mobile.twitter.com/sehurlburt/status/1017631027395612672) - by Stephanie Hurlburt
 
 ### Coding interviews
 
