@@ -76,6 +76,8 @@ I have gathered this list of links over time, and it is made of resources I have
 ## Typescript
 
 * [Typescript docs](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+* [Typescript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
+* [React-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) - A cheatsheet for react users using typescript with react for the first (or nth!) time
 * [React-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform) - Convert React JavaScript code to TypeScript with proper typing
 
 ## Reason
@@ -105,6 +107,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 * ["last 2 versions" considered harmful](https://jamie.build/last-2-versions)
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
+* [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
 
 ### SCSS
 
@@ -123,6 +126,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### JS-in-CSS (because why not)
 
+* [React-native-css-modules](https://github.com/kristerkari/react-native-css-modules) - Use CSS modules in React Native
 * [React-native-sass-transformer](https://github.com/kristerkari/react-native-sass-transformer) - Load Sass files to react native style objects
 
 ### Flexbox
@@ -509,6 +513,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 * [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
+* [Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
 
 ## Electron
 
@@ -523,6 +528,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [User Tests Will Make You a Better Developer](https://dev.to/aprilwensel/user-tests-will-make-you-a-better-developer)
 * [Don't leave broken windows](https://dev.to/raulavila/dont-leave-broken-windows)
 * [Code Rot](https://henrikwarne.com/2017/04/28/code-rot/)
+* [Web Caching Explained by Buying Milk at the Supermarket](https://dev.to/kbk0125/web-caching-explained-by-buying-milk-at-the-supermarket-9k4)
+* [Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 
 ### Product insights
 
