@@ -15,6 +15,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Unsplash](https://unsplash.com/) - Collection of beautiful, high resolution, free (and free of rights) images
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 * [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
+* [](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images
 
 ### Productivity
 
@@ -99,6 +100,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Vanilla
 
+* [Pseudo-classes MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * [Margin or padding?](https://hackernoon.com/margin-or-padding-f5252562313)
 * [Float labels with CSS](https://css-tricks.com/float-labels-css)
 * [Moving letters](http://tobiasahlin.com/moving-letters/)
@@ -198,7 +200,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-preload](https://github.com/fubhy/react-preload) - Preload a React component tree in the background before rendering it
 * [React-fns](https://react-fns.netlify.com/) - React Components for common Web APIs
 * [Immer](https://github.com/mweststrate/immer) - Create the next immutable state by mutating the current one
-* [React-window](https://react-window.now.sh/#/examples/list/fixed-size) - Windowing component for infinite lists
+* [React-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 * [React-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A React FLIP animation helper library for highly configurable transitions
 
 ## React Native
@@ -210,6 +212,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Open-sourcing Sonar, a new extensible debugging tool](https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/)
 * [State of React Native 2018](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
+* [Hunting JS memory leaks in React Native apps](https://blog.swmansion.com/hunting-js-memory-leaks-in-react-native-apps-bd73807d0fde?gi=84508c8ef0c7)
 
 ### Blessed libraries
 
@@ -278,6 +281,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 * [The GraphQL Stack](https://www.graphqlstack.com/) - Ecosystem links, layer by layer
 * [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
+* [Why GraphQL: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/)
 
 ### Relay vs Apollo
 
@@ -311,6 +315,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Full Stack Error Handling with GraphQL and Apollo 🚀](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 * [Using nullability in GraphQL](https://dev-blog.apollodata.com/using-nullability-in-graphql-2254f84c4ed7)
 * [Testing Apollo’s Query Component](https://dev-blog.apollodata.com/testing-apollos-query-component-d575dc642e04)
+* [GraphQL state management for React Native 🚀](http://chain-react-apollo.surge.sh/)
 
 #### Useful, promising libraries / components
 
@@ -363,6 +368,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Sw-precache-webpack-plugin](https://github.com/goldhand/sw-precache-webpack-plugin) - Webpack plugin that generates a service worker using sw-precache that will cache webpack's bundles' emitted assets
 * [Webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 * [Image-trace-loader](https://github.com/EmilTholin/image-trace-loader) - Loads images and exports traced outlines as image/svg+xml URL-encoded data
+* [Guess.js](https://github.com/guess-js/guess) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
 
 ## Webpack alternatives
 
