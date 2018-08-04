@@ -202,6 +202,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Immer](https://github.com/mweststrate/immer) - Create the next immutable state by mutating the current one
 * [React-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 * [React-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A React FLIP animation helper library for highly configurable transitions
+* [Css-suspense](https://github.com/threepointone/css-suspense) - CSS loading for react
 
 ## React Native
 
@@ -316,6 +317,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Using nullability in GraphQL](https://dev-blog.apollodata.com/using-nullability-in-graphql-2254f84c4ed7)
 * [Testing Apollo’s Query Component](https://dev-blog.apollodata.com/testing-apollos-query-component-d575dc642e04)
 * [GraphQL state management for React Native 🚀](http://chain-react-apollo.surge.sh/)
+* [Why Apollo: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/)
+* [Introducing @defer in Apollo Server](https://blog.apollographql.com/introducing-defer-in-apollo-server-f6797c4e9d6e?gi=a5bebab9591)
 
 #### Useful, promising libraries / components
 
@@ -482,6 +485,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [HTTP/2 push is tougher than I thought](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)
 * [Why you should be focusing on the 99th percentile when tracking request performance](https://spectrum.chat/thread/964ae5c3-1b82-47e9-b8b2-23ee7a5954e5)
 * [Measuring Wikipedia page load times](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/)
+* [Converting Images To WebP](https://www.smashingmagazine.com/2018/07/converting-images-to-webp/)
+* [The three browsers holding JavaScript back the most](https://mobile.twitter.com/jamiebuilds/status/1022568918949408768)
+* [Brotli Compression – How Much Will It Reduce Your Content?](https://paulcalvano.com/index.php/2018/07/25/brotli-compression-how-much-will-it-reduce-your-content/)
+* [Hey Meta](http://www.heymeta.com/) - Quickly check & build your meta tags
 
 ### React-side
 
@@ -587,6 +594,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [5 Essential Ingredients for an Awesome Tech Talk](https://medium.com/@reverentgeek/5-essential-ingredients-for-an-awesome-tech-talk-2e5778b2cb5a)
 * [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
 * [Awesome conference practices](https://github.com/kitze/awesome-conference-practices) - Did you like anything in particular about a conference? Let's make an awesome list 🎉
+* [Twitter thread about speaking in public](https://mobile.twitter.com/housecor/status/1023770060807200768)
 
 ### Interviews
 
