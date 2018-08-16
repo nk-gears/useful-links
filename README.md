@@ -323,6 +323,7 @@ I have gathered this list of links over time, and it is made of resources I have
 #### Useful, promising libraries / components
 
 * [React-apollo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
+* [Apollo Community Links](https://www.apollographql.com/docs/link/links/community.html)
 * [Apollo-link-state](https://github.com/apollographql/apollo-link-state) - Manage your application state with Apollo!
 * [Apollo-link-rest](https://github.com/apollographql/apollo-link-rest) - Use existing REST endpoints with GraphQL
 * [Apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist) - Simple persistence for all Apollo Cache implementations
@@ -572,6 +573,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 * [Managers and Seagulls](https://retrospective.co/seagulls/)
 * ["Solidifying what you learn"](https://dev.to/kentcdodds/solidifying-what-you-learn-lgi)
+
+### OSS
+
+* [Don't "Push" Your Pull Requests](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/)
 
 ### Remote working
 
