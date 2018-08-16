@@ -15,7 +15,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Unsplash](https://unsplash.com/) - Collection of beautiful, high resolution, free (and free of rights) images
 * [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 * [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
-* [](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images
+* [Terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images
 
 ### Productivity
 
