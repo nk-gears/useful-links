@@ -31,11 +31,13 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Regexr](https://regexr.com/) - Regex validator / tutorials
 * [Regex101](https://regex101.com/) - Regex validator / tutorials
 
-### Online IDEs
+### IDEs
 
 * [Awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
 * [CodeSandbox](https://codesandbox.io/) - The online code editor for React
 * [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [VSCode Themes](https://vscodethemes.com/)
 
 ### Others
 
@@ -91,6 +93,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Node best practices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 
 ## HTML
+
+### Semantics
+
+* [Understanding why Semantic HTML is important, as told by TypeScript](https://medium.com/@mandy.michael/understanding-why-semantic-html-is-important-as-told-by-typescript-bd71ad41e6c4)
 
 ### Accessibility
 
@@ -167,6 +173,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Use React DevTools - Youtube](https://www.youtube.com/watch?v=DQjMiKEwl_E&feature=youtu.be)
 * [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 * [Headless User Interface Components](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18)
+* [Using Composition and Render Props instead of Context API](https://medium.com/@barisozcetin/using-composition-and-render-props-instead-of-context-api-e431b1cbbc3b)
 
 ### Blessed libraries
 
@@ -214,6 +221,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [State of React Native 2018](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [Hunting JS memory leaks in React Native apps](https://blog.swmansion.com/hunting-js-memory-leaks-in-react-native-apps-bd73807d0fde?gi=84508c8ef0c7)
+* [Bridging React Native Back to its Roots](https://www.youtube.com/watch?v=aOWIJ4Mgb2k&amp=&feature=youtu.be) - Vincent Riemer (@vincentriemer) at @ReactEurope 2018
 
 ### Blessed libraries
 
@@ -350,7 +358,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest
 * [React-fake-props](https://github.com/typicode/react-fake-props) - Automatically generate fake props for your React tests (Jest, Enzyme, ...)
 
-## Other test solutions
+## Other testing solutions
 
 * [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser
 * [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
@@ -453,13 +461,20 @@ I have gathered this list of links over time, and it is made of resources I have
 * [GitBook](https://www.gitbook.com/) - Documentation your users will love!
 * [Docz](https://www.docz.site/) - It has never been so easy to document your things!
 
-## Spectacle
+## Presentations
+
+### Spectacle
 
 * [Spectacle docs](https://github.com/FormidableLabs/spectacle)
 * [Spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide)
 * [Spectacle-terminal](https://github.com/elijahmanor/spectacle-terminal)
 * [Spectacle-image-slide](https://github.com/FezVrasta/spectacle-image-slide)
 * [Presentations With Spectacle — How I Modularize My Deck](https://hackernoon.com/presentations-with-spectacle-how-i-modularize-my-deck-775c082cef08)
+
+### Mdx-deck
+
+* [Mdx-deck docs](https://github.com/jxnblk/mdx-deck)
+* [Code-surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code
 
 ## Performances (and SEO)
 
@@ -490,6 +505,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [The three browsers holding JavaScript back the most](https://mobile.twitter.com/jamiebuilds/status/1022568918949408768)
 * [Brotli Compression – How Much Will It Reduce Your Content?](https://paulcalvano.com/index.php/2018/07/25/brotli-compression-how-much-will-it-reduce-your-content/)
 * [Hey Meta](http://www.heymeta.com/) - Quickly check & build your meta tags
+* [Web performance basics](https://www.learnperf.com/)
 
 ### React-side
 
@@ -563,6 +579,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [On Senior Engineers](https://dev.to/bhilburn/on-senior-engineers)
 * [There's No Such Thing as a Full Stack Developer](https://dev.to/remotesynth/theres-no-such-thing-as-a-full-stack-developer-2fp9)
 * [What fonts do you use in your editor(s)?](https://dev.to/jess/what-fonts-do-you-use-in-your-editors)
+* [Why Being Too Polite in Web Design Is a Bad Thing](http://ianfrostweather.com/web/why-being-too-polite-in-web-design-is-a-bad-thing/)
 
 ### Leadership / Teaching
 
@@ -581,6 +598,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Remote working
 
 * [Why (I think) "Cost of Living" pay for remote workers is BS](https://dev.to/sam_ferree/why-i-think-cost-of-living-pay-for-remote-workers-is-bs-5b68)
+* [Tips for a successful switch to a standing desk](https://dev.to/jerodsanto/tips-for-a-successful-switch-to-a-standing-desk-4p8o)
 
 ### Communicating
 
@@ -635,6 +653,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Front end developer jobs](http://frontenddeveloperjob.com/)
 * [JobTeaser](https://epitech.jobteaser.com/fr/users/sign_in?back_to_after_login=%2Ffr)
 * [How I Find Six Figure Remote Software Developer Jobs](https://dev.to/colinmtech/how-i-find-six-figure-remote-software-developer-jobs-23jd)
+* [We Work Remotely](https://weworkremotely.com/)
 
 ## Personal achievements
 
