@@ -75,6 +75,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [AirBnB Javascript styleguide](https://github.com/airbnb/javascript)
 * [The increasing nature of frontend complexity](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae)
 * [Does it mutate?](https://doesitmutate.xyz/)
+* [Contrarian idea: JS doesn't move too fast](https://mobile.twitter.com/dceddia/status/1036807827547930624) - Twitter thread
 
 ## Typescript
 
@@ -82,6 +83,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Typescript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
 * [React-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) - A cheatsheet for react users using typescript with react for the first (or nth!) time
 * [React-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform) - Convert React JavaScript code to TypeScript with proper typing
+* [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/)
 
 ## Reason
 
@@ -210,6 +212,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 * [React-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A React FLIP animation helper library for highly configurable transitions
 * [Css-suspense](https://github.com/threepointone/css-suspense) - CSS loading for react
+* [React-filepond](https://github.com/pqina/react-filepond) - A handy FilePond (file uploader) adapter component for React
 
 ## React Native
 
@@ -370,10 +373,15 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Webpack docs](https://webpack.js.org/concepts/)
 * [Long-term caching of static assets with Webpack](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95)
 * [BundlePhobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle
+* [PackagePhobia](https://github.com/styfle/packagephobia) - Find the cost of adding a new dependency to your project
 * [Why would I use a Webpack?](http://tinselcity.net/whys/packers)
+* [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
+* [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+* [link rel=”prefetch/preload” in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
 
 ### Useful, promising libraries / components
 
+* [Webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 * [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/) - Visualize your bundles
 * [Source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 * [Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin)
@@ -381,6 +389,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 * [Image-trace-loader](https://github.com/EmilTholin/image-trace-loader) - Loads images and exports traced outlines as image/svg+xml URL-encoded data
 * [Guess.js](https://github.com/guess-js/guess) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
+* [Webpackbar](https://github.com/nuxt/webpackbar) - Elegant ProgressBar and Profiler for Webpack 3 and 4
+* [Webpack-notifier](https://github.com/Turbo87/webpack-notifier) - webpack + node-notifier = build status system notifications
+* [Imagemin-webpack-plugin](https://github.com/Klathmon/imagemin-webpack-plugin) - Plugin to compress images with imagemin
+* [Webpack-merge](https://github.com/survivejs/webpack-merge) - Merge designed for Webpack (MIT)
 
 ## Webpack alternatives
 
@@ -411,6 +423,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [ReactCasts #13 - Server Side Rendering: Data Fetching & Routing](https://www.youtube.com/watch?feature=youtu.be&v=duhudXkHRf4&a=&app=desktop)
 * [Server Rendering - Redux](http://redux.js.org/docs/recipes/ServerRendering.html)
 * [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
+* [What’s Server Side Rendering and do I need it?](https://medium.com/@baphemot/whats-server-side-rendering-and-do-i-need-it-cb42dc059b38)
 
 ### Boilerplates
 
@@ -450,11 +463,12 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Netlify docs](https://www.netlify.com/docs/)
 * [10 Netlify features to surprise and delight](https://medium.com/netlify/10-netlify-features-to-surprise-and-delight-225e846b7b21)
 
-## Sketch
+## Sketch / other design tools
 
 * [Sketching in the Browser](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526)
 * [React-sketchapp](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
 * [Html-sketchapp](https://github.com/brainly/html-sketchapp) - HTML to Sketch export solution
+* [Bringing Design System Components from Production into Framer X](https://blog.prototypr.io/bringing-design-system-components-from-production-into-framer-x-786e89be2250)
 
 ## Documentation
 
@@ -506,6 +520,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Brotli Compression – How Much Will It Reduce Your Content?](https://paulcalvano.com/index.php/2018/07/25/brotli-compression-how-much-will-it-reduce-your-content/)
 * [Hey Meta](http://www.heymeta.com/) - Quickly check & build your meta tags
 * [Web performance basics](https://www.learnperf.com/)
+* [How Image Optimization Decreased my Website’s Page Weight by 62%](https://medium.freecodecamp.org/image-optimization-558d9f449e3)
 
 ### React-side
 
@@ -566,6 +581,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [How to Manufacture Design](https://medium.com/behavior-design/how-to-manufacture-desire-3011c82a2b28)
 * [How to Design an Addictive Product](https://medium.com/swlh/how-to-design-an-addicting-product-29b948c427de)
 * [Mobile First, Desktop Never](https://dev.to/redbassett/mobile-first-desktop-never-2cfd)
+* [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 
 ### Being a developer
 
