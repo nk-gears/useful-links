@@ -176,6 +176,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 * [Headless User Interface Components](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18)
 * [Using Composition and Render Props instead of Context API](https://medium.com/@barisozcetin/using-composition-and-render-props-instead-of-context-api-e431b1cbbc3b)
+* [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525) - Github issue
 
 ### Blessed libraries
 
@@ -213,6 +214,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A React FLIP animation helper library for highly configurable transitions
 * [Css-suspense](https://github.com/threepointone/css-suspense) - CSS loading for react
 * [React-filepond](https://github.com/pqina/react-filepond) - A handy FilePond (file uploader) adapter component for React
+* [React-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms
+* [Loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 
 ## React Native
 
@@ -262,6 +265,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Redux isn't slow, you're just doing it wrong - An optimization guide](http://reactrocket.com/post/react-redux-optimization/)
 * [Scaling your Redux App with ducks](https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be)
 * [Using Redux DevTools in production](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f#.oznhybgta)
+* [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
+* [Goodbye Redux](https://hackernoon.com/goodbye-redux-26e6a27b3a0b)
 
 ### Useful, promising libraries / components
 
@@ -360,6 +365,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest
 * [React-fake-props](https://github.com/typicode/react-fake-props) - Automatically generate fake props for your React tests (Jest, Enzyme, ...)
+* [Jest-watch-master](https://github.com/rickhanlonii/jest-watch-master) - Jest watch plugin for checking changes since master
 
 ## Other testing solutions
 
@@ -378,6 +384,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
 * [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
 * [link rel=”prefetch/preload” in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
+* [Put Your Webpack Bundle On A Diet - Part 1](https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/)
 
 ### Useful, promising libraries / components
 
@@ -521,6 +528,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Hey Meta](http://www.heymeta.com/) - Quickly check & build your meta tags
 * [Web performance basics](https://www.learnperf.com/)
 * [How Image Optimization Decreased my Website’s Page Weight by 62%](https://medium.freecodecamp.org/image-optimization-558d9f449e3)
+* [The Low Hanging Fruit of Web Performance](http://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
 
 ### React-side
 
@@ -556,6 +564,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Security
 
+* [Security headers](https://securityheaders.com/) - Audit your website for performances
 * [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 * [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 * [Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
@@ -582,6 +591,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [How to Design an Addictive Product](https://medium.com/swlh/how-to-design-an-addicting-product-29b948c427de)
 * [Mobile First, Desktop Never](https://dev.to/redbassett/mobile-first-desktop-never-2cfd)
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
+* [Breaking the Deadlock Between User Experience and Developer Experience](https://alistapart.com/article/breaking-the-deadlock-between-user-experience-and-developer-experience)
 
 ### Being a developer
 
@@ -596,6 +606,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [There's No Such Thing as a Full Stack Developer](https://dev.to/remotesynth/theres-no-such-thing-as-a-full-stack-developer-2fp9)
 * [What fonts do you use in your editor(s)?](https://dev.to/jess/what-fonts-do-you-use-in-your-editors)
 * [Why Being Too Polite in Web Design Is a Bad Thing](http://ianfrostweather.com/web/why-being-too-polite-in-web-design-is-a-bad-thing/)
+* [Cheat to Win: Learn React with Copywork](https://daveceddia.com/learn-react-with-copywork/)
 
 ### Leadership / Teaching
 
