@@ -118,6 +118,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * ["last 2 versions" considered harmful](https://jamie.build/last-2-versions)
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 * [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
+* [How to force restart any iOS device with just CSS?](https://mobile.twitter.com/pwnsdx/status/1040944750973595649) - Twitter thread
 
 ### SCSS
 
@@ -216,6 +217,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-filepond](https://github.com/pqina/react-filepond) - A handy FilePond (file uploader) adapter component for React
 * [React-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms
 * [Loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
+* [React-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazy load your component, image or anything matters the performance
 
 ## React Native
 
@@ -400,6 +402,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Webpack-notifier](https://github.com/Turbo87/webpack-notifier) - webpack + node-notifier = build status system notifications
 * [Imagemin-webpack-plugin](https://github.com/Klathmon/imagemin-webpack-plugin) - Plugin to compress images with imagemin
 * [Webpack-merge](https://github.com/survivejs/webpack-merge) - Merge designed for Webpack (MIT)
+* [Terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser plugin
 
 ## Webpack alternatives
 
@@ -460,6 +463,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Practical Gatsby.js](https://blog.scottnonnenberg.com/practical-gatsby-js/)
 * [Using CSS Modules](https://github.com/gatsbyjs/gatsby/tree/master/examples/using-css-modules)
 * [Image Optimization Made Easy with Gatsby.js](https://medium.com/@kyle.robert.gill/ridiculously-easy-image-optimization-with-gatsby-js-59d48e15db6e)
+* [Announcing Gatsby 2.0.0](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)
 
 ### Plugins
 
@@ -529,6 +533,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Web performance basics](https://www.learnperf.com/)
 * [How Image Optimization Decreased my Website’s Page Weight by 62%](https://medium.freecodecamp.org/image-optimization-558d9f449e3)
 * [The Low Hanging Fruit of Web Performance](http://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
+* [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
+* [Performance-tuning a React application](https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2)
 
 ### React-side
 
@@ -565,9 +571,11 @@ I have gathered this list of links over time, and it is made of resources I have
 ## Security
 
 * [Security headers](https://securityheaders.com/) - Audit your website for performances
+* [Observatory by Mozilla](https://observatory.mozilla.org/)
 * [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 * [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 * [Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
+* [ScottHelme.uk](https://scotthelme.co.uk/) - Blog about web security
 
 ## Electron
 
