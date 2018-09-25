@@ -349,10 +349,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [A first look at Async React + Apollo](https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e)
 * [Reducing our Redux code with React Apollo](https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a)
 * [GraphQL Schema Design: Building Evolvable Schemas](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
-* [Full Stack Error Handling with GraphQL and Apollo 🚀](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
+* [Full Stack Error Handling with GraphQL and Apollo](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 * [Using nullability in GraphQL](https://dev-blog.apollodata.com/using-nullability-in-graphql-2254f84c4ed7)
 * [Testing Apollo’s Query Component](https://dev-blog.apollodata.com/testing-apollos-query-component-d575dc642e04)
-* [GraphQL state management for React Native 🚀](http://chain-react-apollo.surge.sh/)
+* [GraphQL state management for React Native](http://chain-react-apollo.surge.sh/)
 * [Introducing @defer in Apollo Server](https://blog.apollographql.com/introducing-defer-in-apollo-server-f6797c4e9d6e?gi=a5bebab9591)
 * [Batching Client GraphQL Queries](https://blog.apollographql.com/batching-client-graphql-queries-a685f5bcd41b)
 
@@ -475,7 +475,7 @@ I have gathered this list of links over time, and it is made of resources I have
 #### Documentation / News 📚
 
 * [Parcel docs](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
-* [📦 Parcel v1.9.0 — Tree Shaking, 2x faster watcher, and more! 🚀](https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79)
+* [Parcel v1.9.0 — Tree Shaking, 2x faster watcher, and more!](https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79)
 
 #### Concepts / Articles 💡
 
@@ -789,7 +789,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [I’ve spoken at JSConf and so can you!](https://medium.com/@a.sandrina.p/ive-spoken-at-jsconf-and-so-can-you-a9d92c1439a6)
 * [5 Essential Ingredients for an Awesome Tech Talk](https://medium.com/@reverentgeek/5-essential-ingredients-for-an-awesome-tech-talk-2e5778b2cb5a)
 * [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
-* [Awesome conference practices](https://github.com/kitze/awesome-conference-practices) - Did you like anything in particular about a conference? Let's make an awesome list 🎉
+* [Awesome conference practices](https://github.com/kitze/awesome-conference-practices) - Did you like anything in particular about a conference? Let's make an awesome list
 * [Twitter thread about speaking in public](https://mobile.twitter.com/housecor/status/1023770060807200768)
 
 ### Interviews
