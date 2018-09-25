@@ -33,7 +33,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### IDEs
 
-* [Awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
+* [Awesome-online-ide](https://github.com/styfle/awesome-online-ide) - A list of awesome online development environments
 * [CodeSandbox](https://codesandbox.io/) - The online code editor for React
 * [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -77,6 +77,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Does it mutate?](https://doesitmutate.xyz/)
 * [Contrarian idea: JS doesn't move too fast](https://mobile.twitter.com/dceddia/status/1036807827547930624) - Twitter thread
 
+## Node
+
+* [Node best practices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
+
 ## Typescript
 
 * [Typescript docs](https://www.typescriptlang.org/docs/handbook/basic-types.html)
@@ -89,10 +93,6 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [ReasonML docs](https://reasonml.github.io/docs/en/quickstart-javascript.html)
 * [Reason React Playground](https://astrada.github.io/reason-react-playground/?reason=LYewJgrgNgpgBAcQE4xgFwJYDsDmcC8cA3gFBxyxpwDGIwADiFjFlYQEowCGAzk512poAdDzRc0MWDx4BhOo2asAFACJkqTLlUBKANxkK6OMC4BreIWUB9agAsMUMCiw6CAPmKHyw37QZMLGgANN5wLmAwSABccMo8UgBmbvieADwARhBoaEyeygJ8WAJComhI2DgAKiAAorDAQWoAElJQIACEum5pAPRZOXmGAL4GoyQkJWgAIgDyALKcwhFRNfUwjawA6hhodgCSYMppGuiVcL3uwXCq9CgAbhgwAO66ekA)
-
-## Node
-
-* [Node best practices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
 
 ## HTML
 
@@ -111,10 +111,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Pseudo-classes MDN docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 * [Margin or padding?](https://hackernoon.com/margin-or-padding-f5252562313)
 * [Float labels with CSS](https://css-tricks.com/float-labels-css)
-* [Moving letters](http://tobiasahlin.com/moving-letters/)
-* [Single element CSS spinners](https://projects.lukehaas.me/css-loaders/)
 * [Creating a Loading Placeholder with Sass](https://www.leejamesrobinson.com/blog/loading-placeholder-with-sass/)
-* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
 * ["last 2 versions" considered harmful](https://jamie.build/last-2-versions)
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 * [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
@@ -155,14 +152,26 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Lottie](https://airbnb.design/lottie/)
 * [Lottie Files](https://www.lottiefiles.com/) - An online community to find, test, and share striking animations
 
+### Cool demos
+
+* [Moving letters](http://tobiasahlin.com/moving-letters/)
+* [Single element CSS spinners](https://projects.lukehaas.me/css-loaders/)
+* [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+
 ## React
 
-### Documentation, concepts, articles
+### Documentation / News
 
 * [React docs](https://facebook.github.io/react/docs/hello-world.html)
-* [List of curated resources from facebook/react](https://github.com/facebook/react/wiki/Complementary-Tools)
-* [Lifecycle Simulators](https://reactarmory.com/guides/lifecycle-simulators)
-* [Why is setState async](https://github.com/facebook/react/issues/11527#issuecomment-360199710)
+* [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) - React 16 release retrospective
+* [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
+* [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
+* [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
+* [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525) - Github issue
+
+### Concepts / Articles
+
+* [Why is setState async](https://github.com/facebook/react/issues/11527#issuecomment-360199710) - Github issue
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [React-bits](https://github.com/vasanthk/react-bits) - React patterns, techniques, tips and tricks
 * [Functional setState is the future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
@@ -170,26 +179,21 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React Pattern: Extract Child Components to Avoid Binding](https://medium.freecodecamp.org/react-pattern-extract-child-components-to-avoid-binding-e3ad8310725e)
 * [The constructor is dead, long live the constructor!](https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599)
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
-* [Behind the Scenes: Improving the Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) - React 16 release retrospective
-* [Sneak Peek: Beyond React 16](https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html)
-* [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
-* [Use React DevTools - Youtube](https://www.youtube.com/watch?v=DQjMiKEwl_E&feature=youtu.be)
-* [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 * [Headless User Interface Components](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18)
 * [Using Composition and Render Props instead of Context API](https://medium.com/@barisozcetin/using-composition-and-render-props-instead-of-context-api-e431b1cbbc3b)
-* [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525) - Github issue
 
-### Blessed libraries
+### Related tools
 
+* [Lifecycle Simulators](https://reactarmory.com/guides/lifecycle-simulators)
+* [Use React DevTools - Youtube](https://www.youtube.com/watch?v=DQjMiKEwl_E&feature=youtu.be)
 * [Create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration
-* [Awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
-
-### Useful, promising libraries / components
-
 * [React-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
+
+### Useful libraries
+
 * [React components & libraries](https://devarchy.com/react)
 * [JS.coach](https://js.coach/)
-* [React-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes
+* [Awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
 * [React-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 * [React-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful, accessible drag and drop for lists with React.js
 * [React-trend](https://github.com/unsplash/react-trend) - Simple, elegant spark lines
@@ -221,25 +225,35 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## React Native
 
-### Documentation, concepts, articles
+### Documentation / News
 
 * [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html)
-* [Awesome React Native](http://www.awesome-react-native.com/) - An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more
-* [Open-sourcing Sonar, a new extensible debugging tool](https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/)
 * [State of React Native 2018](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
+
+### Concepts / Articles
+
+* [Awesome React Native](http://www.awesome-react-native.com/) - An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [Hunting JS memory leaks in React Native apps](https://blog.swmansion.com/hunting-js-memory-leaks-in-react-native-apps-bd73807d0fde?gi=84508c8ef0c7)
 * [Bridging React Native Back to its Roots](https://www.youtube.com/watch?v=aOWIJ4Mgb2k&amp=&feature=youtu.be) - Vincent Riemer (@vincentriemer) at @ReactEurope 2018
 
-### Blessed libraries
+### Related tools
 
 * [Create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config
-
-### Useful, promising libraries / components
-
+* [Open-sourcing Sonar, a new extensible debugging tool](https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/)
 * [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers
+
+### Useful libraries
+
 * [Babel-plugin-functional-hmr](https://github.com/bvic23/babel-plugin-functional-hmr) - Babel plugin enables HMR for functional components in React Native
 * [React-native-sideswipe](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
+
+## Native Mobile Development
+
+### Useful libraries
+
+* [Litho](https://fblitho.com/) - A declarative UI framework for Android
+* [ComponentKit](https://componentkit.org/) - A React-Inspired View Framework for iOS
 
 ## Forms
 
@@ -252,44 +266,44 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Redux
 
-### Documentation, concepts, articles
+### Documentation / News
 
 * [Redux docs](http://redux.js.org/docs/introduction/index.html)
 * [Getting Started with Redux - Course by @dan_abramov @eggheadio](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux - Course by @dan_abramov @eggheadio](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
+### Concepts / Articles
+
 * [Idiomatic Redux: The Tao of Redux, Part 1 - Implementation and Intent](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/)
 * [Idiomatic Redux: The Tao of Redux, Part 2 - Practice and Philosophy](http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-2/)
-* [Redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
-* [React-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links Mark Erikson has collected on React, Redux, ES6, and more
-* [Awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 * [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.jda35b1n3)
 * [Dissecting Twitter’s Redux Store](https://medium.com/statuscode/dissecting-twitters-redux-store-d7280b62c6b1)
 * [Redux isn't slow, you're just doing it wrong - An optimization guide](http://reactrocket.com/post/react-redux-optimization/)
 * [Scaling your Redux App with ducks](https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be)
-* [Using Redux DevTools in production](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f#.oznhybgta)
 * [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
 * [Goodbye Redux](https://hackernoon.com/goodbye-redux-26e6a27b3a0b)
 
-### Useful, promising libraries / components
+### Related tools
 
+* [Using Redux DevTools in production](https://medium.com/@zalmoxis/using-redux-devtools-in-production-4c5b56c5600f#.oznhybgta)
+
+### Useful libraries
+
+* [Redux-ecosystem-links](https://github.com/markerikson/redux-ecosystem-links) - A categorized list of Redux-related addons, libraries, and utilities
+* [Awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 * [Introducing Redux-rest-easy: A library to generate your Redux code](https://engineering.brigad.co/introducing-redux-rest-easy-6e9a91af4f59)
 * [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 * [Introducing Redux VCR](https://medium.com/@joshuawcomeau/introducing-redux-vcr-cad57b37540a)
 * [Redux-bug-reporter](https://github.com/dtschust/redux-bug-reporter) - A bug reporter and bug playback tool for redux
 
-## Native Mobile
-
-### Useful, promising libraries / components
-
-* [Litho](https://fblitho.com/) - A declarative UI framework for Android
-* [ComponentKit](https://componentkit.org/) - A React-Inspired View Framework for iOS
-
 ## GraphQL
 
-### Documentation, concepts, articles
+### Documentation / News
 
 * [GraphQL docs](http://graphql.org/learn/)
-* [GraphiQL](http://graphql.org/swapi-graphql/) - In-browser IDE for writing, validating, and testing GraphQL queries
+
+### Concepts / Articles
+
 * [Awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 * [A Front-End Developer's Guide to GraphQL](https://css-tricks.com/front-end-developers-guide-graphql/)
 * [Adding GraphQL into Existing Express APIs](https://encryption.io/blog/adding-graphql-into-existing-express-apis/)
@@ -297,10 +311,14 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Why not use a JSON DSL instead of GraphQL?](https://blog.hasura.io/why-not-use-a-json-dsl-instead-of-graphql-d29f20cc97d2)
 * [Is GraphQL The Future?](http://artsy.github.io/blog/2018/05/08/is-graphql-the-future/)
 * [Reconciling GraphQL and Thrift at Airbnb](https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712)
-* [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 * [The GraphQL Stack](https://www.graphqlstack.com/) - Ecosystem links, layer by layer
-* [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
 * [Why GraphQL: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/)
+
+### Related tools
+
+* [GraphiQL](http://graphql.org/swapi-graphql/) - In-browser IDE for writing, validating, and testing GraphQL queries
+* [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
+* [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 
 ### Relay vs Apollo
 
@@ -315,30 +333,33 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Apollo
 
-#### Documentation, concepts, articles
+#### Documentation / News
 
 * [Apollo docs](https://www.apollographql.com/docs/react/index.html)
-* [Apollo Client 2.0: Beyond GraphQL APIs](https://dev-blog.apollodata.com/apollo-client-2-0-beyond-graphql-apis-888807b53afe) - From the [Apollo](https://github.com/apollographql) team
-* [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2) - From the [Apollo](https://github.com/apollographql) team
-* [What's next - Query components](https://dev-blog.apollodata.com/whats-next-for-react-apollo-4d41ba12c2cb) - From the [Apollo](https://github.com/apollographql) team
-* [Write Queries, Not Code](https://agentconf-apollo.surge.sh/#/) - By @peggyrayzis
+* [Apollo Client 2.0: Beyond GraphQL APIs](https://dev-blog.apollodata.com/apollo-client-2-0-beyond-graphql-apis-888807b53afe)
+* [The future of state management](https://dev-blog.apollodata.com/the-future-of-state-management-dd410864cae2)
+* [What's next - Query components](https://dev-blog.apollodata.com/whats-next-for-react-apollo-4d41ba12c2cb)
+* [Write Queries, Not Code](https://agentconf-apollo.surge.sh/#/) - Slides by @peggyrayzis
 * [Improved Apollo Client Devtools](https://dev-blog.apollodata.com/improved-apollo-client-devtools-eb43258f103f)
 * [Zero-config GraphQL state management](https://dev-blog.apollodata.com/zero-config-graphql-state-management-27b1f1b3c2c3)
 * [Introducing React Apollo 2.1](https://dev-blog.apollodata.com/introducing-react-apollo-2-1-c837cc23d926)
 * [A first look at Async React + Apollo](https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e)
 * [Reducing our Redux code with React Apollo](https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a)
-* [React Native with Apollo— Part 1, Apollo Server](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361)
-* [React Native with Apollo — Part 2, Apollo Client](https://medium.com/react-native-training/react-native-with-apollo-part-2-apollo-client-8b4ad4915cf5#.wnfqtzsn6)
-* [Apollo Client - the stuff no-one ever told ya](http://slides.com/alexeykureev/apollo-stuff-no-one-told-ya-4#/)
 * [GraphQL Schema Design: Building Evolvable Schemas](https://dev-blog.apollodata.com/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5)
 * [Full Stack Error Handling with GraphQL and Apollo 🚀](https://dev-blog.apollodata.com/full-stack-error-handling-with-graphql-apollo-5c12da407210)
 * [Using nullability in GraphQL](https://dev-blog.apollodata.com/using-nullability-in-graphql-2254f84c4ed7)
 * [Testing Apollo’s Query Component](https://dev-blog.apollodata.com/testing-apollos-query-component-d575dc642e04)
 * [GraphQL state management for React Native 🚀](http://chain-react-apollo.surge.sh/)
-* [Why Apollo: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/)
 * [Introducing @defer in Apollo Server](https://blog.apollographql.com/introducing-defer-in-apollo-server-f6797c4e9d6e?gi=a5bebab9591)
 
-#### Useful, promising libraries / components
+#### Concepts / Articles
+
+* [React Native with Apollo— Part 1, Apollo Server](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361)
+* [React Native with Apollo — Part 2, Apollo Client](https://medium.com/react-native-training/react-native-with-apollo-part-2-apollo-client-8b4ad4915cf5#.wnfqtzsn6)
+* [Apollo Client - the stuff no-one ever told ya](http://slides.com/alexeykureev/apollo-stuff-no-one-told-ya-4#/)
+* [Why Apollo: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/)
+
+#### Useful libraries
 
 * [React-apollo](https://github.com/apollographql/react-apollo) - React higher-order component for Apollo Client
 * [Apollo Community Links](https://www.apollographql.com/docs/link/links/community.html)
@@ -350,12 +371,16 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Apollo-tracing](https://github.com/apollographql/apollo-tracing-js) - A GraphQL extension for performance tracing
 * [Yaba-social](https://github.com/allpwrfulroot/yaba-social) - Yet Another Boilerplate App showing off react-navigation and the excellent new tools from Apollo
 
+## Test frameworks
 
-## Jest
+### Jest
 
-### Documentation, concepts, articles
+#### Documentation / News
 
 * [Jest docs](https://facebook.github.io/jest/)
+
+#### Concepts / Articles
+
 * [How to Test React Components Using Jest](https://www.sitepoint.com/test-react-components-jest/)
 * [The Right Way to test React Components](https://medium.freecodecamp.org/the-right-way-to-test-react-components-548a4736ab22#.bjitu9xkf)
 * [How to Snapshot Test Everything in Your Redux App With Jest](https://hackernoon.com/how-to-snapshot-test-everything-in-your-redux-app-with-jest-fde305ebedea)
@@ -363,32 +388,47 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Low effort, high value. Integration tests in Redux apps](https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5#.pya7gx9fr)
 * [Redux Testing Step by Step: A Simple Methodology for Testing Business Logic](https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce)
 
-### Useful, promising libraries / components
+#### Useful libraries
 
 * [Jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest
 * [React-fake-props](https://github.com/typicode/react-fake-props) - Automatically generate fake props for your React tests (Jest, Enzyme, ...)
 * [Jest-watch-master](https://github.com/rickhanlonii/jest-watch-master) - Jest watch plugin for checking changes since master
 
-## Other testing solutions
+### Cypress
+
+#### Documentation / News
 
 * [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser
+
+### Sizzy
+
+#### Documentation / News
+
 * [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
 
-## Webpack
+## Bundling solutions
 
-### Documentation, concepts, articles
+### Webpack
+
+#### Documentation / News
 
 * [Webpack docs](https://webpack.js.org/concepts/)
-* [Long-term caching of static assets with Webpack](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95)
-* [BundlePhobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle
-* [PackagePhobia](https://github.com/styfle/packagephobia) - Find the cost of adding a new dependency to your project
-* [Why would I use a Webpack?](http://tinselcity.net/whys/packers)
-* [webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
-* [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+* [Webpack 4: Code Splitting, chunk graph and the splitChunks optimization](https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366)
 * [link rel=”prefetch/preload” in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
+
+#### Concepts / Articles
+
+* [Long-term caching of static assets with Webpack](https://medium.com/@okonetchnikov/long-term-caching-of-static-assets-with-webpack-1ecb139adb95)
+* [Why would I use a Webpack?](http://tinselcity.net/whys/packers)
+* [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
 * [Put Your Webpack Bundle On A Diet - Part 1](https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/)
 
-### Useful, promising libraries / components
+#### Related tools
+
+* [BundlePhobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle
+* [PackagePhobia](https://github.com/styfle/packagephobia) - Find the cost of adding a new dependency to your project
+
+#### Useful libraries
 
 * [Webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 * [Webpack Visualizer](https://chrisbateman.github.io/webpack-visualizer/) - Visualize your bundles
@@ -404,26 +444,33 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Webpack-merge](https://github.com/survivejs/webpack-merge) - Merge designed for Webpack (MIT)
 * [Terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser plugin
 
-## Webpack alternatives
-
 ### Rollup
+
+#### Documentation / News
 
 * [Rollup docs](https://rollupjs.org/) - Next-generation ES6 module bundler
 
 ### Parcel
 
+#### Documentation / News
+
 * [Parcel docs](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
-* [ParcelJS: How simple really is it?](https://itnext.io/parceljs-how-simple-really-is-it-679a4feba69d?gi=12888863d7c7)
 * [📦 Parcel v1.9.0 — Tree Shaking, 2x faster watcher, and more! 🚀](https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79)
 
+#### Concepts / Articles
+
+* [ParcelJS: How simple really is it?](https://itnext.io/parceljs-how-simple-really-is-it-679a4feba69d?gi=12888863d7c7)
+
 ## No config tools
+
+### Concepts / Articles
 
 * [Tools without config](https://blog.kentcdodds.com/automation-without-config-412ab5e47229)
 * [Kcd-scripts](https://github.com/kentcdodds/kcd-scripts) - CLI toolbox for common scripts for my projects
 
 ## Server Side Rendering
 
-### Documentation, concepts, articles
+### Concepts / Articles
 
 * [You might (not) need a Server Side Rendering framework](https://adrien.harnay.me/you-might-not-need-a-server-side-rendering-framework/)
 * [Server-Side Rendering and Code Splitting with React-Router 4 and Webpack 2](https://blog.emilecantin.com/web/react/javascript/2017/05/16/ssr-react-router-4-webpack-code-split.html)
@@ -445,46 +492,89 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Blazing fast static site generator for React
 * [Next.js](https://github.com/zeit/next.js) - Framework for server-rendered React apps
-* [Learning Next.js to build server rendered JS web apps with React](https://learnnextjs.com/)
-* [Lessons Learned Building in Next.js](https://medium.com/@diamondgfx/nextjs-lessons-learned-part-1-a5a8d442450f)
-* [Create-react-next-app](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command
 * [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration
 * [React-server](https://github.com/redfin/react-server) - Blazing fast page load and seamless navigation
 - [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4
 
-## Gatsby.js
+### Gatsby.js
 
-### Documentation, concepts, articles
+#### Documentation / News
 
 * [Gatsby.js docs](https://github.com/gatsbyjs/gatsby)
-* [Why GraphQL for Gatsby 1.0](https://github.com/gatsbyjs/gatsby/issues/420)
-* [Gatsby.js: How to set up and use the React Static Site Generator](https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a)
+* [Why GraphQL for Gatsby 1.0](https://github.com/gatsbyjs/gatsby/issues/420) - Github issue
 * [Gatsby + Contentful + Netlify (and Algolia)](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
+* [Announcing Gatsby 2.0.0](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)
+
+#### Concepts / Articles
+
+* [Gatsby.js: How to set up and use the React Static Site Generator](https://medium.freecodecamp.org/setting-up-and-getting-used-to-gatsby-1fc27985ae8a)
 * [Practical Gatsby.js](https://blog.scottnonnenberg.com/practical-gatsby-js/)
 * [Using CSS Modules](https://github.com/gatsbyjs/gatsby/tree/master/examples/using-css-modules)
 * [Image Optimization Made Easy with Gatsby.js](https://medium.com/@kyle.robert.gill/ridiculously-easy-image-optimization-with-gatsby-js-59d48e15db6e)
-* [Announcing Gatsby 2.0.0](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)
 
-### Plugins
+#### Useful libraries
 
 * [gatsby-plugin-offline](https://www.gatsbyjs.org/packages/gatsby-plugin-offline/)
+
+### Next.js
+
+#### Documentation / News
+
+* [Learning Next.js to build server rendered JS web apps with React](https://nextjs.org/learn/)
+
+#### Concepts / Articles
+
+* [Lessons Learned Building in Next.js](https://medium.com/@diamondgfx/nextjs-lessons-learned-part-1-a5a8d442450f)
+
+#### Related tools
+
+* [Create-react-next-app](https://github.com/segmentio/create-next-app) - Create Next.js apps in one command
+
+## Electron
+
+* [From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
+* [Building Electron Apps with Next.js](https://leo.im/2017/electron-next)
+
+## Hosting solutions
 
 ### Netlify
 
 * [Netlify docs](https://www.netlify.com/docs/)
 * [10 Netlify features to surprise and delight](https://medium.com/netlify/10-netlify-features-to-surprise-and-delight-225e846b7b21)
 
-## Sketch / other design tools
+### Now
+
+* [Now docs](https://zeit.co/now)
+
+## Design tools
+
+### Sketch
+
+#### Concepts / Articles
 
 * [Sketching in the Browser](https://medium.com/seek-blog/sketching-in-the-browser-33a7b7aa0526)
+
+#### Useful libraries
+
 * [React-sketchapp](https://github.com/airbnb/react-sketchapp) - Render React components to Sketch
 * [Html-sketchapp](https://github.com/brainly/html-sketchapp) - HTML to Sketch export solution
+
+### Framer X
+
+#### Concepts / Articles
+
 * [Bringing Design System Components from Production into Framer X](https://blog.prototypr.io/bringing-design-system-components-from-production-into-framer-x-786e89be2250)
 
-## Documentation
+## Styleguide generators
+
+* [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
+* [Storybook](https://storybook.js.org/) - The UI development environment you'll love to use
+
+## Documentation generators
 
 * [GitBook](https://www.gitbook.com/) - Documentation your users will love!
 * [Docz](https://www.docz.site/) - It has never been so easy to document your things!
+* [React-docgen](https://github.com/reactjs/react-docgen) - A CLI and toolbox to extract information from React component files for documentation generation purposes
 
 ## Presentations
 
@@ -501,27 +591,34 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Mdx-deck docs](https://github.com/jxnblk/mdx-deck)
 * [Code-surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code
 
-## Performances (and SEO)
+## SEO
+
+### Concepts / Articles
+
+* [Step Your Meta Game Up](https://dev.to/rpalo/step-your-meta-game-up)
+
+### Benchmarks
+
+* [Hey Meta](http://www.heymeta.com/) - Quickly check & build your meta tags
+
+## Performances
 
 * [Front-end-checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
 
-### User-side
+### Appearance
 
 * [The Illusion of Speed](https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/)
 * [Designing for the Appearance of Speed](https://medium.com/mobify-design-team/designing-for-the-appearance-of-speed-aaabc7f568c2)
 
-### Browser-side
+### Network
 
 * [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 * [The Critical Request](https://css-tricks.com/the-critical-request/)
 * [Performance Analysis Reference](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference)
 * [How to Simulate Mobile Devices with Device Mode in Chrome](https://www.sitepoint.com/how-to-simulate-mobile-devices-with-device-mode-in-chrome/)
 * [Using the Paint Timing API](https://css-tricks.com/paint-timing-api/)
-* [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 * [Optimising the front end for the browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
-* [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
-* [Step Your Meta Game Up](https://dev.to/rpalo/step-your-meta-game-up)
 * [Web fonts: when you need them, when you don’t](https://hackernoon.com/web-fonts-when-you-need-them-when-you-dont-a3b4b39fe0ae)
 * [HTTP/2 push is tougher than I thought](https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/)
 * [Why you should be focusing on the 99th percentile when tracking request performance](https://spectrum.chat/thread/964ae5c3-1b82-47e9-b8b2-23ee7a5954e5)
@@ -529,15 +626,15 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Converting Images To WebP](https://www.smashingmagazine.com/2018/07/converting-images-to-webp/)
 * [The three browsers holding JavaScript back the most](https://mobile.twitter.com/jamiebuilds/status/1022568918949408768)
 * [Brotli Compression – How Much Will It Reduce Your Content?](https://paulcalvano.com/index.php/2018/07/25/brotli-compression-how-much-will-it-reduce-your-content/)
-* [Hey Meta](http://www.heymeta.com/) - Quickly check & build your meta tags
 * [Web performance basics](https://www.learnperf.com/)
 * [How Image Optimization Decreased my Website’s Page Weight by 62%](https://medium.freecodecamp.org/image-optimization-558d9f449e3)
 * [The Low Hanging Fruit of Web Performance](http://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
+
+### Input / Throughput
+
+* [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * [JavaScript Start-up Performance](https://medium.com/reloading/javascript-start-up-performance-69200f43b201)
 * [Performance-tuning a React application](https://codeburst.io/performance-tuning-a-react-application-f480f46dc1a2)
-
-### React-side
-
 * [Infinite List and React](http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
 * [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
 * [React is Slow, React is Fast: Optimizing React Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
@@ -556,6 +653,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [How to turn your website into a PWA](https://mxb.at/blog/how-to-turn-your-website-into-a-pwa/)
 * [Service Workers](https://flaviocopes.com/service-workers/)
 * [A React And Preact Progressive Web App Performance Case Study: Treebo](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
+* [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 * [Progressive Web App with Webpack](https://dev.to/remejuan/progressive-web-app-with-webpack-87p)
 
 ### Benchmarks
@@ -570,17 +668,17 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Security
 
-* [Security headers](https://securityheaders.com/) - Audit your website for performances
-* [Observatory by Mozilla](https://observatory.mozilla.org/)
+### Concepts / Articles
+
 * [Please Stop Using Local Storage](https://dev.to/rdegges/please-stop-using-local-storage-1i04)
 * [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 * [Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
 * [ScottHelme.uk](https://scotthelme.co.uk/) - Blog about web security
 
-## Electron
+### Benchmarks
 
-* [From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
-* [Building Electron Apps with Next.js](https://leo.im/2017/electron-next)
+* [Security headers](https://securityheaders.com/) - Audit your website for performances
+* [Observatory by Mozilla](https://observatory.mozilla.org/)
 
 ## Blog posts
 
