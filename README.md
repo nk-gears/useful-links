@@ -151,12 +151,14 @@ I have gathered this list of links over time, and it is made of resources I have
 * [How to create fancy revealing animations with these simple CSS tricks](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a)
 * [Lottie](https://airbnb.design/lottie/)
 * [Lottie Files](https://www.lottiefiles.com/) - An online community to find, test, and share striking animations
+* [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
 ### Cool demos
 
 * [Moving letters](http://tobiasahlin.com/moving-letters/)
 * [Single element CSS spinners](https://projects.lukehaas.me/css-loaders/)
 * [30 Seconds of CSS](https://atomiks.github.io/30-seconds-of-css/)
+* [Responsive animated progress bar to donut](https://codepen.io/ainalem/details/zJeyxo/)
 
 ## React
 
@@ -236,6 +238,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [Hunting JS memory leaks in React Native apps](https://blog.swmansion.com/hunting-js-memory-leaks-in-react-native-apps-bd73807d0fde?gi=84508c8ef0c7)
 * [Bridging React Native Back to its Roots](https://www.youtube.com/watch?v=aOWIJ4Mgb2k&amp=&feature=youtu.be) - Vincent Riemer (@vincentriemer) at @ReactEurope 2018
+* [Shipping React Native apps with Fastlane and Travis](https://dev.to/carloscuesta/shipping-react-native-apps-with-fastlane-and-travis-1aea)
 
 ### Related tools
 
@@ -351,6 +354,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Testing Apollo’s Query Component](https://dev-blog.apollodata.com/testing-apollos-query-component-d575dc642e04)
 * [GraphQL state management for React Native 🚀](http://chain-react-apollo.surge.sh/)
 * [Introducing @defer in Apollo Server](https://blog.apollographql.com/introducing-defer-in-apollo-server-f6797c4e9d6e?gi=a5bebab9591)
+* [Batching Client GraphQL Queries](https://blog.apollographql.com/batching-client-graphql-queries-a685f5bcd41b)
 
 #### Concepts / Articles
 
@@ -399,6 +403,7 @@ I have gathered this list of links over time, and it is made of resources I have
 #### Documentation / News
 
 * [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser
+* [We're officially out of beta!](https://www.cypress.io/blog/2018/09/20/cypress-is-officially-out-of-beta/)
 
 ### Sizzy
 
@@ -406,7 +411,22 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
 
-## Bundling solutions
+## Transpilers and optimizers
+
+### Babel
+
+#### Documentation / News
+
+* [Babel docs](https://babeljs.io/)
+* [Babel 7 released](https://babeljs.io/blog/2018/08/27/7.0.0)
+
+### Prepack
+
+#### Concepts / Articles
+
+* [A Gentle Introduction to Prepack (Part 1)](https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4)
+
+## Bundlers
 
 ### Webpack
 
@@ -521,6 +541,7 @@ I have gathered this list of links over time, and it is made of resources I have
 #### Documentation / News
 
 * [Learning Next.js to build server rendered JS web apps with React](https://nextjs.org/learn/)
+* [Next.js 7](https://nextjs.org/blog/next-7)
 
 #### Concepts / Articles
 
@@ -534,6 +555,16 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
 * [Building Electron Apps with Next.js](https://leo.im/2017/electron-next)
+
+## Vue
+
+### Documentation / News
+
+* [Vue docs](https://vuejs.org/)
+
+### Concepts / Articles
+
+* [Vue.js - Scoped Styles vs CSS Modules](https://www.netguru.co/codestories/vue.js-scoped-styles-vs-css-modules)
 
 ## Hosting solutions
 
@@ -629,6 +660,11 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Web performance basics](https://www.learnperf.com/)
 * [How Image Optimization Decreased my Website’s Page Weight by 62%](https://medium.freecodecamp.org/image-optimization-558d9f449e3)
 * [The Low Hanging Fruit of Web Performance](http://mediatemple.net/blog/tips/low-hanging-fruit-web-performance/)
+* [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+* [Fast By Default: Modern Loading Best Practices (Chrome Dev Summit 2017)](https://www.youtube.com/watch?feature=youtu.be&v=_srJ7eHS3IM)
+* [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+* [Speed is now a landing page factor for Google Search and Ads](https://developers.google.com/web/updates/2018/07/search-ads-speed)
+* [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
 
 ### Input / Throughput
 
@@ -658,13 +694,16 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Benchmarks
 
+* [How To Think About Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 * [Test My Site With Google](https://testmysite.withgoogle.com/)
 * [Winning on Mobile by Google](https://www.thinkwithgoogle.com/feature/mobile/)
+* [Google Mobile Optimisation Test](https://search.google.com/test/mobile-friendly)
 * [Real User Experience Test](https://ruxt.dexecure.com/)
 * [Website Speed Test Image Analysis Tool](https://webspeedtest.cloudinary.com/)
 * [Page Weight by Imgx](https://pageweight.imgix.com/)
+* [Custom site performance reports with the CrUX Dashboard](https://developers.google.com/web/updates/2018/08/chrome-ux-report-dashboard)
 
 ## Security
 
@@ -698,6 +737,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Mobile First, Desktop Never](https://dev.to/redbassett/mobile-first-desktop-never-2cfd)
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 * [Breaking the Deadlock Between User Experience and Developer Experience](https://alistapart.com/article/breaking-the-deadlock-between-user-experience-and-developer-experience)
+* [Ever wonder why the most popular apps are starting to look the same? It might be a good thing](https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5)
 
 ### Being a developer
 
