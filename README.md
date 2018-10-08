@@ -140,6 +140,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Flexbox
 
 * [Flexbox Zombies](https://mastery.games/p/flexbox-zombies) - Free course on flexboxes
+* [Test CSS Flexbox Rules](http://flexbox.help/)
 
 ### Grid
 
@@ -190,6 +191,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Use React DevTools - Youtube](https://www.youtube.com/watch?v=DQjMiKEwl_E&feature=youtu.be)
 * [Create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration
 * [React-codemod](https://github.com/reactjs/react-codemod) - React codemod scripts
+* [SVGR : The SVG to JSX transformer](https://svgr.now.sh/)
 
 ### Useful libraries 💾
 
@@ -239,6 +241,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Hunting JS memory leaks in React Native apps](https://blog.swmansion.com/hunting-js-memory-leaks-in-react-native-apps-bd73807d0fde?gi=84508c8ef0c7)
 * [Bridging React Native Back to its Roots](https://www.youtube.com/watch?v=aOWIJ4Mgb2k&amp=&feature=youtu.be) - Vincent Riemer (@vincentriemer) at @ReactEurope 2018
 * [Shipping React Native apps with Fastlane and Travis](https://dev.to/carloscuesta/shipping-react-native-apps-with-fastlane-and-travis-1aea)
+* [Progressive Image Loading in React Native](https://medium.com/react-native-training/progressive-image-loading-in-react-native-e7a01827feb7)
 
 ### Related tools 🛠️
 
@@ -285,6 +288,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Scaling your Redux App with ducks](https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be)
 * [Redux vs. The React Context API](https://daveceddia.com/context-api-vs-redux/)
 * [Goodbye Redux](https://hackernoon.com/goodbye-redux-26e6a27b3a0b)
+* [Escaping Redux pitfalls in React Native world][https://blog.swmansion.com/escaping-redux-pitfalls-in-react-native-world-e151c008c97a)
 
 ### Related tools 🛠️
 
@@ -476,6 +480,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Parcel docs](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 * [Parcel v1.9.0 — Tree Shaking, 2x faster watcher, and more!](https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79)
+* [Parcel v1.10.0 — Babel 7, Flow, Elm, and more!](https://medium.com/@devongovett/parcel-v1-10-0-babel-7-flow-elm-and-more-c20736553573)
 
 #### Concepts / Articles 💡
 
@@ -524,6 +529,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Why GraphQL for Gatsby 1.0](https://github.com/gatsbyjs/gatsby/issues/420) - Github issue
 * [Gatsby + Contentful + Netlify (and Algolia)](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
 * [Announcing Gatsby 2.0.0](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)
+* [Web Performance 102: Keeping Gatsby Sites Blazing Fast](https://www.gatsbyjs.org/blog/2019-10-03-gatsby-perf/)
 
 #### Concepts / Articles 💡
 
@@ -596,6 +602,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Bringing Design System Components from Production into Framer X](https://blog.prototypr.io/bringing-design-system-components-from-production-into-framer-x-786e89be2250)
 
+### Others
+
+* [ColorBox by Lyft Design](https://www.colorbox.io/)
+
 ## Styleguide generators
 
 * [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
@@ -655,6 +665,9 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Why Performance Matters](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 * [Speed is now a landing page factor for Google Search and Ads](https://developers.google.com/web/updates/2018/07/search-ads-speed)
 * [10 things I learned making the fastest site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
+* [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
+* [Improving Client-Side Performance](https://tj.ie/improving-client-side-performance/)
+* [Automating image optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/)
 
 ### Input / Throughput
 
@@ -703,6 +716,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Benchmarks 💯
 
+* [SEO Checker](https://suite.seotesteronline.com/seo-checker)
 * [Hey Meta](http://www.heymeta.com/) - Quickly check & build your meta tags
 
 ## Security
