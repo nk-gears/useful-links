@@ -98,6 +98,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Semantics
 
+* [html & css is hard](https://internetingishard.com/html-and-css/)
 * [Understanding why Semantic HTML is important, as told by TypeScript](https://medium.com/@mandy.michael/understanding-why-semantic-html-is-important-as-told-by-typescript-bd71ad41e6c4)
 
 ### Accessibility
@@ -184,6 +185,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 * [Headless User Interface Components](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18)
 * [Using Composition and Render Props instead of Context API](https://medium.com/@barisozcetin/using-composition-and-render-props-instead-of-context-api-e431b1cbbc3b)
+* [The Suspense is Killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430)
 
 ### Related tools 🛠️
 
@@ -253,6 +255,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Babel-plugin-functional-hmr](https://github.com/bvic23/babel-plugin-functional-hmr) - Babel plugin enables HMR for functional components in React Native
 * [React-native-sideswipe](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
+* [React-native-testing-library](https://github.com/callstack/react-native-testing-library) - Simple React Native testing utilities helping you write better tests with less effort
 
 ## Native Mobile Development
 
@@ -668,6 +671,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
 * [Improving Client-Side Performance](https://tj.ie/improving-client-side-performance/)
 * [Automating image optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/)
+* [State of the Web: Top Image Optimization Strategies](https://dev.to/dougsillars/state-of-the-web-top-image-optimization-strategies-k0e)
+* [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
 
 ### Input / Throughput
 
@@ -713,6 +718,8 @@ I have gathered this list of links over time, and it is made of resources I have
 ### Concepts / Articles 💡
 
 * [Step Your Meta Game Up](https://dev.to/rpalo/step-your-meta-game-up)
+* [How To Use H1-H6 HTML Elements Properly](https://www.hobo-web.co.uk/headers/)
+* [ContentKing Academy](https://www.contentkingapp.com/academy/)
 
 ### Benchmarks 💯
 
