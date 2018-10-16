@@ -63,6 +63,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Npm semver calculator](https://semver.npmjs.com/)
 
+### Others
+
+* [Path-package](https://github.com/ds300/patch-package) - Fix broken node modules with no fuss
+
 ## Javascript
 
 * [Mozilla re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -186,6 +190,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Headless User Interface Components](https://medium.com/merrickchristensen/headless-user-interface-components-565b0c0f2e18)
 * [Using Composition and Render Props instead of Context API](https://medium.com/@barisozcetin/using-composition-and-render-props-instead-of-context-api-e431b1cbbc3b)
 * [The Suspense is Killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430)
+* [Avoiding unnecessary renders with React context](https://frontarm.com/articles/react-context-performance/)
+* [Guide To Async Components](https://github.com/stereobooster/guide-to-async-components)
 
 ### Related tools 🛠️
 
@@ -228,6 +234,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-credit-cards](https://github.com/amarofashion/react-credit-cards) - Beautiful credit cards for your payment forms
 * [Loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 * [React-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazy load your component, image or anything matters the performance
+* [React-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element
 
 ## React Native
 
@@ -238,6 +245,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Concepts / Articles 💡
 
+* [Know React? Try React Native.](https://shift.infinite.red/know-react-try-react-native-48f459f36675)
 * [Awesome React Native](http://www.awesome-react-native.com/) - An awesome style list that curates the best React Native libraries, tools, tutorials, articles and more
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c)
 * [Hunting JS memory leaks in React Native apps](https://blog.swmansion.com/hunting-js-memory-leaks-in-react-native-apps-bd73807d0fde?gi=84508c8ef0c7)
@@ -398,6 +406,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Unit Testing a React Redux App](https://giamir.com/unit-testing-a-react-redux-app)
 * [Low effort, high value. Integration tests in Redux apps](https://hackernoon.com/low-effort-high-value-integration-tests-in-redux-apps-d3a590bd9fd5#.pya7gx9fr)
 * [Redux Testing Step by Step: A Simple Methodology for Testing Business Logic](https://medium.com/@talkol/redux-testing-step-by-step-a-simple-methodology-for-testing-business-logic-8901670756ce)
+* [So you think you don’t need unit tests? Think again](https://mobile.twitter.com/frontstuff_io/status/1050809148751925250) - Twitter thread
 
 #### Useful libraries 💾
 
@@ -426,6 +435,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [Babel docs](https://babeljs.io/)
 * [Babel 7 released](https://babeljs.io/blog/2018/08/27/7.0.0)
+
+#### Useful libraries 💾
+
+* [Babel-plugin-macros](https://github.com/kentcdodds/babel-plugin-macros) - Enables zero-config, importable babel plugins
 
 ### Prepack
 
@@ -673,6 +686,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Automating image optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/)
 * [State of the Web: Top Image Optimization Strategies](https://dev.to/dougsillars/state-of-the-web-top-image-optimization-strategies-k0e)
 * [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
+* [ImgBot](https://github.com/marketplace/imgbot)
 
 ### Input / Throughput
 
