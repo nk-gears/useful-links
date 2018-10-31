@@ -80,6 +80,8 @@ I have gathered this list of links over time, and it is made of resources I have
 * [The increasing nature of frontend complexity](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae)
 * [Does it mutate?](https://doesitmutate.xyz/)
 * [Contrarian idea: JS doesn't move too fast](https://mobile.twitter.com/dceddia/status/1036807827547930624) - Twitter thread
+* [Asynchronous JS Cheatsheet](https://frontarm.com/async-cheatsheet.pdf)
+* [Property order is predictable in JavaScript objects since ES2015](https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/)
 
 ## Node
 
@@ -121,6 +123,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Don’t Use The Placeholder Attribute](https://www.smashingmagazine.com/2018/06/placeholder-attribute/)
 * [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
 * [How to force restart any iOS device with just CSS?](https://mobile.twitter.com/pwnsdx/status/1040944750973595649) - Twitter thread
+* [Keys to maintainable CSS: Order](https://pyx.space/post/keys-to-maintainable-css-order)
 
 ### SCSS
 
@@ -176,6 +179,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Update on Async Rendering](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
 * [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 * [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525) - Github issue
+* [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ### Concepts / Articles 💡
 
@@ -192,6 +196,9 @@ I have gathered this list of links over time, and it is made of resources I have
 * [The Suspense is Killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430)
 * [Avoiding unnecessary renders with React context](https://frontarm.com/articles/react-context-performance/)
 * [Guide To Async Components](https://github.com/stereobooster/guide-to-async-components)
+* [Lazy-loading components in React 16.6](https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52?gi=6cc88f71d9d9)
+* [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+* [A Simple Intro to React Hooks](https://daveceddia.com/intro-to-hooks/)
 
 ### Related tools 🛠️
 
@@ -235,6 +242,9 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 * [React-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazy load your component, image or anything matters the performance
 * [React-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element
+* [The-platform](https://github.com/palmerhq/the-platform) - Web API's turned into React Hooks and Suspense-friendly React components
+* [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
+* [Rehooks](https://rehooks.com/) - Collection of React Hooks
 
 ## React Native
 
@@ -331,6 +341,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Reconciling GraphQL and Thrift at Airbnb](https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712)
 * [The GraphQL Stack](https://www.graphqlstack.com/) - Ecosystem links, layer by layer
 * [Why GraphQL: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/)
+* [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 
 ### Related tools 🛠️
 
@@ -546,6 +557,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Gatsby + Contentful + Netlify (and Algolia)](https://www.gatsbyjs.org/blog/2017-12-06-gatsby-plus-contentful-plus-netlify/)
 * [Announcing Gatsby 2.0.0](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)
 * [Web Performance 102: Keeping Gatsby Sites Blazing Fast](https://www.gatsbyjs.org/blog/2019-10-03-gatsby-perf/)
+* [Beyond Static: Building Dynamic Apps with Gatsby](https://www.gatsbyjs.org/blog/2018-10-15-beyond-static-intro/)
 
 #### Concepts / Articles 💡
 
@@ -773,6 +785,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 * [Breaking the Deadlock Between User Experience and Developer Experience](https://alistapart.com/article/breaking-the-deadlock-between-user-experience-and-developer-experience)
 * [Ever wonder why the most popular apps are starting to look the same? It might be a good thing](https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5)
+* [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
 
 ### Being a developer
 
