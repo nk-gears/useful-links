@@ -243,6 +243,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [React-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazy load your component, image or anything matters the performance
 * [React-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element
 * [The-platform](https://github.com/palmerhq/the-platform) - Web API's turned into React Hooks and Suspense-friendly React components
+* [Hooks.guide](https://www.hooks.guide/)
 * [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 * [Rehooks](https://rehooks.com/) - Collection of React Hooks
 
@@ -252,6 +253,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 * [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html)
 * [State of React Native 2018](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
+* [Open Source Roadmap](http://facebook.github.io/react-native/blog/2018/11/01/oss-roadmap)
 
 ### Concepts / Articles 💡
 
@@ -262,6 +264,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [Bridging React Native Back to its Roots](https://www.youtube.com/watch?v=aOWIJ4Mgb2k&amp=&feature=youtu.be) - Vincent Riemer (@vincentriemer) at @ReactEurope 2018
 * [Shipping React Native apps with Fastlane and Travis](https://dev.to/carloscuesta/shipping-react-native-apps-with-fastlane-and-travis-1aea)
 * [Progressive Image Loading in React Native](https://medium.com/react-native-training/progressive-image-loading-in-react-native-e7a01827feb7)
+* [Using SVG in Latest React Native Version 0.57](https://medium.com/@prathik_63905/using-svg-in-latest-react-native-version-0-57-e04aa8ea7dd8)
 
 ### Related tools 🛠️
 
@@ -590,6 +593,10 @@ I have gathered this list of links over time, and it is made of resources I have
 * [From React to an Electron app ready for production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
 * [Building Electron Apps with Next.js](https://leo.im/2017/electron-next)
 
+## Carlo
+
+* [Carlo](https://github.com/GoogleChromeLabs/carlo) - Web rendering surface for Node applications
+
 ## Vue
 
 ### Documentation / News 📚
@@ -699,6 +706,7 @@ I have gathered this list of links over time, and it is made of resources I have
 * [State of the Web: Top Image Optimization Strategies](https://dev.to/dougsillars/state-of-the-web-top-image-optimization-strategies-k0e)
 * [Start Performance Budgeting](https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3)
 * [ImgBot](https://github.com/marketplace/imgbot)
+* [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 
 ### Input / Throughput
 
