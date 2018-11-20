@@ -187,6 +187,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 - [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525) - Github issue
 - [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Versioning Policy](https://reactjs.org/docs/faq-versioning.html)
 
 ### Concepts / Articles 💡
 
@@ -253,6 +254,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Hooks.guide](https://www.hooks.guide/)
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [Rehooks](https://rehooks.com/) - Collection of React Hooks
+- [React-rewards](https://github.com/thedevelobear/react-rewards) - Reward your users for little things and make them smile!
 
 ## React Native
 
@@ -352,6 +354,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [The GraphQL Stack](https://www.graphqlstack.com/) - Ecosystem links, layer by layer
 - [Why GraphQL: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/)
 - [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
+- [Building a GraphQL API by Example: Restaurant Reviews](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-acd80d60ec77)
 
 ### Related tools 🛠️
 
@@ -571,6 +574,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Web Performance 102: Keeping Gatsby Sites Blazing Fast](https://www.gatsbyjs.org/blog/2019-10-03-gatsby-perf/)
 - [Beyond Static: Building Dynamic Apps with Gatsby](https://www.gatsbyjs.org/blog/2018-10-15-beyond-static-intro/)
 - [Gatsby for Apps](https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/)
+- [Youfit uses Gatsby to increase lead generation by 60%](https://www.gatsbyjs.org/blog/2018-11-16-youfit-case-study/)
 
 #### Concepts / Articles 💡
 
@@ -719,6 +723,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [ImgBot](https://github.com/marketplace/imgbot)
 - [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 - [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance)
+- [Fast load times by web.dev](https://web.dev/fast)
+- [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b)
 
 ### Input / Throughput
 
@@ -796,6 +802,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Code Rot](https://henrikwarne.com/2017/04/28/code-rot/)
 - [Web Caching Explained by Buying Milk at the Supermarket](https://dev.to/kbk0125/web-caching-explained-by-buying-milk-at-the-supermarket-9k4)
 - [Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+- [Big-O Notation: Beginners Guide](https://dev.to/metcoder95/big-o-notation-beginners-guide-1h38)
+- [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
 
 ### Product insights
 
