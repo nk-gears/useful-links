@@ -37,6 +37,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Stackblitz](https://stackblitz.com/) - Online VS Code IDE for Modern Web Applications
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [VSCode Themes](https://vscodethemes.com/)
+- [Demoboard: a live editor with every package on NPM](https://frontarm.com/articles/announcing-demoboard/)
 
 ### Others
 
@@ -159,6 +160,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ### Grid
 
+- [Grid critters](http://www.gridcritters.com/) - Free course on grid
 - [CSS Grid Layout Interface](https://www.layoutit.com/grid)
 
 ### Animations
@@ -188,6 +190,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525) - Github issue
 - [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Versioning Policy](https://reactjs.org/docs/faq-versioning.html)
+- [React 16.x Roadmap](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html)
 
 ### Concepts / Articles 💡
 
@@ -207,6 +210,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Lazy-loading components in React 16.6](https://blog.logrocket.com/lazy-loading-components-in-react-16-6-6cea535c0b52?gi=6cc88f71d9d9)
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [A Simple Intro to React Hooks](https://daveceddia.com/intro-to-hooks/)
+- [Lazy loading (and preloading) components in React 16.6](https://medium.com/@pomber/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d)
 
 ### Related tools 🛠️
 
@@ -509,6 +513,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Imagemin-webpack-plugin](https://github.com/Klathmon/imagemin-webpack-plugin) - Plugin to compress images with imagemin
 - [Webpack-merge](https://github.com/survivejs/webpack-merge) - Merge designed for Webpack (MIT)
 - [Terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser plugin
+- [Static-site-generator-webpack-plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator powered by webpack
+- [Emoji-favicon-webpack-plugin](https://github.com/trevorblades/emoji-favicon-webpack-plugin) - Let webpack generate an emoji favicon for you
 
 ### Rollup
 
@@ -725,6 +731,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [CSS and Network Performance](https://csswizardry.com/2018/11/css-and-network-performance)
 - [Fast load times by web.dev](https://web.dev/fast)
 - [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b)
+- [Your Choice of Image formats for Websites and Web Apps](https://medium.com/swlh/your-choice-of-image-formats-for-websites-and-web-apps-73856e15305f)
+- [How to Load Multiple Google Fonts in One URL Request](https://shellcreeper.com/how-to-load-multiple-google-font-in-one-url-request/)
 
 ### Input / Throughput
 
