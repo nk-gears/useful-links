@@ -733,6 +733,11 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b)
 - [Your Choice of Image formats for Websites and Web Apps](https://medium.com/swlh/your-choice-of-image-formats-for-websites-and-web-apps-73856e15305f)
 - [How to Load Multiple Google Fonts in One URL Request](https://shellcreeper.com/how-to-load-multiple-google-font-in-one-url-request/)
+- [The Font Loading Checklist](https://www.zachleat.com/web/font-checklist/)
+- [ImageOptim](https://imageoptim.com/)
+- [Essential Image Optimization](https://images.guide/)
+- [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
+- [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 
 ### Input / Throughput
 
@@ -750,6 +755,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Introducing React Loadable](https://medium.com/@thejameskyle/react-loadable-2674c59de178)
 - [Perf-hoc](https://github.com/viktorbergehall/perf-hoc) - Visualize and detect unnecessary rendering and performance issues in React
 - [Performance tests between several styling libraries](http://necolas.github.io/react-native-web/benchmarks/)
+- [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
+- [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
 
 ### Progressive Web Apps
 
