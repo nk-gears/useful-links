@@ -84,6 +84,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Contrarian idea: JS doesn't move too fast](https://mobile.twitter.com/dceddia/status/1036807827547930624) - Twitter thread
 - [Asynchronous JS Cheatsheet](https://frontarm.com/async-cheatsheet.pdf)
 - [Property order is predictable in JavaScript objects since ES2015](https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/)
+- [This year in JavaScript: 2018 in review and npm’s predictions for 2019](https://blog.npmjs.org/post/180868064080/this-year-in-javascript-2018-in-review-and-npms)
 
 ### Useful libraries 💾
 
@@ -102,6 +103,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [React-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) - A cheatsheet for react users using typescript with react for the first (or nth!) time
 - [React-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform) - Convert React JavaScript code to TypeScript with proper typing
 - [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/)
+- [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 
 ## Reason
 
@@ -136,6 +138,7 @@ I have gathered this list of links over time, and it is made of resources I have
 ### SCSS
 
 - [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](https://gist.github.com/jareware/4738651)
+- [Linting SCSS files with settings for orders in logical chunks](https://gist.github.com/samuells/8915a1d32ac93f5c904893663f399218)
 
 ### CSS Modules
 
@@ -147,6 +150,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Stop using CSS in JavaScript for web development](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
 - [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
 - [Emotion](https://emotion.sh/) - The Next Generation of CSS-in-JS
+- [Announcing Emotion 10!](https://medium.com/emotion-js/announcing-emotion-10-f1a4b17b8ccd)
 
 ### JS-in-CSS (because why not)
 
@@ -359,6 +363,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Why GraphQL: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/)
 - [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 - [Building a GraphQL API by Example: Restaurant Reviews](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-acd80d60ec77)
+- [Lessons Learned Migrating APIs to GraphQL](https://mobile.twitter.com/swcarlosrj/status/1067288761585799169) - Twitter thread
 
 ### Related tools 🛠️
 
@@ -407,6 +412,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [React Native with Apollo — Part 2, Apollo Client](https://medium.com/react-native-training/react-native-with-apollo-part-2-apollo-client-8b4ad4915cf5#.wnfqtzsn6)
 - [Apollo Client - the stuff no-one ever told ya](http://slides.com/alexeykureev/apollo-stuff-no-one-told-ya-4#/)
 - [Why Apollo: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/)
+- [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2)
 
 #### Useful libraries 💾
 
@@ -533,6 +539,7 @@ I have gathered this list of links over time, and it is made of resources I have
 #### Concepts / Articles 💡
 
 - [ParcelJS: How simple really is it?](https://itnext.io/parceljs-how-simple-really-is-it-679a4feba69d?gi=12888863d7c7)
+- [Switching to Parcel from Webpack](https://logrocket.com/blog/switching-to-parcel-from-webpack/)
 
 ## No config tools
 
@@ -738,6 +745,12 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Essential Image Optimization](https://images.guide/)
 - [Lazy Loading Images and Video](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
 - [The Complete Guide to Lazy Loading Images](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
+- [Load Scripts in Your React Bundle Asynchronously](http://blog.theodo.fr/2017/07/load-scripts-react-bundle-asynchronously-win-seo/)
+- [Loading Third-Party JavaScript](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/)
+- [Modern Asynchronous CSS Loading](https://www.filamentgroup.com/lab/async-css.html)
+- [Async and defer, the difference](https://dev.to/thomasbnt/async-and-defer-the-difference-1542)
+- [Hard Costs of Third-Party Scripts](https://daverupert.com/2018/10/hard-costs-of-third-party-scripts/)
+- [How we reduced our initial JS/CSS size by 67%](https://dev.to/goenning/how-we-reduced-our-initial-jscss-size-by-67-3ac0)
 
 ### Input / Throughput
 
