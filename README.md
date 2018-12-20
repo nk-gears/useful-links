@@ -91,6 +91,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Tippy.js](https://atomiks.github.io/tippyjs/) - A highly customizable vanilla JS tooltip & popover library
 - [NProgress.js](http://ricostacruz.com/nprogress/) - A nanoscopic progress bar. With realistic trickle animations to tell your users that something's happening
 - [Guess.js](https://guess-js.github.io/) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
+- [Progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
 
 ## Node
 
@@ -364,6 +365,10 @@ I have gathered this list of links over time, and it is made of resources I have
 - [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 - [Building a GraphQL API by Example: Restaurant Reviews](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-acd80d60ec77)
 - [Lessons Learned Migrating APIs to GraphQL](https://mobile.twitter.com/swcarlosrj/status/1067288761585799169) - Twitter thread
+- [GraphQL Stitching 101](http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
+- [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
+- [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
+- [Lessons Learned Migrating APIs to GraphQL](https://medium.com/open-graphql/lessons-learned-migrating-apis-to-graphql-8a015d08b163)
 
 ### Related tools 🛠️
 
@@ -751,6 +756,9 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Async and defer, the difference](https://dev.to/thomasbnt/async-and-defer-the-difference-1542)
 - [Hard Costs of Third-Party Scripts](https://daverupert.com/2018/10/hard-costs-of-third-party-scripts/)
 - [How we reduced our initial JS/CSS size by 67%](https://dev.to/goenning/how-we-reduced-our-initial-jscss-size-by-67-3ac0)
+- [Polyfill as needed with polyfill-service](https://blog.kentcdodds.com/polyfill-as-needed-with-polyfill-service-35f0ff306a26)
+- [An introduction to HTTP/2 for SEOs](https://www.distilled.net/resources/an-introduction-to-http2-for-seos/)
+- [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 
 ### Input / Throughput
 
@@ -896,6 +904,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
 - [Awesome conference practices](https://github.com/kitze/awesome-conference-practices) - Did you like anything in particular about a conference? Let's make an awesome list
 - [Twitter thread about speaking in public](https://mobile.twitter.com/housecor/status/1023770060807200768)
+- [Things I recommend for submitting talk idea](https://mobile.twitter.com/kosamari/status/1071160884381261824) - Twitter thread
 
 ### Interviews
 
