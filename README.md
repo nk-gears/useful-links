@@ -92,6 +92,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [NProgress.js](http://ricostacruz.com/nprogress/) - A nanoscopic progress bar. With realistic trickle animations to tell your users that something's happening
 - [Guess.js](https://guess-js.github.io/) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [Progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
+- [Quicklink](https://github.com/GoogleChromeLabs/quicklink) - Faster subsequent page-loads by prefetching in-viewport links during idle time
 
 ## Node
 
@@ -369,6 +370,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 - [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 - [Lessons Learned Migrating APIs to GraphQL](https://medium.com/open-graphql/lessons-learned-migrating-apis-to-graphql-8a015d08b163)
+- [Generate Javascript static types from GraphQL: TypeScript and Flow](https://medium.com/graphql-mastery/generate-javascript-static-types-from-graphql-typescript-and-flow-4d28b46b8d13)
 
 ### Related tools 🛠️
 
@@ -376,6 +378,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Introducing GraphQL for Visual Studio Code](https://www.prisma.io/blog/vscode-thieghu7shoo/)
 - [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 - [DocQL](https://docql.io/) - Beautiful documentation & guides for your GraphQL APIs
+- [CoolQLCool](https://coolql.cool/) - Open source GraphQL server that allows you to turn websites into GraphQL APIs
 
 ### Relay vs Apollo
 
@@ -418,6 +421,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Apollo Client - the stuff no-one ever told ya](http://slides.com/alexeykureev/apollo-stuff-no-one-told-ya-4#/)
 - [Why Apollo: Advantages, Disadvantages & Alternatives](https://www.robinwieruch.de/why-apollo-advantages-disadvantages-alternatives/)
 - [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2)
+- [Automatically Generate TypeScript Definitions for GraphQL Queries with Apollo Codegen](https://medium.com/open-graphql/automatically-generate-typescript-definitions-for-graphql-queries-with-apollo-codegen-e73eae72b561)
+- [A new approach to mocking GraphQL data](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491)
 
 #### Useful libraries 💾
 
@@ -759,6 +764,9 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Polyfill as needed with polyfill-service](https://blog.kentcdodds.com/polyfill-as-needed-with-polyfill-service-35f0ff306a26)
 - [An introduction to HTTP/2 for SEOs](https://www.distilled.net/resources/an-introduction-to-http2-for-seos/)
 - [Reduce JavaScript Payloads with Tree Shaking](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
+- [Reduce JavaScript Payloads with Code Splitting](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/)
+- [Brotli compression delivered from AWS](https://medium.com/@felice.geracitano/brotli-compression-delivered-from-aws-7be5b467c2e1)
+- [AWS CloudFront Compression using Lambda@Edge - where is brotli?!](https://medium.com/@kazaz.or/aws-cloudfront-compression-using-lambda-edge-where-is-brotli-6d296f41f784)
 
 ### Input / Throughput
 
@@ -778,6 +786,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Performance tests between several styling libraries](http://necolas.github.io/react-native-web/benchmarks/)
 - [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
+- [Things that should not end up in production clientside code](https://mobile.twitter.com/henrikjoreteg/status/1032879748387459072) - Twitter thread
 
 ### Progressive Web Apps
 
@@ -851,6 +860,12 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Ever wonder why the most popular apps are starting to look the same? It might be a good thing](https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5)
 - [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
 - [What comes after product market fit?](https://www.youtube.com/watch?v=SaOeoCTJkXI&app=desktop) - Talk from Intercom co-founder at WebSummit 2018
+
+### Design Systems
+
+- [Living Design System](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7)
+- [Design tokens for dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
+- [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 
 ### Being a developer
 
