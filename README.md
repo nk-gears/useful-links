@@ -14,6 +14,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code
 - [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
 - [Terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images
+- [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine and create
 
 ### Productivity
 
@@ -85,6 +86,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Asynchronous JS Cheatsheet](https://frontarm.com/async-cheatsheet.pdf)
 - [Property order is predictable in JavaScript objects since ES2015](https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/)
 - [This year in JavaScript: 2018 in review and npm’s predictions for 2019](https://blog.npmjs.org/post/180868064080/this-year-in-javascript-2018-in-review-and-npms)
+- [You don't need MomentJS](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin
 
 ### Useful libraries 💾
 
@@ -93,6 +95,9 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Guess.js](https://guess-js.github.io/) - Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [Progress-estimator](https://github.com/bvaughn/progress-estimator) - Logs a progress bar and estimation for how long a Promise will take to complete
 - [Quicklink](https://github.com/GoogleChromeLabs/quicklink) - Faster subsequent page-loads by prefetching in-viewport links during idle time
+- [FBT](https://facebookincubator.github.io/fbt/) - An internationalization framework by Facebook
+- [Date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library
+- [Date-fns-tz](https://github.com/marnusw/date-fns-tz) - Complementary library for date-fns v2 adding IANA time zone support
 
 ## Node
 
@@ -106,6 +111,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [React-javascript-to-typescript-transform](https://github.com/lyft/react-javascript-to-typescript-transform) - Convert React JavaScript code to TypeScript with proper typing
 - [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/)
 - [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
+- [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html)
 
 ## Reason
 
@@ -153,6 +159,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
 - [Emotion](https://emotion.sh/) - The Next Generation of CSS-in-JS
 - [Announcing Emotion 10!](https://medium.com/emotion-js/announcing-emotion-10-f1a4b17b8ccd)
+- [Linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 
 ### JS-in-CSS (because why not)
 
@@ -423,6 +430,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2)
 - [Automatically Generate TypeScript Definitions for GraphQL Queries with Apollo Codegen](https://medium.com/open-graphql/automatically-generate-typescript-definitions-for-graphql-queries-with-apollo-codegen-e73eae72b561)
 - [A new approach to mocking GraphQL data](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491)
+- [Basics of Caching Data in GraphQL Apollo React client](https://levelup.gitconnected.com/basics-of-caching-data-in-graphql-7ce9489dac15?gi=b09e71c870ce)
 
 #### Useful libraries 💾
 
@@ -767,6 +775,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Reduce JavaScript Payloads with Code Splitting](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/)
 - [Brotli compression delivered from AWS](https://medium.com/@felice.geracitano/brotli-compression-delivered-from-aws-7be5b467c2e1)
 - [AWS CloudFront Compression using Lambda@Edge - where is brotli?!](https://medium.com/@kazaz.or/aws-cloudfront-compression-using-lambda-edge-where-is-brotli-6d296f41f784)
+- [To push, or not to push?!](https://noti.st/patrickhamann/y2sScd/to-push-or-not-to-push) - A journey of resource loading in the browser
 
 ### Input / Throughput
 
