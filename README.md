@@ -53,6 +53,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Git flight rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [Tell Me When it Closes](https://tellmewhenitcloses.com/) - Get emailed when an issue or PR closes
 - [GitHub Contributions Chart Generator](https://github-contributions.now.sh/)
+- [8 Productivity Tips for GitHub](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
 
 ## Package managers
 
@@ -291,6 +292,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Shipping React Native apps with Fastlane and Travis](https://dev.to/carloscuesta/shipping-react-native-apps-with-fastlane-and-travis-1aea)
 - [Progressive Image Loading in React Native](https://medium.com/react-native-training/progressive-image-loading-in-react-native-e7a01827feb7)
 - [Using SVG in Latest React Native Version 0.57](https://medium.com/@prathik_63905/using-svg-in-latest-react-native-version-0-57-e04aa8ea7dd8)
+- [Testing Mobile Applications Across Hundreds of Real Devices with Appium, Node.js & AWS Device Farm](https://medium.com/@dabit3/testing-mobile-applications-across-hundreds-of-real-devices-with-appium-node-js-aws-device-farm-b749aefd651a)
 
 ### Related tools 🛠️
 
@@ -776,6 +778,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Brotli compression delivered from AWS](https://medium.com/@felice.geracitano/brotli-compression-delivered-from-aws-7be5b467c2e1)
 - [AWS CloudFront Compression using Lambda@Edge - where is brotli?!](https://medium.com/@kazaz.or/aws-cloudfront-compression-using-lambda-edge-where-is-brotli-6d296f41f784)
 - [To push, or not to push?!](https://noti.st/patrickhamann/y2sScd/to-push-or-not-to-push) - A journey of resource loading in the browser
+- [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)
 
 ### Input / Throughput
 
@@ -811,6 +814,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [How To Think About Speed Tools](https://developers.google.com/web/fundamentals/performance/speed-tools/)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+- [Lighthouse-ci](https://github.com/ebidel/lighthouse-ci) - Run Lighthouse in CI using Docker
 - [Test My Site With Google](https://testmysite.withgoogle.com/)
 - [Winning on Mobile by Google](https://www.thinkwithgoogle.com/feature/mobile/)
 - [Google Mobile Optimisation Test](https://search.google.com/test/mobile-friendly)
