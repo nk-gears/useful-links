@@ -99,6 +99,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [FBT](https://facebookincubator.github.io/fbt/) - An internationalization framework by Facebook
 - [Date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library
 - [Date-fns-tz](https://github.com/marnusw/date-fns-tz) - Complementary library for date-fns v2 adding IANA time zone support
+- [PullToRefresh.js](https://www.boxfactura.com/pulltorefresh.js/) - A small, but powerful Javascript library crafted to power your webapp's pull to refresh feature
 
 ## Node
 
@@ -273,6 +274,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [Rehooks](https://rehooks.com/) - Collection of React Hooks
 - [React-rewards](https://github.com/thedevelobear/react-rewards) - Reward your users for little things and make them smile!
+- [React-content-loader](https://github.com/danilowoz/react-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
+- [React-table](https://github.com/react-tools/react-table) - A lightweight, fast and extendable datagrid for React
 
 ## React Native
 
@@ -380,6 +383,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 - [Lessons Learned Migrating APIs to GraphQL](https://medium.com/open-graphql/lessons-learned-migrating-apis-to-graphql-8a015d08b163)
 - [Generate Javascript static types from GraphQL: TypeScript and Flow](https://medium.com/graphql-mastery/generate-javascript-static-types-from-graphql-typescript-and-flow-4d28b46b8d13)
+- [Series of articles by Marc-André Giroux](https://medium.com/@__xuorig__)
 
 ### Related tools 🛠️
 
@@ -388,6 +392,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 - [DocQL](https://docql.io/) - Beautiful documentation & guides for your GraphQL APIs
 - [CoolQLCool](https://coolql.cool/) - Open source GraphQL server that allows you to turn websites into GraphQL APIs
+- [Graphql-Doctor](https://github.com/cap-collectif/graphql-doctor) - Prevent Breaking Changes in a GraphQL API with GitHub Checks
 
 ### Relay vs Apollo
 
@@ -799,6 +804,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 - [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/)
 - [Things that should not end up in production clientside code](https://mobile.twitter.com/henrikjoreteg/status/1032879748387459072) - Twitter thread
+- [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+- [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
 
 ### Progressive Web Apps
 
