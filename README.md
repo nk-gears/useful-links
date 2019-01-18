@@ -296,6 +296,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Progressive Image Loading in React Native](https://medium.com/react-native-training/progressive-image-loading-in-react-native-e7a01827feb7)
 - [Using SVG in Latest React Native Version 0.57](https://medium.com/@prathik_63905/using-svg-in-latest-react-native-version-0-57-e04aa8ea7dd8)
 - [Testing Mobile Applications Across Hundreds of Real Devices with Appium, Node.js & AWS Device Farm](https://medium.com/@dabit3/testing-mobile-applications-across-hundreds-of-real-devices-with-appium-node-js-aws-device-farm-b749aefd651a)
+- [React Native's new architecture - Glossary of terms](http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html?m=1)
 
 ### Related tools 🛠️
 
@@ -315,6 +316,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 - [Litho](https://fblitho.com/) - A declarative UI framework for Android
 - [ComponentKit](https://componentkit.org/) - A React-Inspired View Framework for iOS
+- [Shard](https://shardlib.com/) - Dynamic alerts in mobile apps
 
 ## Forms
 
@@ -481,6 +483,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 - [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser
 - [We're officially out of beta!](https://www.cypress.io/blog/2018/09/20/cypress-is-officially-out-of-beta/)
+- [Visual testing for Cypress](https://go.percy.io/visual-testing/cypress)
 
 ### Sizzy
 
@@ -546,6 +549,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Terser-webpack-plugin](https://github.com/webpack-contrib/terser-webpack-plugin) - Terser plugin
 - [Static-site-generator-webpack-plugin](https://github.com/markdalgleish/static-site-generator-webpack-plugin) - Minimal, unopinionated static site generator powered by webpack
 - [Emoji-favicon-webpack-plugin](https://github.com/trevorblades/emoji-favicon-webpack-plugin) - Let webpack generate an emoji favicon for you
+- [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 
 ### Rollup
 
@@ -842,6 +846,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 - [SEO Checker](https://suite.seotesteronline.com/seo-checker)
 - [Hey Meta](http://www.heymeta.com/) - Quickly check & build your meta tags
+- [Checkbot](https://www.checkbot.io/) - Find broken links, duplicate titles, insecure pages, invalid HTML/CSS/JS & more
 
 ## Security
 
@@ -851,6 +856,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Third party CSS is not safe](https://jakearchibald.com/2018/third-party-css-is-not-safe/)
 - [Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
 - [ScottHelme.uk](https://scotthelme.co.uk/) - Blog about web security
+- [Security checklist](https://securitycheckli.st/) - Be safe on the internet
 
 ### Benchmarks 💯
 
@@ -869,6 +875,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Falsehoods programmers believe about time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 - [Big-O Notation: Beginners Guide](https://dev.to/metcoder95/big-o-notation-beginners-guide-1h38)
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
+- [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/)
 
 ### Product insights
 
