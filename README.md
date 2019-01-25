@@ -226,6 +226,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 - [A Simple Intro to React Hooks](https://daveceddia.com/intro-to-hooks/)
 - [Lazy loading (and preloading) components in React 16.6](https://medium.com/@pomber/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d)
+- [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
 
 ### Related tools 🛠️
 
@@ -841,6 +842,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Step Your Meta Game Up](https://dev.to/rpalo/step-your-meta-game-up)
 - [How To Use H1-H6 HTML Elements Properly](https://www.hobo-web.co.uk/headers/)
 - [ContentKing Academy](https://www.contentkingapp.com/academy/)
+- [The Definitive Guide To SEO In 2019](https://backlinko.com/seo-this-year)
 
 ### Benchmarks 💯
 
@@ -893,6 +895,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Living Design System](https://medium.com/salesforce-ux/living-design-system-3ab1f2280ef7)
 - [Design tokens for dummies](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
 - [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
+- [What is a Design System?](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
+- [Welcome to Design Systems](https://www.designsystems.com/)
 
 ### Being a developer
 
