@@ -15,6 +15,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Fontstorage](https://fontstorage.com/) - Collection of free fonts for your websites
 - [Terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images
 - [unDraw](https://undraw.co/) - Open-source illustrations for every project you can imagine and create
+- [Emoji-as-a-service](https://emoji.veryfunparty.com/) - Service that returns a high-res, predictable emoji image for a given URL
 
 ### Productivity
 
@@ -114,6 +115,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [TypeScript and Babel 7](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/)
 - [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 - [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html)
+- [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b) - A Cost vs Benefit Analysis
 
 ## Reason
 
@@ -270,13 +272,18 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy
 - [React-lazyload](https://github.com/jasonslyvia/react-lazyload) - Lazy load your component, image or anything matters the performance
 - [React-waypoint](https://github.com/brigade/react-waypoint) - A React component to execute a function whenever you scroll to an element
+- [React-rewards](https://github.com/thedevelobear/react-rewards) - Reward your users for little things and make them smile!
+- [React-content-loader](https://github.com/danilowoz/react-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
+- [React-table](https://github.com/react-tools/react-table) - A lightweight, fast and extendable datagrid for React
+
+### Hooks
+
 - [The-platform](https://github.com/palmerhq/the-platform) - Web API's turned into React Hooks and Suspense-friendly React components
 - [Hooks.guide](https://www.hooks.guide/)
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [Rehooks](https://rehooks.com/) - Collection of React Hooks
-- [React-rewards](https://github.com/thedevelobear/react-rewards) - Reward your users for little things and make them smile!
-- [React-content-loader](https://github.com/danilowoz/react-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
-- [React-table](https://github.com/react-tools/react-table) - A lightweight, fast and extendable datagrid for React
+- [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes
+- [React-use-local-storage](https://github.com/illinois/react-use-local-storage) - React hook that persists and syncs state with local storage
 
 ## React Native
 
@@ -387,6 +394,9 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Lessons Learned Migrating APIs to GraphQL](https://medium.com/open-graphql/lessons-learned-migrating-apis-to-graphql-8a015d08b163)
 - [Generate Javascript static types from GraphQL: TypeScript and Flow](https://medium.com/graphql-mastery/generate-javascript-static-types-from-graphql-typescript-and-flow-4d28b46b8d13)
 - [Series of articles by Marc-André Giroux](https://medium.com/@__xuorig__)
+- [Sofa — The best way to REST (is GraphQL)](https://medium.com/the-guild/sofa-the-best-way-to-rest-is-graphql-d9da6e8e7693)
+- [The Problems of "Schema-First" GraphQL Server Development](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
+- [Principled GraphQL](https://principledgraphql.com/)
 
 ### Related tools 🛠️
 
@@ -396,6 +406,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [DocQL](https://docql.io/) - Beautiful documentation & guides for your GraphQL APIs
 - [CoolQLCool](https://coolql.cool/) - Open source GraphQL server that allows you to turn websites into GraphQL APIs
 - [Graphql-Doctor](https://github.com/cap-collectif/graphql-doctor) - Prevent Breaking Changes in a GraphQL API with GitHub Checks
+- [GraphQL Nexus](https://nexus.js.org/) - Declarative, Code-First GraphQL Schemas for JavaScript/TypeScript
 
 ### Relay vs Apollo
 
@@ -477,6 +488,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Jest-codemods](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest
 - [React-fake-props](https://github.com/typicode/react-fake-props) - Automatically generate fake props for your React tests (Jest, Enzyme, ...)
 - [Jest-watch-master](https://github.com/rickhanlonii/jest-watch-master) - Jest watch plugin for checking changes since master
+- [Jest-in-case](https://github.com/atlassian/jest-in-case) - Jest utility for creating variations of the same test
 
 ### Cypress
 
@@ -591,6 +603,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Server Rendering - Redux](http://redux.js.org/docs/recipes/ServerRendering.html)
 - [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 - [What’s Server Side Rendering and do I need it?](https://medium.com/@baphemot/whats-server-side-rendering-and-do-i-need-it-cb42dc059b38)
+- [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 
 ### Boilerplates
 
@@ -859,6 +872,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Here's Why Your Static Website Needs HTTPS](https://www.troyhunt.com/heres-why-your-static-website-needs-https/)
 - [ScottHelme.uk](https://scotthelme.co.uk/) - Blog about web security
 - [Security checklist](https://securitycheckli.st/) - Be safe on the internet
+- [Microsoft security chief: IE is not a browser, so stop using it as your default](https://www.zdnet.com/article/microsoft-security-chief-ie-is-not-a-browser-so-stop-using-it-as-your-default/)
 
 ### Benchmarks 💯
 
@@ -878,6 +892,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Big-O Notation: Beginners Guide](https://dev.to/metcoder95/big-o-notation-beginners-guide-1h38)
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
 - [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/)
+- [STAR Apps: A New Generation of Front-End Tooling for Development Workflows](https://css-tricks.com/star-apps-a-new-generation-of-front-end-tooling-for-development-workflows/)
 
 ### Product insights
 
@@ -889,6 +904,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Ever wonder why the most popular apps are starting to look the same? It might be a good thing](https://uxdesign.cc/ever-wonder-why-the-most-popular-apps-are-starting-to-look-the-same-it-might-be-a-good-thing-e54aadd50fd5)
 - [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
 - [What comes after product market fit?](https://www.youtube.com/watch?v=SaOeoCTJkXI&app=desktop) - Talk from Intercom co-founder at WebSummit 2018
+- [The 8-second rule in UX](https://uxdesign.cc/the-8-second-rule-ef2a60c5813c)
 
 ### Design Systems
 
@@ -897,6 +913,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Tokens in Design Systems](https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421)
 - [What is a Design System?](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
 - [Welcome to Design Systems](https://www.designsystems.com/)
+- [Zeroheight](https://zeroheight.com/) - Document your design system, together
 
 ### Being a developer
 
