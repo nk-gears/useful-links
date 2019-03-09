@@ -305,6 +305,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Using SVG in Latest React Native Version 0.57](https://medium.com/@prathik_63905/using-svg-in-latest-react-native-version-0-57-e04aa8ea7dd8)
 - [Testing Mobile Applications Across Hundreds of Real Devices with Appium, Node.js & AWS Device Farm](https://medium.com/@dabit3/testing-mobile-applications-across-hundreds-of-real-devices-with-appium-node-js-aws-device-farm-b749aefd651a)
 - [React Native's new architecture - Glossary of terms](http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html?m=1)
+- [You can now use Expo APIs in any React Native app](https://blog.expo.io/you-can-now-use-expo-apis-in-any-react-native-app-7c3a93041331)
 
 ### Related tools 🛠️
 
@@ -405,8 +406,9 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema
 - [DocQL](https://docql.io/) - Beautiful documentation & guides for your GraphQL APIs
 - [CoolQLCool](https://coolql.cool/) - Open source GraphQL server that allows you to turn websites into GraphQL APIs
-- [Graphql-Doctor](https://github.com/cap-collectif/graphql-doctor) - Prevent Breaking Changes in a GraphQL API with GitHub Checks
+- [Graphql-doctor](https://github.com/cap-collectif/graphql-doctor) - Prevent Breaking Changes in a GraphQL API with GitHub Checks
 - [GraphQL Nexus](https://nexus.js.org/) - Declarative, Code-First GraphQL Schemas for JavaScript/TypeScript
+- [GraphQL Code Generator](https://graphql-code-generator.com/) - Generate code from your GraphQL schema with a single function call
 
 ### Relay vs Apollo
 
@@ -441,6 +443,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Introducing @defer in Apollo Server](https://blog.apollographql.com/introducing-defer-in-apollo-server-f6797c4e9d6e?gi=a5bebab9591)
 - [Batching Client GraphQL Queries](https://blog.apollographql.com/batching-client-graphql-queries-a685f5bcd41b)
 - [Introducing the Apollo GraphQL Platform](https://blog.apollographql.com/introducing-the-apollo-graphql-platform-8ef34bb269e5)
+- [Announcing Apollo Client 2.5](https://blog.apollographql.com/announcing-apollo-client-2-5-c12230cabbb7)
 
 #### Concepts / Articles 💡
 
@@ -503,6 +506,18 @@ I have gathered this list of links over time, and it is made of resources I have
 #### Documentation / News 📚
 
 - [Sizzy](http://sizzy.co/) - Test your website on different device sizes at once
+
+### Chroma
+
+#### Documentation / News 📚
+
+- [Chroma](https://blog.hichroma.com/?gi=cd867eb8a58d) - Component-Driven Development
+
+### Stryker
+
+####
+
+- [Stryker](https://stryker-mutator.io/) - Test your tests with mutation testing
 
 ## Transpilers and optimizers
 
@@ -738,7 +753,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Mdx-deck docs](https://github.com/jxnblk/mdx-deck)
 - [Code-surfer](https://github.com/pomber/code-surfer) - React component for scrolling, zooming and highlighting code
 
-## Performances
+## Performance
 
 - [Front-end-checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
 
@@ -824,6 +839,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Things that should not end up in production clientside code](https://mobile.twitter.com/henrikjoreteg/status/1032879748387459072) - Twitter thread
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
+- [Progressive React](https://houssein.me/progressive-react) - Want to make your React site more performant? Here's a quick checklist
 
 ### Progressive Web Apps
 
@@ -914,6 +930,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [What is a Design System?](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
 - [Welcome to Design Systems](https://www.designsystems.com/)
 - [Zeroheight](https://zeroheight.com/) - Document your design system, together
+- [Awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - A collection of awesome design systems
+- [Accessibility, a powerful design tool](https://slack.design/accessibility-a-powerful-design-tool-22f5e6d46278)
 
 ### Being a developer
 
@@ -948,6 +966,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 - [Why (I think) "Cost of Living" pay for remote workers is BS](https://dev.to/sam_ferree/why-i-think-cost-of-living-pay-for-remote-workers-is-bs-5b68)
 - [Tips for a successful switch to a standing desk](https://dev.to/jerodsanto/tips-for-a-successful-switch-to-a-standing-desk-4p8o)
+- [Taking the Pain Out of Video Conferences](https://shift.infinite.red/taking-the-pain-out-of-video-conferences-7b7abe822b36?gi=8368d504d7fd)
 
 ### Communicating
 
