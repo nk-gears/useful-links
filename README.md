@@ -89,6 +89,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Property order is predictable in JavaScript objects since ES2015](https://www.stefanjudis.com/today-i-learned/property-order-is-predictable-in-javascript-objects-since-es2015/)
 - [This year in JavaScript: 2018 in review and npm’s predictions for 2019](https://blog.npmjs.org/post/180868064080/this-year-in-javascript-2018-in-review-and-npms)
 - [You don't need MomentJS](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin
+- [The shortest way to conditional insert properties into an object literal](https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7)
+- [Awesome one-liners you might find useful while coding](https://mobile.twitter.com/coderitual/status/1112297299307384833)
 
 ### Useful libraries 💾
 
@@ -229,6 +231,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [A Simple Intro to React Hooks](https://daveceddia.com/intro-to-hooks/)
 - [Lazy loading (and preloading) components in React 16.6](https://medium.com/@pomber/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d)
 - [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+- [The Fault in Our Tolerance: Accounting for Failures in React](https://aweary.dev/fault-tolerance-react/)
 
 ### Related tools 🛠️
 
@@ -284,6 +287,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Rehooks](https://rehooks.com/) - Collection of React Hooks
 - [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes
 - [React-use-local-storage](https://github.com/illinois/react-use-local-storage) - React hook that persists and syncs state with local storage
+- [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
 ## React Native
 
@@ -306,12 +310,15 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Testing Mobile Applications Across Hundreds of Real Devices with Appium, Node.js & AWS Device Farm](https://medium.com/@dabit3/testing-mobile-applications-across-hundreds-of-real-devices-with-appium-node-js-aws-device-farm-b749aefd651a)
 - [React Native's new architecture - Glossary of terms](http://blog.nparashuram.com/2019/01/react-natives-new-architecture-glossary.html?m=1)
 - [You can now use Expo APIs in any React Native app](https://blog.expo.io/you-can-now-use-expo-apis-in-any-react-native-app-7c3a93041331)
+- [How to convince your boss to use React Native](http://frantic.im/how-to-convince-your-boss-to-use-react-native)
+- [The New React Native Architecture Explained](https://formidable.com/blog/2019/react-codegen-part-1/)
 
 ### Related tools 🛠️
 
 - [Create-react-native-app](https://github.com/react-community/create-react-native-app) - Create a React Native app on any OS with no build config
 - [Open-sourcing Sonar, a new extensible debugging tool](https://code.facebook.com/posts/1461914677288302/open-sourcing-sonar-a-new-extensible-debugging-tool/)
 - [Sonar](https://github.com/facebook/Sonar) - A desktop debugging platform for mobile developers
+- [RN diff purge](https://pvinis.github.io/purge-web/) - Upgrade your React Native apps (and get diffs between versions)
 
 ### Useful libraries 💾
 
@@ -444,6 +451,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Batching Client GraphQL Queries](https://blog.apollographql.com/batching-client-graphql-queries-a685f5bcd41b)
 - [Introducing the Apollo GraphQL Platform](https://blog.apollographql.com/introducing-the-apollo-graphql-platform-8ef34bb269e5)
 - [Announcing Apollo Client 2.5](https://blog.apollographql.com/announcing-apollo-client-2-5-c12230cabbb7)
+- [A new Apollo docs experience](https://blog.apollographql.com/a-new-apollo-docs-experience-5645b9d56260)
 
 #### Concepts / Articles 💡
 
@@ -728,8 +736,17 @@ I have gathered this list of links over time, and it is made of resources I have
 
 ## Styleguide generators
 
-- [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
-- [Storybook](https://storybook.js.org/) - The UI development environment you'll love to use
+### Styleguidist
+
+- [React Styleguidist docs](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide
+
+### Storybook
+
+- [Storybook docs](https://storybook.js.org/) - The UI development environment you'll love to use
+- [React Native + Storybook = ❤️](https://medium.com/@erinfoox/react-native-storybook-%EF%B8%8F-f22fa8676333)
+
+### Others
+
 - [Playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library
 
 ## Documentation generators
@@ -849,6 +866,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [A React And Preact Progressive Web App Performance Case Study: Treebo](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [Progressive Web App with Webpack](https://dev.to/remejuan/progressive-web-app-with-webpack-87p)
+- [Why Progressive Web Apps Should Be Your Business Choice Over a Native App](https://love2dev.com/pwa/progressive-web-app-vs-native/)
 
 ### Benchmarks 💯
 
@@ -872,6 +890,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [How To Use H1-H6 HTML Elements Properly](https://www.hobo-web.co.uk/headers/)
 - [ContentKing Academy](https://www.contentkingapp.com/academy/)
 - [The Definitive Guide To SEO In 2019](https://backlinko.com/seo-this-year)
+- [SEO component for structured data](https://mobile.twitter.com/signalnerve/status/1098691569362849799)
 
 ### Benchmarks 💯
 
@@ -1008,6 +1027,10 @@ I have gathered this list of links over time, and it is made of resources I have
 
 - [FRENCH - 5 raisons de rejoindre une startup très early stage](https://www.welcometothejungle.co/articles/cinq-raisons-de-rejoindre-une-startup-early-stage)
 - [FRENCH - Pourquoi nous sommes 100% transparents sur les salaires de nos employés](https://www.maddyness.com/finance/2017/06/25/maddyrex-pourquoi-grille-salaire-ouverte/)
+
+### Others
+
+- [How to Get Rich (without getting lucky)](https://mobile.twitter.com/naval/status/1002103360646823936) - Twitter thread
 
 ## Job hunting / Freelance (mainly for french people)
 
