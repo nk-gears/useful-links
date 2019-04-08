@@ -405,6 +405,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Sofa — The best way to REST (is GraphQL)](https://medium.com/the-guild/sofa-the-best-way-to-rest-is-graphql-d9da6e8e7693)
 - [The Problems of "Schema-First" GraphQL Server Development](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
 - [Principled GraphQL](https://principledgraphql.com/)
+- [The rise of GraphQL “Overambitious API gateways”](https://medium.com/@__xuorig__/the-rise-of-graphql-overambitious-api-gateways-2c6f054e80a1)
 
 ### Related tools 🛠️
 
@@ -966,6 +967,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [What fonts do you use in your editor(s)?](https://dev.to/jess/what-fonts-do-you-use-in-your-editors)
 - [Why Being Too Polite in Web Design Is a Bad Thing](http://ianfrostweather.com/web/why-being-too-polite-in-web-design-is-a-bad-thing/)
 - [Cheat to Win: Learn React with Copywork](https://daveceddia.com/learn-react-with-copywork/)
+- [AHA Programming](https://kentcdodds.com/blog/aha-programming)
 
 ### Leadership / Teaching
 
