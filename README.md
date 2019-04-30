@@ -104,6 +104,10 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Date-fns-tz](https://github.com/marnusw/date-fns-tz) - Complementary library for date-fns v2 adding IANA time zone support
 - [PullToRefresh.js](https://www.boxfactura.com/pulltorefresh.js/) - A small, but powerful Javascript library crafted to power your webapp's pull to refresh feature
 
+### Eslint
+
+- [Eslint-plugin-import-helpers](https://github.com/Tibfib/eslint-plugin-import-helpers) - ESLint plugin to help with imports
+
 ## Node
 
 - [Node best practices](https://github.com/i0natan/nodebestpractices) - The largest Node.JS best practices list. Curated from the top ranked articles and always updated
@@ -118,6 +122,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 - [Understanding TypeScript’s type notation](http://2ality.com/2018/04/type-notation-typescript.html)
 - [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b) - A Cost vs Benefit Analysis
+- [Typedoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects
+- [New ESLint / TypeScript Configuration](https://calendee.com/2019/04/12/new-eslint-typescript-configuration/)
 
 ## Reason
 
@@ -406,6 +412,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [The Problems of "Schema-First" GraphQL Server Development](https://www.prisma.io/blog/the-problems-of-schema-first-graphql-development-x1mn4cb0tyl3)
 - [Principled GraphQL](https://principledgraphql.com/)
 - [The rise of GraphQL “Overambitious API gateways”](https://medium.com/@__xuorig__/the-rise-of-graphql-overambitious-api-gateways-2c6f054e80a1)
+- [The tension between data & use-case driven GraphQL APIs](https://medium.com/@__xuorig__/the-tension-between-data-use-case-driven-graphql-apis-8f982198653b)
 
 ### Related tools 🛠️
 
@@ -655,6 +662,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Beyond Static: Building Dynamic Apps with Gatsby](https://www.gatsbyjs.org/blog/2018-10-15-beyond-static-intro/)
 - [Gatsby for Apps](https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/)
 - [Youfit uses Gatsby to increase lead generation by 60%](https://www.gatsbyjs.org/blog/2018-11-16-youfit-case-study/)
+- [How to Talk about Gatsby to Clients and Your Team](https://www.gatsbyjs.org/blog/2019-03-07-sell-gatsby-to-clients/)
+- [Gatsby: Why We Write](https://www.gatsbyjs.org/blog/2019-04-19-gatsby-why-we-write/)
 
 #### Concepts / Articles 💡
 
@@ -835,6 +844,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [AWS CloudFront Compression using Lambda@Edge - where is brotli?!](https://medium.com/@kazaz.or/aws-cloudfront-compression-using-lambda-edge-where-is-brotli-6d296f41f784)
 - [To push, or not to push?!](https://noti.st/patrickhamann/y2sScd/to-push-or-not-to-push) - A journey of resource loading in the browser
 - [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)
+- [Inline SVG... Cached](https://css-tricks.com/inline-svg-cached/)
+- [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
 
 ### Input / Throughput
 
@@ -941,6 +952,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Your Body Text Is Too Small](https://blog.marvelapp.com/body-text-small/)
 - [What comes after product market fit?](https://www.youtube.com/watch?v=SaOeoCTJkXI&app=desktop) - Talk from Intercom co-founder at WebSummit 2018
 - [The 8-second rule in UX](https://uxdesign.cc/the-8-second-rule-ef2a60c5813c)
+- [7 UX Quick Wins from Airbnb](https://medium.com/women-make/7-ux-quick-wins-from-airbnb-8e483ea71954)
 
 ### Design Systems
 
