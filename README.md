@@ -91,6 +91,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [You don't need MomentJS](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of date-fns or native functions which you can use to replace moment.js + ESLint Plugin
 - [The shortest way to conditional insert properties into an object literal](https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7)
 - [Awesome one-liners you might find useful while coding](https://mobile.twitter.com/coderitual/status/1112297299307384833)
+- [The FaceTime Bug and the Dangers of Implicit State Machines](https://medium.com/@DavidKPiano/the-facetime-bug-and-the-dangers-of-implicit-state-machines-a5f0f61bdaa2)
 
 ### Useful libraries 💾
 
@@ -154,6 +155,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Managing Complex Waiting Experiences on Web UIs](https://medium.com/@fkadev/managing-complex-waiting-experiences-on-web-uis-29534d2d92a8)
 - [How to force restart any iOS device with just CSS?](https://mobile.twitter.com/pwnsdx/status/1040944750973595649) - Twitter thread
 - [Keys to maintainable CSS: Order](https://pyx.space/post/keys-to-maintainable-css-order)
+- [4 reasons your z-index isn’t working (and how to fix it)](https://medium.freecodecamp.org/4-reasons-your-z-index-isnt-working-and-how-to-fix-it-coder-coder-6bc05f103e6c)
 
 ### SCSS
 
@@ -216,6 +218,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Versioning Policy](https://reactjs.org/docs/faq-versioning.html)
 - [React 16.x Roadmap](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html)
+- [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)
 
 ### Concepts / Articles 💡
 
@@ -238,6 +241,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Lazy loading (and preloading) components in React 16.6](https://medium.com/@pomber/lazy-loading-and-preloading-components-in-react-16-6-804de091c82d)
 - [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
 - [The Fault in Our Tolerance: Accounting for Failures in React](https://aweary.dev/fault-tolerance-react/)
+- [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
+- [How to optimize your context value](https://kentcdodds.com/blog/how-to-optimize-your-context-value)
 
 ### Related tools 🛠️
 
@@ -331,6 +336,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Babel-plugin-functional-hmr](https://github.com/bvic23/babel-plugin-functional-hmr) - Babel plugin enables HMR for functional components in React Native
 - [React-native-sideswipe](https://github.com/kkemple/react-native-sideswipe) - Simple React Native carousel with sensible defaults
 - [React-native-testing-library](https://github.com/callstack/react-native-testing-library) - Simple React Native testing utilities helping you write better tests with less effort
+- [React-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component
 
 ## Native Mobile Development
 
@@ -964,6 +970,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Zeroheight](https://zeroheight.com/) - Document your design system, together
 - [Awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - A collection of awesome design systems
 - [Accessibility, a powerful design tool](https://slack.design/accessibility-a-powerful-design-tool-22f5e6d46278)
+- [Design System in Figma](https://designcode.io/design-system-in-figma)
+- [Introducing Base Web, Uber’s New Design System for Building Websites in React](https://eng.uber.com/introducing-base-web/)
 
 ### Being a developer
 
