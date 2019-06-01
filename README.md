@@ -243,6 +243,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [The Fault in Our Tolerance: Accounting for Failures in React](https://aweary.dev/fault-tolerance-react/)
 - [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 - [How to optimize your context value](https://kentcdodds.com/blog/how-to-optimize-your-context-value)
+- [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications/)
+- [The Future of React Router and @reach/router](https://reacttraining.com/blog/reach-react-router-future/)
 
 ### Related tools 🛠️
 
@@ -466,6 +468,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Introducing the Apollo GraphQL Platform](https://blog.apollographql.com/introducing-the-apollo-graphql-platform-8ef34bb269e5)
 - [Announcing Apollo Client 2.5](https://blog.apollographql.com/announcing-apollo-client-2-5-c12230cabbb7)
 - [A new Apollo docs experience](https://blog.apollographql.com/a-new-apollo-docs-experience-5645b9d56260)
+- [Apollo Federation](https://blog.apollographql.com/apollo-federation-f260cf525d21)
 
 #### Concepts / Articles 💡
 
@@ -641,6 +644,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [What’s New With Server-Side Rendering in React 16](https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)
 - [What’s Server Side Rendering and do I need it?](https://medium.com/@baphemot/whats-server-side-rendering-and-do-i-need-it-cb42dc059b38)
 - [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
+- [Server-Rendering Responsively](https://artsy.github.io/blog/2019/05/24/server-rendering-responsively/)
 
 ### Boilerplates
 
@@ -852,6 +856,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Can You Afford It?: Real-world Web Performance Budgets](https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/)
 - [Inline SVG... Cached](https://css-tricks.com/inline-svg-cached/)
 - [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
+- [Improving third-party web performance at The Telegraph](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5)
 
 ### Input / Throughput
 
@@ -946,6 +951,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
 - [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/)
 - [STAR Apps: A New Generation of Front-End Tooling for Development Workflows](https://css-tricks.com/star-apps-a-new-generation-of-front-end-tooling-for-development-workflows/)
+- [Too DRY - The Grep Test](http://jamie-wong.com/2013/07/12/grep-test/)
+- [Avoid the Test User](https://kentcdodds.com/blog/avoid-the-test-user/)
 
 ### Product insights
 
