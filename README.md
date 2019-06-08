@@ -421,6 +421,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Principled GraphQL](https://principledgraphql.com/)
 - [The rise of GraphQL “Overambitious API gateways”](https://medium.com/@__xuorig__/the-rise-of-graphql-overambitious-api-gateways-2c6f054e80a1)
 - [The tension between data & use-case driven GraphQL APIs](https://medium.com/@__xuorig__/the-tension-between-data-use-case-driven-graphql-apis-8f982198653b)
+- [A year of large scale GraphQL - the biggest takeaways](https://dev.to/peternycander/a-year-of-large-scale-graphql-the-biggest-takeaways-3d5n)
 
 ### Related tools 🛠️
 
@@ -857,6 +858,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Inline SVG... Cached](https://css-tricks.com/inline-svg-cached/)
 - [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
 - [Improving third-party web performance at The Telegraph](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5)
+- [Extract critical CSS](https://web.dev/extract-critical-css?authuser=1)
 
 ### Input / Throughput
 
@@ -880,6 +882,11 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
 - [Progressive React](https://houssein.me/progressive-react) - Want to make your React site more performant? Here's a quick checklist
+- [Are long JavaScript tasks delaying your Time to Interactive?](https://web.dev/long-tasks-devtools/?authuser=1)
+
+### Accessibility
+
+- [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 
 ### Progressive Web Apps
 
