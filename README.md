@@ -92,6 +92,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [The shortest way to conditional insert properties into an object literal](https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7)
 - [Awesome one-liners you might find useful while coding](https://mobile.twitter.com/coderitual/status/1112297299307384833)
 - [The FaceTime Bug and the Dangers of Implicit State Machines](https://medium.com/@DavidKPiano/the-facetime-bug-and-the-dangers-of-implicit-state-machines-a5f0f61bdaa2)
+- [Applying a timeout to your promises](https://italonascimento.github.io/applying-a-timeout-to-your-promises/)
 
 ### Useful libraries 💾
 
@@ -245,6 +246,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [How to optimize your context value](https://kentcdodds.com/blog/how-to-optimize-your-context-value)
 - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications/)
 - [The Future of React Router and @reach/router](https://reacttraining.com/blog/reach-react-router-future/)
+- [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
 
 ### Related tools 🛠️
 
@@ -325,6 +327,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [You can now use Expo APIs in any React Native app](https://blog.expo.io/you-can-now-use-expo-apis-in-any-react-native-app-7c3a93041331)
 - [How to convince your boss to use React Native](http://frantic.im/how-to-convince-your-boss-to-use-react-native)
 - [The New React Native Architecture Explained](https://formidable.com/blog/2019/react-codegen-part-1/)
+- [React Native Performance: Do and Don't](https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a)
 
 ### Related tools 🛠️
 
@@ -422,6 +425,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [The rise of GraphQL “Overambitious API gateways”](https://medium.com/@__xuorig__/the-rise-of-graphql-overambitious-api-gateways-2c6f054e80a1)
 - [The tension between data & use-case driven GraphQL APIs](https://medium.com/@__xuorig__/the-tension-between-data-use-case-driven-graphql-apis-8f982198653b)
 - [A year of large scale GraphQL - the biggest takeaways](https://dev.to/peternycander/a-year-of-large-scale-graphql-the-biggest-takeaways-3d5n)
+- [GraphQL & Caching: The Elephant in the Room](https://medium.com/@__xuorig__/graphql-caching-the-elephant-in-the-room-11a3df0c23ad)
 
 ### Related tools 🛠️
 
@@ -433,6 +437,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Graphql-doctor](https://github.com/cap-collectif/graphql-doctor) - Prevent Breaking Changes in a GraphQL API with GitHub Checks
 - [GraphQL Nexus](https://nexus.js.org/) - Declarative, Code-First GraphQL Schemas for JavaScript/TypeScript
 - [GraphQL Code Generator](https://graphql-code-generator.com/) - Generate code from your GraphQL schema with a single function call
+- [Gest](https://github.com/mfix22/gest) - A sensible GraphQL testing tool - test your GraphQL schema locally and in the cloud
 
 ### Relay vs Apollo
 
@@ -470,6 +475,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Announcing Apollo Client 2.5](https://blog.apollographql.com/announcing-apollo-client-2-5-c12230cabbb7)
 - [A new Apollo docs experience](https://blog.apollographql.com/a-new-apollo-docs-experience-5645b9d56260)
 - [Apollo Federation](https://blog.apollographql.com/apollo-federation-f260cf525d21)
+- [What’s new in Apollo Client 2.6](https://blog.apollographql.com/whats-new-in-apollo-client-2-6-b3acf28ecad1)
 
 #### Concepts / Articles 💡
 
@@ -960,6 +966,8 @@ I have gathered this list of links over time, and it is made of resources I have
 - [STAR Apps: A New Generation of Front-End Tooling for Development Workflows](https://css-tricks.com/star-apps-a-new-generation-of-front-end-tooling-for-development-workflows/)
 - [Too DRY - The Grep Test](http://jamie-wong.com/2013/07/12/grep-test/)
 - [Avoid the Test User](https://kentcdodds.com/blog/avoid-the-test-user/)
+- [Is High Quality Software Worth the Cost?](https://martinfowler.com/articles/is-quality-worth-cost.html)
+- [Colocation](https://kentcdodds.com/blog/colocation/)
 
 ### Product insights
 
@@ -973,6 +981,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [What comes after product market fit?](https://www.youtube.com/watch?v=SaOeoCTJkXI&app=desktop) - Talk from Intercom co-founder at WebSummit 2018
 - [The 8-second rule in UX](https://uxdesign.cc/the-8-second-rule-ef2a60c5813c)
 - [7 UX Quick Wins from Airbnb](https://medium.com/women-make/7-ux-quick-wins-from-airbnb-8e483ea71954)
+- [How we prioritize features at Brigad — The SIEVE checklist](https://engineering.brigad.co/how-we-prioritize-features-at-brigad-the-sieve-checklist-de8c2b18d12a)
 
 ### Design Systems
 
