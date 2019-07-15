@@ -21,6 +21,7 @@ I have gathered this list of links over time, and it is made of resources I have
 
 - [A Soft Murmur](http://asoftmurmur.com/) - Ambient sounds to wash away distraction
 - [Quick terminal tip](https://dev.to/voter101/quick-terminal-tip-1can)
+- [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac
 
 ### Mock APIs
 
@@ -247,6 +248,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Authentication in React Applications](https://kentcdodds.com/blog/authentication-in-react-applications/)
 - [The Future of React Router and @reach/router](https://reacttraining.com/blog/reach-react-router-future/)
 - [When to useMemo and useCallback](https://kentcdodds.com/blog/usememo-and-usecallback)
+- [One simple trick to optimize React re-renders](https://kentcdodds.com/blog/optimize-react-re-renders)
 
 ### Related tools 🛠️
 
@@ -311,6 +313,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html)
 - [State of React Native 2018](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
 - [Open Source Roadmap](http://facebook.github.io/react-native/blog/2018/11/01/oss-roadmap)
+- [Hermes: An open source JavaScript engine optimized for mobile apps, starting with React Native](https://code.fb.com/android/hermes/)
 
 ### Concepts / Articles 💡
 
@@ -426,6 +429,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [The tension between data & use-case driven GraphQL APIs](https://medium.com/@__xuorig__/the-tension-between-data-use-case-driven-graphql-apis-8f982198653b)
 - [A year of large scale GraphQL - the biggest takeaways](https://dev.to/peternycander/a-year-of-large-scale-graphql-the-biggest-takeaways-3d5n)
 - [GraphQL & Caching: The Elephant in the Room](https://medium.com/@__xuorig__/graphql-caching-the-elephant-in-the-room-11a3df0c23ad)
+- [GraphQL API Design Pitfall ](https://mobile.twitter.com/__xuorig__/status/1146073879540064256) - Twitter thread
 
 ### Related tools 🛠️
 
@@ -1021,6 +1025,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Managers and Seagulls](https://retrospective.co/seagulls/)
 - ["Solidifying what you learn"](https://dev.to/kentcdodds/solidifying-what-you-learn-lgi)
+- [How I Teach](https://kentcdodds.com/blog/how-i-teach)
 
 ### OSS
 
