@@ -94,6 +94,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Awesome one-liners you might find useful while coding](https://mobile.twitter.com/coderitual/status/1112297299307384833)
 - [The FaceTime Bug and the Dangers of Implicit State Machines](https://medium.com/@DavidKPiano/the-facetime-bug-and-the-dangers-of-implicit-state-machines-a5f0f61bdaa2)
 - [Applying a timeout to your promises](https://italonascimento.github.io/applying-a-timeout-to-your-promises/)
+- [Is postMessage slow?](https://dassur.ma/things/is-postmessage-slow/)
 
 ### Useful libraries 💾
 
@@ -176,6 +177,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Emotion](https://emotion.sh/) - The Next Generation of CSS-in-JS
 - [Announcing Emotion 10!](https://medium.com/emotion-js/announcing-emotion-10-f1a4b17b8ccd)
 - [Linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
+- [Treat](https://seek-oss.github.io/treat/) - Themeable, statically extracted CSS‑in‑JS with near‑zero runtime
 
 ### JS-in-CSS (because why not)
 
@@ -295,6 +297,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [React-rewards](https://github.com/thedevelobear/react-rewards) - Reward your users for little things and make them smile!
 - [React-content-loader](https://github.com/danilowoz/react-content-loader) - SVG component to create placeholder loading, like Facebook cards loading
 - [React-table](https://github.com/react-tools/react-table) - A lightweight, fast and extendable datagrid for React
+- [React-chaos](https://github.com/jchiatt/react-chaos) - Chaos Engineering for your React apps
 
 ### Hooks
 
@@ -430,6 +433,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [A year of large scale GraphQL - the biggest takeaways](https://dev.to/peternycander/a-year-of-large-scale-graphql-the-biggest-takeaways-3d5n)
 - [GraphQL & Caching: The Elephant in the Room](https://medium.com/@__xuorig__/graphql-caching-the-elephant-in-the-room-11a3df0c23ad)
 - [GraphQL API Design Pitfall ](https://mobile.twitter.com/__xuorig__/status/1146073879540064256) - Twitter thread
+- [The GraphQL Dataloader Pattern: Visualized](https://medium.com/@__xuorig__/the-graphql-dataloader-pattern-visualized-3064a00f319f)
 
 ### Related tools 🛠️
 
@@ -480,6 +484,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [A new Apollo docs experience](https://blog.apollographql.com/a-new-apollo-docs-experience-5645b9d56260)
 - [Apollo Federation](https://blog.apollographql.com/apollo-federation-f260cf525d21)
 - [What’s new in Apollo Client 2.6](https://blog.apollographql.com/whats-new-in-apollo-client-2-6-b3acf28ecad1)
+- [Announcing managed federation](https://blog.apollographql.com/announcing-managed-federation-265c9f0bc88e)
 
 #### Concepts / Articles 💡
 
@@ -986,6 +991,10 @@ I have gathered this list of links over time, and it is made of resources I have
 - [The 8-second rule in UX](https://uxdesign.cc/the-8-second-rule-ef2a60c5813c)
 - [7 UX Quick Wins from Airbnb](https://medium.com/women-make/7-ux-quick-wins-from-airbnb-8e483ea71954)
 - [How we prioritize features at Brigad — The SIEVE checklist](https://engineering.brigad.co/how-we-prioritize-features-at-brigad-the-sieve-checklist-de8c2b18d12a)
+- [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
+- [Foundations to build on: Intercom’s principles for building product](https://www.intercom.com/blog/intercom-product-principles/)
+- [When a rewrite isn’t: rebuilding Slack on the desktop](https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 
 ### Design Systems
 
@@ -999,6 +1008,7 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Accessibility, a powerful design tool](https://slack.design/accessibility-a-powerful-design-tool-22f5e6d46278)
 - [Design System in Figma](https://designcode.io/design-system-in-figma)
 - [Introducing Base Web, Uber’s New Design System for Building Websites in React](https://eng.uber.com/introducing-base-web/)
+- [Everything you need to know about Design Systems](https://medium.com/ideas-by-idean/everything-you-need-to-know-about-design-systems-f6e82982be27)
 
 ### Being a developer
 
@@ -1026,6 +1036,10 @@ I have gathered this list of links over time, and it is made of resources I have
 - [Managers and Seagulls](https://retrospective.co/seagulls/)
 - ["Solidifying what you learn"](https://dev.to/kentcdodds/solidifying-what-you-learn-lgi)
 - [How I Teach](https://kentcdodds.com/blog/how-i-teach)
+
+### Management
+
+- [How do you manage underperforming team members?](https://mobile.twitter.com/jamonholmgren/status/1153435334299885569) - Twitter thread
 
 ### OSS
 
